@@ -1,0 +1,508 @@
+[
+  {
+    "id": 2071605,
+    "name": "2119 Quincy",
+    "description": "Office/Warehouse",
+    "thumbnailUrl": "https://images.crexi.com/assets/2071605/f2eaf6889ea6467594717fd40f6f02a0_716x444.jpg",
+    "urlSlug": "texas-2119-quincy",
+    "brokerTeamLogoUrl": "https://images.crexi.com/brokers/80390/37210036974e448e921b61592c165c17_150x100_resize.jpg",
+    "brokerageName": "Stewart-Rose Properties",
+    "activatedOn": "2025-07-30T19:21:21.144Z",
+    "isInOpportunityZone": false,
+    "hasVideo": false,
+    "numberOfGalleryItems": 5,
+    "squareFootage": 8744,
+    "showCountdownAsDate": false,
+    "userIsAssetOwner": false,
+    "updatedOn": "2025-07-30T19:22:14.896Z",
+    "numberOfImages": 5,
+    "types": [
+      "Industrial"
+    ],
+    "hasOM": false,
+    "hasFlyer": true,
+    "status": "On-Market",
+    "hasVirtualTour": false,
+    "locations": [
+      {
+        "address": "2119 Quincy St.",
+        "city": "Dallas",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "75212",
+        "latitude": 32.7701244,
+        "longitude": -96.9183559,
+        "fullAddress": "2119 Quincy St., Dallas, TX 75212"
+      }
+    ],
+    "isNew": true
+  },
+  {
+    "id": 2071572,
+    "name": "140 Industrial Blvd, Sugar Land, TX",
+    "description": "For Sale: 47,291 SF Dock-High Distribution Office / Warehouse",
+    "thumbnailUrl": "https://images.crexi.com/assets/2071572/32fee26d2a344b6dba92f63d83cd5f98_716x444.jpg",
+    "urlSlug": "texas-140-industrial-blvd-sugar-land-tx",
+    "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/12686/b9216cce86394fbd8e73bdcfa0bc9705_150x100_resize.jpg",
+    "brokerageName": "Partners",
+    "activatedOn": "2025-07-30T19:02:08.305Z",
+    "isInOpportunityZone": false,
+    "hasVideo": false,
+    "numberOfGalleryItems": 10,
+    "squareFootage": 47291,
+    "showCountdownAsDate": false,
+    "userIsAssetOwner": false,
+    "updatedOn": "2025-07-30T19:02:08.305Z",
+    "numberOfImages": 10,
+    "types": [
+      "Industrial"
+    ],
+    "hasOM": false,
+    "hasFlyer": true,
+    "status": "On-Market",
+    "hasVirtualTour": false,
+    "locations": [
+      {
+        "address": "140 Industrial Blvd",
+        "city": "Sugar Land",
+        "county": "Fort Bend County",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "77478",
+        "latitude": 29.628199798675446,
+        "longitude": -95.60354488241106,
+        "fullAddress": "140 Industrial Blvd, Sugar Land, Fort Bend County, TX 77478"
+      }
+    ],
+    "isNew": true
+  },
+  {
+    "id": 1925175,
+    "name": "902 North Twin Creek",
+    "description": "Industrial | 30,000 SqFt",
+    "thumbnailUrl": "https://images.crexi.com/assets/1925175/3b39aae35af94e28af471ccd4ac3dcbb_716x444.jpg",
+    "urlSlug": "texas-902-north-twin-creek",
+    "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/98177/66aa5c4e61914ceea031193546755e76_150x100_resize.jpg",
+    "brokerageName": "Cushman & Wakefield - Austin, Texas",
+    "activatedOn": "2025-07-30T18:42:54.366Z",
+    "isInOpportunityZone": false,
+    "hasVideo": false,
+    "numberOfGalleryItems": 8,
+    "squareFootage": 30000,
+    "showCountdownAsDate": false,
+    "userIsAssetOwner": false,
+    "updatedOn": "2025-07-30T18:42:54.366Z",
+    "numberOfImages": 8,
+    "types": [
+      "Industrial"
+    ],
+    "hasOM": true,
+    "hasFlyer": false,
+    "status": "On-Market",
+    "hasVirtualTour": false,
+    "locations": [
+      {
+        "address": "902 N Twin Creek Dr",
+        "city": "Killeen",
+        "county": "Bell County",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "76543",
+        "latitude": 31.1116118,
+        "longitude": -97.683215,
+        "fullAddress": "902 N Twin Creek Dr, Killeen, Bell County, TX 76543"
+      }
+    ],
+    "isNew": true
+  },
+  {
+    "id": 2071436,
+    "name": "Alamo, TX Industrial",
+    "description": "Industrial",
+    "thumbnailUrl": "https://images.crexi.com/assets/2071436/b8144b52686248cd875d0de90dd5edf7_716x444.jpg",
+    "urlSlug": "texas-alamo-tx-industrial",
+    "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/85052/a8bdde3d9ffd4d569fbace35f1cc57f0_150x100_resize.jpg",
+    "brokerageName": "Coldwell Banker Commercial - RGV",
+    "activatedOn": "2025-07-30T17:10:57.321Z",
+    "isInOpportunityZone": false,
+    "hasVideo": false,
+    "numberOfGalleryItems": 4,
+    "showCountdownAsDate": false,
+    "userIsAssetOwner": false,
+    "updatedOn": "2025-07-30T17:10:57.322Z",
+    "numberOfImages": 4,
+    "types": [
+      "Industrial"
+    ],
+    "hasOM": false,
+    "hasFlyer": true,
+    "status": "On-Market",
+    "hasVirtualTour": false,
+    "locations": [
+      {
+        "address": "240 E Frontage Rd",
+        "city": "Alamo",
+        "county": "Hidalgo County",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "78516",
+        "latitude": 26.188585821308564,
+        "longitude": -98.10081656845398,
+        "fullAddress": "240 E Frontage Rd, Alamo, Hidalgo County, TX 78516"
+      }
+    ],
+    "isNew": true
+  },
+  {
+    "id": 2071396,
+    "name": "8612 Seminary Rd",
+    "description": "Industrial | 435,600 SqFt",
+    "thumbnailUrl": "https://images.crexi.com/assets/2071396/c8f00be8a35147929f3168f78d34f6b3_716x444.jpg",
+    "urlSlug": "texas-8612-seminary-rd",
+    "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/125127/f2c9468b62a94b188854d8c721536fa4_150x100_resize.jpg",
+    "brokerageName": "Keller Williams Realty RGV",
+    "activatedOn": "2025-07-30T16:51:09.443Z",
+    "isInOpportunityZone": false,
+    "hasVideo": false,
+    "numberOfGalleryItems": 6,
+    "squareFootage": 435600,
+    "pricePerAcreLand": "$230,000/Acre",
+    "showCountdownAsDate": false,
+    "askingPrice": 2600000.0,
+    "userIsAssetOwner": false,
+    "updatedOn": "2025-07-30T16:51:09.443Z",
+    "numberOfImages": 6,
+    "types": [
+      "Industrial"
+    ],
+    "investmentType": "Owner/User",
+    "hasOM": false,
+    "hasFlyer": true,
+    "status": "On-Market",
+    "hasVirtualTour": false,
+    "locations": [
+      {
+        "address": "8612 Seminary Rd",
+        "city": "Edinburg",
+        "county": "Hidalgo",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "78541",
+        "latitude": 26.390064,
+        "longitude": -98.1597139,
+        "fullAddress": "8612 Seminary Rd, Edinburg, Hidalgo, TX 78541"
+      }
+    ],
+    "isNew": true
+  },
+  {
+    "id": 2071336,
+    "name": "512 NE 2nd",
+    "description": "Industrial | 15,110 SqFt",
+    "thumbnailUrl": "https://images.crexi.com/assets/2071336/3692321321d64f20aa43fa033f257c6b_716x444.jpg",
+    "urlSlug": "texas-512-ne-2nd",
+    "brokerTeamLogoUrl": "https://images.crexi.com/brokers/54142/a66ef7f058b64ddb9d453c3eb454651b_150x100_resize.jpg",
+    "brokerageName": "FIMC Commercial Realty",
+    "activatedOn": "2025-07-30T15:42:29.615Z",
+    "isInOpportunityZone": false,
+    "hasVideo": false,
+    "numberOfGalleryItems": 38,
+    "squareFootage": 15110,
+    "showCountdownAsDate": false,
+    "askingPrice": 1135000.0,
+    "userIsAssetOwner": false,
+    "updatedOn": "2025-07-30T15:43:09.189Z",
+    "numberOfImages": 38,
+    "types": [
+      "Industrial"
+    ],
+    "investmentType": "Owner/User",
+    "hasOM": true,
+    "hasFlyer": false,
+    "status": "On-Market",
+    "hasVirtualTour": false,
+    "locations": [
+      {
+        "address": "512 NE 2nd Ave",
+        "city": "Amarillo",
+        "county": "Potter County",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "79107",
+        "latitude": 35.21406989215199,
+        "longitude": -101.82922195049316,
+        "fullAddress": "512 NE 2nd Ave, Amarillo, Potter County, TX 79107"
+      }
+    ],
+    "isNew": true
+  },
+  {
+    "id": 2071344,
+    "name": "4 Industrial Buildings on \u00b17.66 Acres",
+    "description": "4 Industrial Buildings on \u00b17.66 Acres",
+    "thumbnailUrl": "https://images.crexi.com/assets/2071344/75e273e7836349f7a902ea951ae53e58_716x444.jpg",
+    "urlSlug": "texas-4-industrial-buildings-on-766-acres",
+    "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/25364/0674e22e11ea45ce879ea03017d8e1f1_150x100_resize.jpg",
+    "brokerageName": "NRG Realty Group",
+    "activatedOn": "2025-07-30T15:38:55.457Z",
+    "isInOpportunityZone": false,
+    "hasVideo": false,
+    "numberOfGalleryItems": 12,
+    "squareFootage": 21100,
+    "showCountdownAsDate": false,
+    "askingPrice": 2637500.0,
+    "userIsAssetOwner": false,
+    "updatedOn": "2025-07-30T15:40:05.534Z",
+    "numberOfImages": 12,
+    "types": [
+      "Industrial"
+    ],
+    "investmentType": "Owner/User",
+    "hasOM": false,
+    "hasFlyer": true,
+    "status": "On-Market",
+    "hasVirtualTour": false,
+    "locations": [
+      {
+        "address": "335 S County Rd W",
+        "city": "Odessa",
+        "county": "Ector County",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "79763",
+        "latitude": 31.83100507787568,
+        "longitude": -102.38616545899927,
+        "fullAddress": "335 S County Rd W, Odessa, Ector County, TX 79763"
+      }
+    ],
+    "isNew": true
+  },
+  {
+    "id": 2070776,
+    "name": "12604 Haynes Rd, Building 1 & 2",
+    "description": "Office | 17,850 SqFt",
+    "thumbnailUrl": "https://images.crexi.com/assets/2070776/eb05775ceff841569a49156334875583_716x444.jpg",
+    "urlSlug": "texas-12604-haynes-rd-building-1-2",
+    "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/14643/cf79df9a9bc74afaadfd7d12cb905695_150x100_resize.jpg",
+    "brokerageName": "Lee & Associates - Houston",
+    "activatedOn": "2025-07-30T14:33:57.555Z",
+    "isInOpportunityZone": false,
+    "hasVideo": false,
+    "numberOfGalleryItems": 7,
+    "squareFootage": 17850,
+    "showCountdownAsDate": false,
+    "userIsAssetOwner": false,
+    "updatedOn": "2025-07-30T14:36:25.606Z",
+    "numberOfImages": 7,
+    "types": [
+      "Office",
+      "Industrial",
+      "Land"
+    ],
+    "investmentType": "Owner/User",
+    "hasOM": false,
+    "hasFlyer": true,
+    "status": "On-Market",
+    "hasVirtualTour": false,
+    "locations": [
+      {
+        "address": "12604 Haynes Rd Building 1 & 2",
+        "city": "Houston",
+        "county": "Harris County",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "77066",
+        "latitude": 29.9661399,
+        "longitude": -95.5262687,
+        "fullAddress": "12604 Haynes Rd Building 1 & 2, Houston, Harris County, TX 77066"
+      }
+    ],
+    "isNew": true
+  },
+  {
+    "id": 2071267,
+    "name": "Legacy Range Business Park",
+    "description": "Industrial",
+    "thumbnailUrl": "https://images.crexi.com/assets/2071267/2c7c959edcfc4e0c933261eafa801b34_716x444.jpg",
+    "urlSlug": "texas-legacy-range-business-park",
+    "activatedOn": "2025-07-30T14:23:31.969Z",
+    "isInOpportunityZone": false,
+    "hasVideo": false,
+    "numberOfGalleryItems": 4,
+    "showCountdownAsDate": false,
+    "userIsAssetOwner": false,
+    "updatedOn": "2025-07-30T14:24:16.633Z",
+    "numberOfImages": 4,
+    "types": [
+      "Industrial"
+    ],
+    "hasOM": false,
+    "hasFlyer": true,
+    "status": "On-Market",
+    "hasVirtualTour": false,
+    "locations": [
+      {
+        "address": "3201 116th St",
+        "city": "Lubbock",
+        "county": "Lubbock County",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "79423",
+        "latitude": 33.4883057,
+        "longitude": -101.8826907,
+        "fullAddress": "3201 116th St, Lubbock, Lubbock County, TX 79423"
+      }
+    ],
+    "isNew": true
+  },
+  {
+    "id": 2069795,
+    "name": "7145 Lawndale St",
+    "description": "Retail | 16,785 SqFt",
+    "thumbnailUrl": "https://images.crexi.com/assets/2069795/135ea6fd8a3c4b0895e4c1b0e2da073b_716x444.jpg",
+    "urlSlug": "texas-7145-lawndale-st",
+    "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/37691/bb7acb0d83f0414b8b43acbb172623ef_150x100_resize.jpg",
+    "brokerageName": "KW Commercial Memorial",
+    "activatedOn": "2025-07-30T13:43:35.539Z",
+    "isInOpportunityZone": false,
+    "hasVideo": false,
+    "numberOfGalleryItems": 21,
+    "squareFootage": 16785,
+    "showCountdownAsDate": false,
+    "askingPrice": 2750000.0,
+    "userIsAssetOwner": false,
+    "updatedOn": "2025-07-30T13:43:35.539Z",
+    "numberOfImages": 21,
+    "types": [
+      "Retail",
+      "Multifamily",
+      "Office",
+      "Industrial"
+    ],
+    "investmentType": "Owner/User",
+    "hasOM": false,
+    "hasFlyer": true,
+    "status": "On-Market",
+    "hasVirtualTour": false,
+    "locations": [
+      {
+        "address": "7145 Lawndale St",
+        "city": "Houston",
+        "county": "Harris County",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "77023",
+        "latitude": 29.7175023,
+        "longitude": -95.2918338,
+        "fullAddress": "7145 Lawndale St, Houston, Harris County, TX 77023"
+      }
+    ],
+    "isNew": true
+  },
+  {
+    "id": 2071102,
+    "name": "8398 S IH 35",
+    "description": "Industrial | 10,500 SqFt",
+    "thumbnailUrl": "https://images.crexi.com/assets/2071102/7fadf0eac78440569473641c4937c1de_716x444.jpg",
+    "urlSlug": "texas-8398-s-ih-35",
+    "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/116784/2eaf6b4ab3684748965933ac30f5a009_150x100_resize.jpg",
+    "brokerageName": "Coldwell Banker Commercial Apex, Realtors",
+    "activatedOn": "2025-07-30T10:11:16.469Z",
+    "isInOpportunityZone": false,
+    "hasVideo": false,
+    "numberOfGalleryItems": 7,
+    "squareFootage": 10500,
+    "showCountdownAsDate": false,
+    "askingPrice": 1350000.0,
+    "userIsAssetOwner": false,
+    "updatedOn": "2025-07-30T19:03:16.677Z",
+    "numberOfImages": 7,
+    "types": [
+      "Industrial",
+      "Land"
+    ],
+    "hasOM": false,
+    "hasFlyer": true,
+    "status": "On-Market",
+    "hasVirtualTour": false,
+    "locations": [
+      {
+        "address": "8398 S IH 35",
+        "city": "Belton",
+        "county": "Bell County",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "76513",
+        "latitude": 31.06773525172162,
+        "longitude": -97.50264887589532,
+        "fullAddress": "8398 S IH 35, Belton, Bell County, TX 76513"
+      }
+    ],
+    "isNew": true
+  },
+  {
+    "id": 2070829,
+    "name": "Hurst Office/Shop Flex Property Allowing Outside Storage",
+    "description": "Hurst Office/Shop Flex Property",
+    "thumbnailUrl": "https://images.crexi.com/assets/2070829/e43c29d6177d4013be292733917aab61_716x444.jpg",
+    "urlSlug": "texas-hurst-officeshop-flex-property-allowing-outside-storage",
+    "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/13081/c237a4e0c28843d2ba3f83a1af883b59_150x100_resize.jpg",
+    "brokerageName": "SVN | Trinity Advisors",
+    "activatedOn": "2025-07-30T01:57:48.176Z",
+    "isInOpportunityZone": false,
+    "hasVideo": false,
+    "numberOfGalleryItems": 3,
+    "squareFootage": 5243,
+    "showCountdownAsDate": false,
+    "askingPrice": 1395000.0,
+    "userIsAssetOwner": false,
+    "updatedOn": "2025-07-30T02:01:19.446Z",
+    "numberOfImages": 3,
+    "types": [
+      "Industrial"
+    ],
+    "investmentType": "Owner/User",
+    "hasOM": false,
+    "hasFlyer": true,
+    "status": "On-Market",
+    "hasVirtualTour": false,
+    "locations": [
+      {
+        "address": "124 Brown Trail",
+        "city": "Hurst",
+        "county": "Tarrant County",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "76053",
+        "latitude": 32.811067947991184,
+        "longitude": -97.16893191269364,
+        "fullAddress": "124 Brown Trail, Hurst, Tarrant County, TX 76053"
+      }
+    ],
+    "isNew": true
+  }
+]

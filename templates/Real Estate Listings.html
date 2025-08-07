@@ -1,0 +1,641 @@
+<!DOCTYPE html>
+<!-- saved from url=(0022)http://localhost:5000/ -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Real Estate Listings</title>
+    <script src="./Real Estate Listings_files/chart.min.js.download"></script>
+    <link href="./Real Estate Listings_files/css2" rel="stylesheet">
+    <style>
+        * { 
+            margin: 0; 
+            padding: 0; 
+            box-sizing: border-box; 
+        }
+        
+        body { 
+            font-family: 'Cascadia Code', 'Cascadia Mono', 'Consolas', 'Monaco', monospace; 
+            background: #000000; 
+            color: #00ff00; 
+            padding: 1rem; 
+            line-height: 1.2;
+            font-size: 14px;
+        }
+        
+        .container { 
+            max-width: 1200px; 
+            margin: 0 auto; 
+        }
+        
+        h1 { 
+            text-align: left; 
+            margin-bottom: 2rem; 
+            color: #00ff00; 
+            font-weight: 400; 
+            font-size: 16px; 
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            border-bottom: 1px solid #00ff00;
+            padding-bottom: 0.5rem;
+        }
+        
+        .properties { 
+            display: grid; 
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); 
+            gap: 1rem; 
+        }
+        
+        .property-card { 
+            background: #000000; 
+            border: 1px solid #00ff00; 
+            padding: 1rem;
+            font-size: 12px;
+        }
+        
+        .property-card:hover {
+            background: #001100;
+        }
+        
+        .property-image { 
+            width: 100%; 
+            height: 150px; 
+            object-fit: cover; 
+            border: 1px solid #00ff00;
+            margin-bottom: 1rem;
+            filter: brightness(0.7) contrast(1.2) hue-rotate(90deg);
+        }
+        
+        .property-name { 
+            font-size: 14px; 
+            font-weight: 400; 
+            color: #00ff00; 
+            margin-bottom: 0.5rem; 
+            text-transform: uppercase;
+        }
+        
+        .property-description { 
+            color: #00ff00; 
+            margin-bottom: 1rem; 
+            font-size: 11px;
+            opacity: 0.8;
+        }
+        
+        .property-details { 
+            margin-bottom: 1rem; 
+            font-size: 11px;
+        }
+        
+        .property-type { 
+            color: #00ff00; 
+            text-transform: uppercase;
+            display: inline-block;
+            margin-bottom: 0.5rem;
+        }
+        
+        .property-sqft { 
+            color: #00ff00; 
+            display: block;
+        }
+        
+        .property-location { 
+            color: #00ff00; 
+            font-size: 11px; 
+            margin-bottom: 1rem; 
+            opacity: 0.8;
+        }
+        
+        .property-price {
+            font-size: 16px; 
+            font-weight: 400; 
+            color: #00ff00; 
+            margin-bottom: 0.5rem;
+        }
+        
+        .property-footer { 
+            border-top: 1px solid #00ff00;
+            padding-top: 0.5rem;
+            font-size: 10px;
+        }
+        
+        .broker-info { 
+            display: flex; 
+            align-items: center; 
+            gap: 0.5rem; 
+        }
+        
+        .broker-logo { 
+            width: 20px; 
+            height: 20px; 
+            object-fit: cover; 
+            border: 1px solid #00ff00;
+        }
+        
+        .broker-name { 
+            font-size: 10px; 
+            color: #00ff00; 
+            text-transform: uppercase;
+        }
+        
+        .new-badge { 
+            color: #00ff00; 
+            font-size: 10px; 
+            text-transform: uppercase;
+            float: right;
+        }
+        
+        .property-activated {
+            font-size: 10px; 
+            color: #00ff00; 
+            margin-bottom: 1rem;
+            opacity: 0.6;
+        }
+        
+        .blog-section {
+            margin-top: 3rem;
+            border-top: 1px solid #00ff00;
+            padding-top: 2rem;
+        }
+        
+        .blog-section > div {
+            background: #000000; 
+            border: 1px solid #00ff00;
+            padding: 2rem; 
+            max-width: none; 
+            margin: 0;
+        }
+        
+        .blog-section h2 {
+            color: #00ff00; 
+            font-weight: 400; 
+            font-size: 16px; 
+            margin-bottom: 1rem; 
+            text-transform: uppercase;
+            letter-spacing: 2px;
+        }
+        
+        .blog-section p {
+            margin-bottom: 1rem;
+            color: #00ff00;
+            font-size: 12px;
+            line-height: 1.4;
+        }
+        
+        .analytics-section {
+            margin-top: 3rem;
+            border-top: 1px solid #00ff00;
+            padding-top: 2rem;
+        }
+        
+        .analytics-section h2 {
+            color: #00ff00; 
+            font-weight: 400; 
+            font-size: 16px;
+            margin-bottom: 2rem;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+        }
+        
+        .analytics-grid { 
+            display: grid; 
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); 
+            gap: 1rem; 
+        }
+        
+        .chart-container { 
+            background: #000000; 
+            padding: 1rem; 
+            border: 1px solid #00ff00;
+        }
+        
+        .chart-title { 
+            font-size: 12px; 
+            font-weight: 400; 
+            color: #00ff00; 
+            margin-bottom: 1rem; 
+            text-transform: uppercase;
+        }
+        
+        /* Remove all animations and effects */
+        *, *::before, *::after {
+            animation: none !important;
+            transition: none !important;
+            text-shadow: none !important;
+            box-shadow: none !important;
+        }
+        
+        /* Minimal scrollbar */
+        ::-webkit-scrollbar {
+            width: 8px;
+        }
+        
+        ::-webkit-scrollbar-track {
+            background: #000000;
+        }
+        
+        ::-webkit-scrollbar-thumb {
+            background: #00ff00;
+        }
+        
+        /* Remove all decorative elements */
+        .property-card::before,
+        .chart-container::before,
+        body::before {
+            display: none;
+        }
+        
+        .property-name::before,
+        .property-location::before,
+        .property-activated::before,
+        .property-price::before,
+        .blog-section h2::before,
+        .analytics-section h2::before,
+        .chart-title::before,
+        h1::before {
+            display: none;
+        }
+        
+        /* Simplified hover state */
+        .property-card:hover {
+            background: #001100;
+        }
+        
+        /* Remove all fancy borders and effects */
+        .property-card {
+            border: 1px solid #00ff00;
+            background: #000000;
+        }
+        
+        /* Update date styling */
+        .update-date {
+            font-size: 10px;
+            color: #00ff00;
+            opacity: 0.6;
+            margin-bottom: 1rem;
+        }
+    </style>
+<style>undefined</style><link rel="preconnect" href="https://fonts.googleapis.com/" crossorigin="use-credentials"><link rel="preconnect" href="https://fonts.gstatic.com/"><link rel="stylesheet" href="./Real Estate Listings_files/css2(1)"></head>
+<body>
+    <div class="container">
+        <h1>REAL ESTATE LISTINGS SYSTEM</h1>
+        <div class="properties">
+            
+            <div class="property-card">
+                <img src="./Real Estate Listings_files/6e0c288686be4cb5a1129ad24fe339e2_716x444.jpg" alt="6455 Cunninham Rd" class="property-image" loading="lazy" onerror="this.src=&#39;data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzAwIiBoZWlnaHQ9IjE1MCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSIjMDAwMDAwIiBzdHJva2U9IiMwMGZmMDAiIHN0cm9rZS13aWR0aD0iMSIvPjx0ZXh0IHg9IjUwJSIgeT0iNTAlIiBmb250LWZhbWlseT0iQ2FzY2FkaWEgQ29kZSwgbW9ub3NwYWNlIiBmb250LXNpemU9IjEyIiBmaWxsPSIjMDBmZjAwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBkeT0iLjNlbSI+Tk8gSU1BR0U8L3RleHQ+PC9zdmc+&#39;">
+                <div class="property-content">
+                    <div class="property-name">6455 Cunninham Rd</div>
+                    <div class="property-description">Prime Commercial Property, unlock endless Possibilities.</div>
+                    <div class="property-details">
+                        <div class="property-type">Industrial</div>
+                        <div class="property-sqft">22,608 SQ FT</div>
+                    </div>
+                    <div class="property-price">
+                        
+                            
+                                $Owner/User
+                            
+                        
+                    </div>
+                    <div class="property-location">6455 Cunningham Rd, Houston, Harris County, TX 77041</div>
+                    <div class="property-activated">
+                        LISTED: 07/31/25 20:42
+                    </div>
+                    <div class="property-footer">
+                        <div class="broker-info">
+                            <img src="./Real Estate Listings_files/None" alt="Nan and Company Properties" class="broker-logo" onerror="this.style.display=&#39;none&#39;" style="display: none;">
+                            <span class="broker-name">Nan and Company Properties</span>
+                        </div>
+                        
+                        <span class="new-badge">NEW</span>
+                        
+                    </div>
+                </div>
+            </div>
+            
+            <div class="property-card">
+                <img src="./Real Estate Listings_files/6fa70f265ba1408e8be2528ecb1e61f1_716x444.jpg" alt="383 Fm 970, Florence, TX 76527, Williamson County" class="property-image" loading="lazy" onerror="this.src=&#39;data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzAwIiBoZWlnaHQ9IjE1MCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSIjMDAwMDAwIiBzdHJva2U9IiMwMGZmMDAiIHN0cm9rZS13aWR0aD0iMSIvPjx0ZXh0IHg9IjUwJSIgeT0iNTAlIiBmb250LWZhbWlseT0iQ2FzY2FkaWEgQ29kZSwgbW9ub3NwYWNlIiBmb250LXNpemU9IjEyIiBmaWxsPSIjMDBmZjAwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBkeT0iLjNlbSI+Tk8gSU1BR0U8L3RleHQ+PC9zdmc+&#39;">
+                <div class="property-content">
+                    <div class="property-name">383 Fm 970, Florence, TX 76527, Williamson County</div>
+                    <div class="property-description">Industrial | 6,000 SqFt</div>
+                    <div class="property-details">
+                        <div class="property-type">Industrial</div>
+                        <div class="property-sqft">6,000 SQ FT</div>
+                    </div>
+                    <div class="property-price">
+                        
+                            PRICE TBD
+                        
+                    </div>
+                    <div class="property-location">383 FM970, Florence, Williamson County, TX 76527</div>
+                    <div class="property-activated">
+                        LISTED: 07/31/25 20:37
+                    </div>
+                    <div class="property-footer">
+                        <div class="broker-info">
+                            <img src="./Real Estate Listings_files/459f63f7007e466687f6fe6db036409a_150x100_resize.jpg" alt="Keller Williams Realty Austin" class="broker-logo" onerror="this.style.display=&#39;none&#39;">
+                            <span class="broker-name">Keller Williams Realty Austin</span>
+                        </div>
+                        
+                        <span class="new-badge">NEW</span>
+                        
+                    </div>
+                </div>
+            </div>
+            
+            <div class="property-card">
+                <img src="./Real Estate Listings_files/91333273f27544039ebd0bc7b68663d6_716x444.jpg" alt="350 Steeple O Road" class="property-image" loading="lazy" onerror="this.src=&#39;data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzAwIiBoZWlnaHQ9IjE1MCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSIjMDAwMDAwIiBzdHJva2U9IiMwMGZmMDAiIHN0cm9rZS13aWR0aD0iMSIvPjx0ZXh0IHg9IjUwJSIgeT0iNTAlIiBmb250LWZhbWlseT0iQ2FzY2FkaWEgQ29kZSwgbW9ub3NwYWNlIiBmb250LXNpemU9IjEyIiBmaWxsPSIjMDBmZjAwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBkeT0iLjNlbSI+Tk8gSU1BR0U8L3RleHQ+PC9zdmc+&#39;">
+                <div class="property-content">
+                    <div class="property-name">350 Steeple O Road</div>
+                    <div class="property-description">INDUSTRIAL WAREHOUSE/SHOP WITH OFFICE SUITE ON 3AC</div>
+                    <div class="property-details">
+                        <div class="property-type">Industrial</div>
+                        <div class="property-sqft">5,000 SQ FT</div>
+                    </div>
+                    <div class="property-price">
+                        
+                            PRICE TBD
+                        
+                    </div>
+                    <div class="property-location">350 Steeple O Road, Monahans, Ward, TX 79756</div>
+                    <div class="property-activated">
+                        LISTED: 07/31/25 20:08
+                    </div>
+                    <div class="property-footer">
+                        <div class="broker-info">
+                            <img src="./Real Estate Listings_files/8f098fd924f64c48b98da4e36d6fa259_150x100_resize.jpg" alt="The Prichard Group" class="broker-logo" onerror="this.style.display=&#39;none&#39;">
+                            <span class="broker-name">The Prichard Group</span>
+                        </div>
+                        
+                        <span class="new-badge">NEW</span>
+                        
+                    </div>
+                </div>
+            </div>
+            
+        </div>
+        
+        <div class="blog-section">
+            <div>
+                <h2>MARKET ANALYSIS</h2>
+                <div class="update-date">
+                    UPDATED: 08/01/25 00:15
+                </div>
+                <div>
+                    
+                        
+                            
+                                <p>TEXAS INDUSTRIAL MARKET UPDATE – NEW CREXI LISTINGS HIT THE MARKET</p>
+                            
+                        
+                            
+                                <p>THE TEXAS INDUSTRIAL REAL ESTATE SCENE IS HEATING UP AS A DIVERSE GROUP OF NEW LISTINGS ARRIVES ON CREXI. FROM MAJOR HUBS LIKE HOUSTON AND SAN ANTONIO TO EMERGING MARKETS IN CORPUS CHRISTI, MIDLAND, AND BEYOND, THERE’S PLENTY TO CATCH AN INVESTOR’S EYE.</p>
+                            
+                        
+                            
+                                <p>NOTABLY, A STANDOUT OPPORTUNITY IS COMING IN AT 6455 CUNNINGHAM RD IN HOUSTON. MARKETED UNDER NAN AND COMPANY PROPERTIES, THIS EXPANSIVE 22,608‑SQUARE‑FOOT MIXED-USE ASSET—SPANNING INDUSTRIAL, SELF‑STORAGE AND SPECIAL PURPOSE USES—IS LISTED AT AN EYE‑POPPING ASKING PRICE OF $1.1 BILLION. WHILE THE PRICE TAG IS UNEXPECTED, ITS POTENTIAL FOR VARIED COMMERCIAL APPLICATIONS MAY MAKE IT A UNIQUE, HIGH‑PROFILE LANDMARK FOR THE MARKET.</p>
+                            
+                        
+                            
+                                <p>OVER IN CORPUS CHRISTI, TWO INDUSTRIAL OPPORTUNITIES MAKE WAVES. ON LIPAN STREET, CRAVEY REAL ESTATE SERVICES INC HAS INTRODUCED A RENOVATED 48,970‑SQUARE‑FOOT PROPERTY THAT TAPS INTO THE PORT CITY’S GROWING INDUSTRIAL DEMAND. IN A COMPLETELY DIFFERENT FORMAT, GARRON DEAN &amp; ASSOCIATES IS OFFERING A 4.7‑ACRE SITE ON SOUTHSIDE CORPUS CHRISTI WITH A MASSIVE 422,532‑SQUARE‑FOOT AREA—DEMONSTRATING THE BROAD SPECTRUM OF SCALE NOW AVAILABLE IN THE REGION.</p>
+                            
+                        
+                            
+                                <p>SMALLER-SCALE PROPERTIES PROVIDE EQUALLY INTRIGUING PROSPECTS. KELLER WILLIAMS REALTY AUSTIN’S 6,000‑SQUARE‑FOOT FACILITY IN FLORENCE AND THE PRICHARD GROUP’S 5,000‑SQUARE‑FOOT WAREHOUSE/SHOP WITH AN OFFICE SUITE IN MONAHANS PRESENT NIMBLE OPPORTUNITIES ACROSS THE STATE, EACH PRICED ATTRACTIVELY FOR OWNER/USER INVESTORS.</p>
+                            
+                        
+                            
+                                <p>SAN ANTONIO CONTINUES TO BE A HOTBED OF ACTIVITY WITH TWO KEY LISTINGS. TEXAS TU CASA’S 4,000‑SQUARE‑FOOT WHOLESALE PRODUCE MARKET ON SE LOOP 410 HIGHLIGHTS TENANT‑ACTIVE INDUSTRIAL RETAIL USES, WHILE CBRE – SAN ANTONIO BRINGS FORWARD A HYBRID OFFICE AND INDUSTRIAL SPACE AT 204 N WW WHITE BOASTING AN IMPRESSIVE 55,628‑SQUARE‑FOOT FOOTPRINT FOR INNOVATIVE, MIXED‑USE OPERATIONS.</p>
+                            
+                        
+                            
+                                <p>ELSEWHERE, REGIONAL PLAYERS ARE CAPTURING ATTENTION IN MARKETS LIKE EL PASO, RED OAK, WICHITA FALLS, TYLER, HUMBLE, AND MIDLAND. FOR INSTANCE, RJL REAL ESTATE CONSULTANTS’ DUAL‑TYPE RETAIL/INDUSTRIAL PROPERTY AT 517 S OREGON ST IN EL PASO AND KELLER WILLIAMS REALTY FORT WORTH’S MIXED‑USE FACILITY IN RED OAK—WITH 3,000 SQUARE FEET OFFERED AT NEARLY $500K—OFFER SMALLER, FOCUSED INVESTMENTS. MEANWHILE, DOMAIN REAL ESTATE SERVICES INC’S 30,625‑SQUARE‑FOOT INDUSTRIAL SPACE IN WICHITA FALLS AND THE ADAPTIVE REUSE OF THE FORMER LONE STAR EVENT CENTER IN TYLER (12,000 SQUARE FEET) ILLUSTRATE CREATIVE SOLUTIONS TO MEET EVOLVING DEMAND. IN HUMBLE, PARTNERS’ NEW CONSTRUCTION OF OVER 10,350 SQUARE FEET SIGNALS FRESH DEVELOPMENT IN THE HOUSTON AREA, AND STRAHAN COMMERCIAL PROPERTIES’ 10,300‑SQUARE‑FOOT WAREHOUSE IN MIDLAND ROUNDS OUT OUR UPDATE WITH ANOTHER SOLID REGIONAL PLAY.</p>
+                            
+                        
+                            
+                                <p>THESE NEWEST CREXI LISTINGS UNDERSCORE THE DYNAMIC AND DIVERSE NATURE OF TEXAS’S INDUSTRIAL MARKET. WHETHER YOU’RE LOOKING FOR LARGE-SCALE, MIXED‑USE DEVELOPMENTS OR MORE FOCUSED, BOUTIQUE INVESTMENTS, THERE’S SOMETHING ON THE TABLE FOR EVERY TYPE OF MARKET PARTICIPANT. AS INDUSTRIAL DEMAND CONTINUES TO SPUR INNOVATION AND REDEVELOPMENT, THESE PROPERTIES COULD WELL BE THE NEXT BIG OPPORTUNITIES IN THE LONE STAR STATE. STAY TUNED FOR MORE UPDATES AS THESE LISTINGS—AND OTHERS—MAKE THEIR MARK ON THE TEXAS INDUSTRIAL REAL ESTATE LANDSCAPE.</p>
+                            
+                        
+                    
+                </div>
+            </div>
+        </div>
+        
+        <div class="analytics-section">
+            <h2>MARKET ANALYTICS</h2>
+            <div class="analytics-grid">
+                <div class="chart-container">
+                    <div class="chart-title">PRICE PER SQ FT BY CITY</div>
+                    <canvas id="pricePerSqftChart" width="350" height="175" style="display: block; box-sizing: border-box; height: 175px; width: 350px;"></canvas>
+                </div>
+                <div class="chart-container">
+                    <div class="chart-title">AVERAGE SQUARE FOOTAGE</div>
+                    <canvas id="sqftChart" width="350" height="175" style="display: block; box-sizing: border-box; height: 175px; width: 350px;"></canvas>
+                </div>
+                <div class="chart-container">
+                    <div class="chart-title">TOP CITIES</div>
+                    <canvas id="cityChart" width="350" height="175" style="display: block; box-sizing: border-box; height: 175px; width: 350px;"></canvas>
+                </div>
+                <div class="chart-container">
+                    <div class="chart-title">NEW LISTINGS TIMELINE</div>
+                    <canvas id="timelineChart" width="350" height="175" style="display: block; box-sizing: border-box; height: 175px; width: 350px;"></canvas>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // Configure Chart.js defaults for minimal 80s terminal theme
+        Chart.defaults.color = '#00ff00';
+        Chart.defaults.borderColor = '#00ff00';
+        Chart.defaults.backgroundColor = '#000000';
+        Chart.defaults.font.family = "'Cascadia Code', 'Cascadia Mono', 'Consolas', 'Monaco', monospace";
+        Chart.defaults.font.size = 10;
+
+        // Price per Sq Ft Chart
+        const pricePerSqftData = [["Houston", 3154.870801898113, 17], ["Midland", 177.37266791349586, 11], ["Odessa", 169.84174264224404, 8], ["Katy", 607.9593788308666, 6], ["Conroe", 109.86820254321019, 5], ["Austin", 357.40666376379784, 5], ["Pharr", 90.83326602248343, 4], ["San Antonio", 143.01742776649414, 4], ["Giddings", 29.302042302051042, 4], ["Amarillo", 85.00039090061239, 3]];
+        new Chart(document.getElementById('pricePerSqftChart'), {
+            type: 'bar',
+            data: {
+                labels: pricePerSqftData.map(item => item[0]),
+                datasets: [{
+                    data: pricePerSqftData.map(item => Math.round(item[1])),
+                    backgroundColor: '#000000',
+                    borderColor: '#00ff00',
+                    borderWidth: 1
+                }]
+            },
+            options: { 
+                responsive: true,
+                animation: false,
+                plugins: { 
+                    legend: { display: false },
+                    tooltip: { enabled: false }
+                },
+                scales: {
+                    y: {
+                        ticks: {
+                            color: '#00ff00',
+                            font: { size: 10 },
+                            callback: function(value) {
+                                return '$' + value;
+                            }
+                        },
+                        grid: { color: '#00ff00', lineWidth: 1 }
+                    },
+                    x: {
+                        ticks: {
+                            color: '#00ff00',
+                            font: { size: 10 }
+                        },
+                        grid: { display: false }
+                    }
+                }
+            }
+        });
+
+        // Average Square Footage Chart
+        const sqftData = [["Office", 74922.92307692308], ["Industrial", 39231.05263157895], ["Hospitality", 13744.0], ["Retail", 8295.555555555555], ["Multifamily", 4028.0]];
+        new Chart(document.getElementById('sqftChart'), {
+            type: 'bar',
+            data: {
+                labels: sqftData.map(item => item[0]),
+                datasets: [{
+                    data: sqftData.map(item => Math.round(item[1])),
+                    backgroundColor: '#000000',
+                    borderColor: '#00ff00',
+                    borderWidth: 1
+                }]
+            },
+            options: { 
+                responsive: true,
+                animation: false,
+                plugins: { 
+                    legend: { display: false },
+                    tooltip: { enabled: false }
+                },
+                scales: {
+                    y: {
+                        ticks: { color: '#00ff00', font: { size: 10 } },
+                        grid: { color: '#00ff00', lineWidth: 1 }
+                    },
+                    x: {
+                        ticks: { color: '#00ff00', font: { size: 10 } },
+                        grid: { display: false }
+                    }
+                }
+            }
+        });
+
+        // Cities Chart
+        const cityData = [["Houston", 42], ["Midland", 12], ["Odessa", 10], ["San Antonio", 8], ["Austin", 7], ["Katy", 7], ["Conroe", 6], ["Pharr", 5], ["El Paso", 5], ["Magnolia", 4]];
+        new Chart(document.getElementById('cityChart'), {
+            type: 'bar',
+            data: {
+                labels: cityData.map(item => item[0]),
+                datasets: [{
+                    data: cityData.map(item => item[1]),
+                    backgroundColor: '#000000',
+                    borderColor: '#00ff00',
+                    borderWidth: 1
+                }]
+            },
+            options: { 
+                responsive: true,
+                animation: false,
+                plugins: { 
+                    legend: { display: false },
+                    tooltip: { enabled: false }
+                },
+                indexAxis: 'y',
+                scales: {
+                    y: {
+                        ticks: { color: '#00ff00', font: { size: 10 } },
+                        grid: { display: false }
+                    },
+                    x: {
+                        ticks: { color: '#00ff00', font: { size: 10 } },
+                        grid: { color: '#00ff00', lineWidth: 1 }
+                    }
+                }
+            }
+        });
+
+        // Timeline Chart
+        const timelineData = [["Fri, 11 Jul 2025 00:00:00 GMT", 11], ["Sat, 12 Jul 2025 00:00:00 GMT", 3], ["Sun, 13 Jul 2025 00:00:00 GMT", 2], ["Mon, 14 Jul 2025 00:00:00 GMT", 10], ["Tue, 15 Jul 2025 00:00:00 GMT", 14], ["Wed, 16 Jul 2025 00:00:00 GMT", 30], ["Thu, 17 Jul 2025 00:00:00 GMT", 10], ["Fri, 18 Jul 2025 00:00:00 GMT", 12], ["Sat, 19 Jul 2025 00:00:00 GMT", 6], ["Sun, 20 Jul 2025 00:00:00 GMT", 1], ["Mon, 21 Jul 2025 00:00:00 GMT", 25], ["Tue, 22 Jul 2025 00:00:00 GMT", 15], ["Wed, 23 Jul 2025 00:00:00 GMT", 21], ["Thu, 24 Jul 2025 00:00:00 GMT", 15], ["Fri, 25 Jul 2025 00:00:00 GMT", 9], ["Sat, 26 Jul 2025 00:00:00 GMT", 6], ["Sun, 27 Jul 2025 00:00:00 GMT", 2], ["Mon, 28 Jul 2025 00:00:00 GMT", 17], ["Tue, 29 Jul 2025 00:00:00 GMT", 17], ["Wed, 30 Jul 2025 00:00:00 GMT", 13], ["Thu, 31 Jul 2025 00:00:00 GMT", 12]];
+        new Chart(document.getElementById('timelineChart'), {
+            type: 'line',
+            data: {
+                labels: timelineData.map(item => {
+                    const date = new Date(item[0]);
+                    return date.toLocaleDateString('en-US', { month: 'numeric', day: 'numeric' });
+                }),
+                datasets: [{
+                    data: timelineData.map(item => item[1]),
+                    borderColor: '#00ff00',
+                    backgroundColor: '#000000',
+                    fill: false,
+                    pointBackgroundColor: '#00ff00',
+                    pointBorderColor: '#00ff00',
+                    pointRadius: 2,
+                    borderWidth: 1
+                }]
+            },
+            options: { 
+                responsive: true,
+                animation: false,
+                plugins: { 
+                    legend: { display: false },
+                    tooltip: { enabled: false }
+                },
+                scales: {
+                    x: {
+                        ticks: { color: '#00ff00', font: { size: 10 } },
+                        grid: { display: false }
+                    },
+                    y: {
+                        ticks: { color: '#00ff00', font: { size: 10 } },
+                        grid: { color: '#00ff00', lineWidth: 1 }
+                    }
+                }
+            }
+        });
+    </script>
+
+<div id="SASContainer" class="sasext sasextdklgc sasdklgc-display-none ui-resizable ui-draggable">
+			<div id="sas-panel-contents">
+				<div class="first-row sas-header ui-draggable-handle">
+          <div class="tr-btns">
+            <span style="float:right"><a id="closeSAS" class="topButton"></a></span>
+          </div> 
+          <div class="t-logo">
+            <a href="https://selleramp.com/" target="_blank">
+              <img class="sas-logo-image" src="chrome-extension://kidmffepbniamfbibhfgdakkggchipjl/images/sas-logo.svg">
+            </a> 
+          </div>
+          <a href="chrome-extension://kidmffepbniamfbibhfgdakkggchipjl/proxy.html?appUrl=https%3A%2F%2Fsas.selleramp.com%2Faccount%3Fsrc%3Dext%26ver%3D2.4.5e" target="sasFrame">
+            <img src="chrome-extension://kidmffepbniamfbibhfgdakkggchipjl/images/user-regular.svg" alt="account-icon" class="sas-account-icon">
+          </a>
+				</div>
+    <div class="second-row">
+      <div id="loadingMessage">
+        <img class="loadingimg" src="chrome-extension://kidmffepbniamfbibhfgdakkggchipjl/images/exticon.png">
+      </div>
+      <iframe name="sasFrame" id="sasFrame" allowtransparency="true" src="./Real Estate Listings_files/saved_resource.html"></iframe>
+    </div>
+    <div class="bottom-row"> 
+      <nav class="sasdklgc-menu"><ul id="position-buttons" class="sasdklgc-toolbar-buttons"><li id="li-pos-0" data-position="0"><img src="chrome-extension://kidmffepbniamfbibhfgdakkggchipjl/images/floating.svg" title="Floating"></li><li id="li-pos-1" data-position="1"><img src="chrome-extension://kidmffepbniamfbibhfgdakkggchipjl/images/docked-left-icon.svg" title="Docked Left"></li><li id="li-pos-2" data-position="2"><img src="chrome-extension://kidmffepbniamfbibhfgdakkggchipjl/images/docked-right-icon.svg" title="Docked Right"></li></ul><ul id="url-buttons" class="sasdklgc-toolbar-buttons">
+<li id="home-btn">
+  <a href="chrome-extension://kidmffepbniamfbibhfgdakkggchipjl/proxy.html?appUrl=https%3A%2F%2Fsas.selleramp.com%2Fsas%2Flookup%3Fsrc%3Dext%26ver%3D2.4.5e" target="sasFrame"><img src="chrome-extension://kidmffepbniamfbibhfgdakkggchipjl/images/house-chimney.svg" title="Home" alt="home">
+</a></li><a href="chrome-extension://kidmffepbniamfbibhfgdakkggchipjl/proxy.html?appUrl=https%3A%2F%2Fsas.selleramp.com%2Fsas%2Flookup%3Fsrc%3Dext%26ver%3D2.4.5e" target="sasFrame">
+</a><li id="history-btn"><a href="chrome-extension://kidmffepbniamfbibhfgdakkggchipjl/proxy.html?appUrl=https%3A%2F%2Fsas.selleramp.com%2Fsas%2Flookup%3Fsrc%3Dext%26ver%3D2.4.5e" target="sasFrame">
+  </a><a href="chrome-extension://kidmffepbniamfbibhfgdakkggchipjl/proxy.html?appUrl=https%3A%2F%2Fsas.selleramp.com%2Fsas%2Fhistory%3Fsrc%3Dext%26ver%3D2.4.5e" target="sasFrame"><img src="chrome-extension://kidmffepbniamfbibhfgdakkggchipjl/images/clock-rotate-left.svg" title="History" alt="history">
+</a></li><a href="chrome-extension://kidmffepbniamfbibhfgdakkggchipjl/proxy.html?appUrl=https%3A%2F%2Fsas.selleramp.com%2Fsas%2Fhistory%3Fsrc%3Dext%26ver%3D2.4.5e" target="sasFrame">
+</a><li id="settings-btn"><a href="chrome-extension://kidmffepbniamfbibhfgdakkggchipjl/proxy.html?appUrl=https%3A%2F%2Fsas.selleramp.com%2Fsas%2Fhistory%3Fsrc%3Dext%26ver%3D2.4.5e" target="sasFrame">
+  </a><a href="chrome-extension://kidmffepbniamfbibhfgdakkggchipjl/proxy.html?appUrl=https%3A%2F%2Fsas.selleramp.com%2Fuser%2Fupdate%3Fsrc%3Dext%26ver%3D2.4.5e" target="sasFrame"><img src="chrome-extension://kidmffepbniamfbibhfgdakkggchipjl/images/gear.svg" title="Settings" alt="settings">
+</a></li><a href="chrome-extension://kidmffepbniamfbibhfgdakkggchipjl/proxy.html?appUrl=https%3A%2F%2Fsas.selleramp.com%2Fuser%2Fupdate%3Fsrc%3Dext%26ver%3D2.4.5e" target="sasFrame">
+</a><li id="contact-btn"><a href="chrome-extension://kidmffepbniamfbibhfgdakkggchipjl/proxy.html?appUrl=https%3A%2F%2Fsas.selleramp.com%2Fuser%2Fupdate%3Fsrc%3Dext%26ver%3D2.4.5e" target="sasFrame">
+  </a><a href="chrome-extension://kidmffepbniamfbibhfgdakkggchipjl/proxy.html?appUrl=https%3A%2F%2Fsas.selleramp.com%2Fcontact%3Fsrc%3Dext%26ver%3D2.4.5e" target="sasFrame">
+    <img src="chrome-extension://kidmffepbniamfbibhfgdakkggchipjl/images/envelope.svg" title="Contact" alt="contact">
+  </a>
+</li></ul></nav>
+    </div>
+  </div><div class="ui-resizable-handle ui-resizable-n" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-s" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-e" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-w" style="z-index: 90;"></div></div></body></html>

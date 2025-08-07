@@ -1,0 +1,5108 @@
+[
+  {
+    "id": 2008191,
+    "name": "1207 N Fm 3083 Rd - Industrial",
+    "description": "38,255 Industrial",
+    "thumbnailUrl": "https://images.crexi.com/assets/2008191/861f745e30b1449e937dc40fc1c2cd76_716x444.jpg",
+    "urlSlug": "texas-1207-n-fm-3083-rd---industrial",
+    "brokerageName": "Green & Associates Real Estate Services",
+    "activatedOn": "2025-07-21T19:00:13.311Z",
+    "isInOpportunityZone": false,
+    "hasVideo": false,
+    "numberOfGalleryItems": 50,
+    "squareFootage": 38255,
+    "showCountdownAsDate": false,
+    "askingPrice": 3100000.0,
+    "userIsAssetOwner": false,
+    "updatedOn": "2025-07-21T19:03:43.594Z",
+    "numberOfImages": 50,
+    "types": [
+      "Industrial"
+    ],
+    "hasOM": false,
+    "hasFlyer": true,
+    "status": "On-Market",
+    "hasVirtualTour": false,
+    "locations": [
+      {
+        "address": "1207 N Farm to Market 3083 Rd W",
+        "city": "Conroe",
+        "county": "Montgomery County",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "77304",
+        "latitude": 30.3315253,
+        "longitude": -95.509247,
+        "fullAddress": "1207 N Farm to Market 3083 Rd W, Conroe, Montgomery County, TX 77304"
+      }
+    ],
+    "isNew": true
+  },
+  {
+    "id": 2011557,
+    "name": "3533 E Highway 175",
+    "description": "Industrial | 16,000 SqFt",
+    "thumbnailUrl": "https://images.crexi.com/assets/2011557/32d328ab5a0b49f3b1d2f54d98c66874_716x444.jpg",
+    "urlSlug": "texas-3533-e-highway-175",
+    "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/5277/17c5d53ad93d4d9b9abecf9c08e7c1a8_150x100_resize.jpg",
+    "brokerageName": "Tierra Financial",
+    "activatedOn": "2025-07-21T18:28:15.594Z",
+    "isInOpportunityZone": true,
+    "hasVideo": false,
+    "numberOfGalleryItems": 14,
+    "squareFootage": 16000,
+    "showCountdownAsDate": false,
+    "askingPrice": 1800000.0,
+    "userIsAssetOwner": false,
+    "updatedOn": "2025-07-21T19:25:23.447Z",
+    "numberOfImages": 14,
+    "types": [
+      "Industrial",
+      "Retail"
+    ],
+    "investmentType": "Owner/User",
+    "hasOM": false,
+    "hasFlyer": true,
+    "status": "On-Market",
+    "hasVirtualTour": false,
+    "locations": [
+      {
+        "address": "3533 E Highway 175",
+        "city": "Kaufman",
+        "county": "Kaufman",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "75042",
+        "latitude": 32.54617610746307,
+        "longitude": -96.28245056002322,
+        "fullAddress": "3533 E Highway 175, Kaufman, Kaufman, TX 75042"
+      }
+    ],
+    "isNew": true
+  },
+  {
+    "id": 2032967,
+    "name": "5250 Brittmoore Rd.",
+    "description": "Industrial | 17,150 SqFt",
+    "thumbnailUrl": "https://images.crexi.com/assets/2032967/3708af171567410aaba193cb2c969330_716x444.jpg",
+    "urlSlug": "texas-5250-brittmoore-rd",
+    "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/132649/2c42f617411244c89ee8ab2492ed74b6_150x100_resize.jpg",
+    "brokerageName": "NAI Robert Lynn Houston",
+    "activatedOn": "2025-07-21T17:47:53.647Z",
+    "isInOpportunityZone": false,
+    "hasVideo": false,
+    "numberOfGalleryItems": 6,
+    "squareFootage": 17150,
+    "showCountdownAsDate": false,
+    "askingPrice": 0.0,
+    "userIsAssetOwner": false,
+    "updatedOn": "2025-07-21T17:50:11.784Z",
+    "numberOfImages": 6,
+    "types": [
+      "Industrial"
+    ],
+    "hasOM": false,
+    "hasFlyer": true,
+    "status": "On-Market",
+    "hasVirtualTour": false,
+    "locations": [
+      {
+        "address": "5250 Brittmoore Rd.",
+        "city": "Houston",
+        "county": "Harris",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "77041",
+        "latitude": 29.8442316,
+        "longitude": -95.5681012,
+        "fullAddress": "5250 Brittmoore Rd., Houston, Harris, TX 77041"
+      }
+    ],
+    "isNew": true
+  },
+  {
+    "id": 2032936,
+    "name": "\u00b147,375 SF Industrial Site",
+    "description": "Industrial | 47,375 SqFt",
+    "thumbnailUrl": "https://images.crexi.com/assets/2032936/7cf01afac8cd4b8680dbe68d700bff5c_716x444.jpg",
+    "urlSlug": "texas-47375-sf-industrial-site",
+    "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/14660/d56e141cebb34a3c8bdbd617bb4cf228_150x100_resize.jpg",
+    "brokerageName": "Colliers - Houston, Texas",
+    "activatedOn": "2025-07-21T17:34:00.114Z",
+    "isInOpportunityZone": true,
+    "hasVideo": false,
+    "numberOfGalleryItems": 11,
+    "squareFootage": 47375,
+    "showCountdownAsDate": false,
+    "userIsAssetOwner": false,
+    "updatedOn": "2025-07-21T17:45:14.331Z",
+    "numberOfImages": 11,
+    "types": [
+      "Industrial"
+    ],
+    "hasOM": false,
+    "hasFlyer": true,
+    "status": "On-Market",
+    "hasVirtualTour": false,
+    "locations": [
+      {
+        "address": "7702 Parnell St",
+        "city": "Houston",
+        "county": "Harris County",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "77021",
+        "latitude": 29.68012317,
+        "longitude": -95.3754361,
+        "fullAddress": "7702 Parnell St, Houston, Harris County, TX 77021"
+      }
+    ],
+    "isNew": true
+  },
+  {
+    "id": 2032852,
+    "name": "650 Aldine Bender Rd.",
+    "description": "Industrial | 34,476 SqFt",
+    "thumbnailUrl": "https://images.crexi.com/assets/2032852/2dc393dbf776469bb49610dafc1195f7_716x444.jpg",
+    "urlSlug": "texas-650-aldine-bender-rd",
+    "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/24225/ffb20db074d740d588eaaaa9617161f1_150x100_resize.jpg",
+    "brokerageName": "Transwestern Houston",
+    "activatedOn": "2025-07-21T17:13:15.848Z",
+    "isInOpportunityZone": false,
+    "hasVideo": false,
+    "numberOfGalleryItems": 7,
+    "squareFootage": 34476,
+    "showCountdownAsDate": false,
+    "userIsAssetOwner": false,
+    "updatedOn": "2025-07-21T17:13:15.848Z",
+    "numberOfImages": 7,
+    "types": [
+      "Industrial"
+    ],
+    "hasOM": false,
+    "hasFlyer": true,
+    "status": "On-Market",
+    "hasVirtualTour": false,
+    "locations": [
+      {
+        "address": "650 Aldine Bender Rd",
+        "city": "Houston",
+        "county": "Harris County",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "77060",
+        "latitude": 29.9316384,
+        "longitude": -95.3835904,
+        "fullAddress": "650 Aldine Bender Rd, Houston, Harris County, TX 77060"
+      }
+    ],
+    "isNew": true
+  },
+  {
+    "id": 2032837,
+    "name": "Freestanding Building fronting I-30",
+    "description": "Auto Dealership/Industrial",
+    "thumbnailUrl": "https://images.crexi.com/assets/2032837/c63900fb58874213b35098960174062a_716x444.jpg",
+    "urlSlug": "texas-freestanding-building-fronting-i-30",
+    "brokerTeamLogoUrl": "https://images.crexi.com/brokers/9147/b1f2b23832ed4d67b7426e446b7b716a_150x100_resize.jpg",
+    "brokerageName": "Brand Partners",
+    "activatedOn": "2025-07-21T16:31:09.559Z",
+    "isInOpportunityZone": false,
+    "hasVideo": false,
+    "numberOfGalleryItems": 3,
+    "squareFootage": 8280,
+    "showCountdownAsDate": false,
+    "userIsAssetOwner": false,
+    "updatedOn": "2025-07-21T16:35:19.892Z",
+    "numberOfImages": 3,
+    "types": [
+      "Industrial",
+      "Retail"
+    ],
+    "investmentType": "Owner/User",
+    "hasOM": true,
+    "hasFlyer": true,
+    "status": "On-Market",
+    "hasVirtualTour": false,
+    "locations": [
+      {
+        "address": "8640 E R L Thornton Fwy",
+        "city": "Dallas",
+        "county": "Dallas County",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "75228",
+        "latitude": 32.7942593,
+        "longitude": -96.6930596,
+        "fullAddress": "8640 E R L Thornton Fwy, Dallas, Dallas County, TX 75228"
+      }
+    ],
+    "isNew": true
+  },
+  {
+    "id": 2032770,
+    "name": "70,340 SF Service Facility on 46 AC",
+    "description": "Industrial | 70,340 SqFt",
+    "thumbnailUrl": "https://images.crexi.com/assets/2032770/ba8b5218d20140e2aa30419dee81c081_716x444.jpg",
+    "urlSlug": "texas-70340-sf-service-facility-on-46-ac",
+    "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/11538/62219cf670194d4fbf04fc63ec05d2be_150x100_resize.jpg",
+    "brokerageName": "Formation Real Estate LLC",
+    "activatedOn": "2025-07-21T15:31:38.74Z",
+    "isInOpportunityZone": false,
+    "hasVideo": false,
+    "numberOfGalleryItems": 33,
+    "squareFootage": 70340,
+    "showCountdownAsDate": false,
+    "userIsAssetOwner": false,
+    "updatedOn": "2025-07-21T15:31:38.74Z",
+    "numberOfImages": 33,
+    "types": [
+      "Industrial"
+    ],
+    "hasOM": false,
+    "hasFlyer": true,
+    "status": "On-Market",
+    "hasVirtualTour": false,
+    "locations": [
+      {
+        "address": "3533 TX-239",
+        "city": "Kenedy",
+        "county": "Karnes County",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "78119",
+        "latitude": 28.789119,
+        "longitude": -97.7697719,
+        "fullAddress": "3533 TX-239, Kenedy, Karnes County, TX 78119"
+      }
+    ],
+    "isNew": true
+  },
+  {
+    "id": 2032705,
+    "name": "Built for Business | Premier Office Space | Eastland, TX",
+    "description": "Turnkey 2,000 SF Office with Expansion Potential in Eastland, TX",
+    "thumbnailUrl": "https://images.crexi.com/assets/2032705/cf418835f10b4a3fa2fce62284f16109_716x444.jpg",
+    "urlSlug": "texas-built-for-business-premier-office-space-eastland-tx",
+    "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/23974/a599d80f2401451bad5176a83c286375_150x100_resize.jpg",
+    "brokerageName": "Clark Real Estate Group",
+    "activatedOn": "2025-07-21T14:31:54.542Z",
+    "isInOpportunityZone": false,
+    "hasVideo": false,
+    "numberOfGalleryItems": 14,
+    "squareFootage": 1904,
+    "showCountdownAsDate": false,
+    "askingPrice": 395500.0,
+    "userIsAssetOwner": false,
+    "updatedOn": "2025-07-21T14:33:06.504Z",
+    "numberOfImages": 14,
+    "types": [
+      "Industrial",
+      "Land",
+      "Mixed Use",
+      "Office"
+    ],
+    "hasOM": false,
+    "hasFlyer": true,
+    "status": "On-Market",
+    "hasVirtualTour": false,
+    "locations": [
+      {
+        "address": "300 Joe Beaty Rd",
+        "city": "Eastland",
+        "county": "Eastland",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "76448",
+        "latitude": 32.415678,
+        "longitude": -98.8130045,
+        "fullAddress": "300 Joe Beaty Rd, Eastland, Eastland, TX 76448"
+      }
+    ],
+    "isNew": true
+  },
+  {
+    "id": 2032699,
+    "name": "Industrial Facility w/ Dock Loading Near I-30",
+    "description": "Industrial Facility w/ Dock Loading Near I-30",
+    "thumbnailUrl": "https://images.crexi.com/assets/2032699/bdadee8371a24ad4895b8041947885f8_716x444.jpg",
+    "urlSlug": "texas-industrial-facility-w-dock-loading-near-i-30",
+    "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/25364/0674e22e11ea45ce879ea03017d8e1f1_150x100_resize.jpg",
+    "brokerageName": "NRG Realty Group",
+    "activatedOn": "2025-07-21T14:18:25.633Z",
+    "isInOpportunityZone": false,
+    "hasVideo": false,
+    "numberOfGalleryItems": 5,
+    "squareFootage": 13189,
+    "showCountdownAsDate": false,
+    "askingPrice": 525000.0,
+    "userIsAssetOwner": false,
+    "updatedOn": "2025-07-21T14:20:10.721Z",
+    "numberOfImages": 5,
+    "types": [
+      "Industrial"
+    ],
+    "investmentType": "Owner/User",
+    "hasOM": false,
+    "hasFlyer": true,
+    "status": "On-Market",
+    "hasVirtualTour": false,
+    "locations": [
+      {
+        "address": "629 Rutherford St",
+        "city": "Mount Vernon",
+        "county": "Franklin County",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "75457",
+        "latitude": 33.18021360639704,
+        "longitude": -95.23669027868488,
+        "fullAddress": "629 Rutherford St, Mount Vernon, Franklin County, TX 75457"
+      }
+    ],
+    "isNew": true
+  },
+  {
+    "id": 2032513,
+    "name": "4613 Priem Ln",
+    "description": "Retail | 4,968 SqFt",
+    "thumbnailUrl": "https://images.crexi.com/assets/2032513/7c0300e2df8a489babc6e2fe9c5aee20_716x444.jpg",
+    "urlSlug": "texas-4613-priem-ln",
+    "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/56313/42f0a4f164ba4599baf307e9941f03f3_150x100_resize.jpg",
+    "brokerageName": "Pure Realty",
+    "activatedOn": "2025-07-21T09:26:29.859Z",
+    "isInOpportunityZone": false,
+    "hasVideo": false,
+    "numberOfGalleryItems": 1,
+    "squareFootage": 4968,
+    "pricePerSqFtLand": "$52.78/SF",
+    "showCountdownAsDate": false,
+    "askingPrice": 2299000.0,
+    "userIsAssetOwner": false,
+    "updatedOn": "2025-07-21T09:26:29.859Z",
+    "numberOfImages": 1,
+    "types": [
+      "Retail",
+      "Office",
+      "Industrial"
+    ],
+    "hasOM": false,
+    "hasFlyer": true,
+    "status": "On-Market",
+    "hasVirtualTour": false,
+    "locations": [
+      {
+        "address": "4613 Priem Ln",
+        "city": "Pflugerville",
+        "county": "Travis County",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "78660",
+        "latitude": 30.4934101,
+        "longitude": -97.5908034,
+        "fullAddress": "4613 Priem Ln, Pflugerville, Travis County, TX 78660"
+      }
+    ],
+    "isNew": true
+  },
+  {
+    "id": 2031830,
+    "name": "126 Palm St",
+    "description": "Office | 11,898 SqFt",
+    "thumbnailUrl": "https://images.crexi.com/assets/2031830/caec0b12c5904f36b420eee91552d184_716x444.jpg",
+    "urlSlug": "texas-126-palm-st",
+    "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/2977/a91dfbf0299145e9a8465663122ae8ac_150x100_resize.jpg",
+    "brokerageName": "Paul Johnson & Associates",
+    "activatedOn": "2025-07-21T07:09:01.067Z",
+    "isInOpportunityZone": true,
+    "hasVideo": false,
+    "numberOfGalleryItems": 6,
+    "squareFootage": 11898,
+    "showCountdownAsDate": false,
+    "askingPrice": 667000.0,
+    "userIsAssetOwner": false,
+    "updatedOn": "2025-07-21T07:09:06.209Z",
+    "numberOfImages": 6,
+    "types": [
+      "Office",
+      "Industrial"
+    ],
+    "hasOM": false,
+    "hasFlyer": true,
+    "status": "On-Market",
+    "hasVirtualTour": false,
+    "locations": [
+      {
+        "address": "126 Palm St",
+        "city": "Abilene",
+        "county": "Taylor County",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "79602",
+        "latitude": 32.4484432,
+        "longitude": -99.740309,
+        "fullAddress": "126 Palm St, Abilene, Taylor County, TX 79602"
+      }
+    ],
+    "isNew": true
+  },
+  {
+    "id": 2031879,
+    "name": "Generation Park Distribution Center",
+    "description": "Industrial",
+    "thumbnailUrl": "https://images.crexi.com/assets/2031879/06b75851a69446d79fa47eeeffdefbf7_716x444.jpg",
+    "urlSlug": "texas-generation-park-distribution-center",
+    "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/14677/6ae8140fe38b496ebb8797dc937ffc0f_150x100_resize.jpg",
+    "brokerageName": "CBRE - Houston Galleria",
+    "activatedOn": "2025-07-21T04:41:36.245Z",
+    "isInOpportunityZone": false,
+    "hasVideo": false,
+    "numberOfGalleryItems": 11,
+    "showCountdownAsDate": false,
+    "userIsAssetOwner": false,
+    "updatedOn": "2025-07-21T04:41:49.881Z",
+    "numberOfImages": 11,
+    "types": [
+      "Industrial"
+    ],
+    "hasOM": false,
+    "hasFlyer": true,
+    "status": "On-Market",
+    "hasVirtualTour": false,
+    "locations": [
+      {
+        "address": "12515 Lockwood Rd",
+        "city": "Houston",
+        "county": "Harris County",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "77044",
+        "latitude": 29.902813,
+        "longitude": -95.2117805,
+        "fullAddress": "12515 Lockwood Rd, Houston, Harris County, TX 77044"
+      }
+    ],
+    "isNew": true
+  },
+  {
+    "id": 2031867,
+    "name": "Railspike Industrial Park",
+    "description": "Office | 150,416 SqFt",
+    "thumbnailUrl": "https://images.crexi.com/assets/2031867/e5e56e2928ac46139307815879e5c7d1_716x444.jpg",
+    "urlSlug": "texas-railspike-industrial-park",
+    "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/14677/6ae8140fe38b496ebb8797dc937ffc0f_150x100_resize.jpg",
+    "brokerageName": "CBRE - Houston Galleria",
+    "activatedOn": "2025-07-21T04:30:04.799Z",
+    "isInOpportunityZone": false,
+    "hasVideo": false,
+    "numberOfGalleryItems": 3,
+    "squareFootage": 150416,
+    "showCountdownAsDate": false,
+    "userIsAssetOwner": false,
+    "updatedOn": "2025-07-21T04:30:12.913Z",
+    "numberOfImages": 3,
+    "types": [
+      "Office",
+      "Industrial"
+    ],
+    "hasOM": false,
+    "hasFlyer": true,
+    "status": "On-Market",
+    "hasVirtualTour": false,
+    "locations": [
+      {
+        "address": "0 Spikewood Drive",
+        "city": "Houston",
+        "county": "Harris County",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "77078",
+        "latitude": 29.8230538,
+        "longitude": -95.2562455,
+        "fullAddress": "0 Spikewood Drive, Houston, Harris County, TX 77078"
+      }
+    ],
+    "isNew": true
+  },
+  {
+    "id": 2031834,
+    "name": "Richey Business Park",
+    "description": "Industrial",
+    "thumbnailUrl": "https://images.crexi.com/assets/2031834/1c63d66e0c5249cea37092a985941fa7_716x444.jpg",
+    "urlSlug": "texas-richey-business-park",
+    "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/14643/cf79df9a9bc74afaadfd7d12cb905695_150x100_resize.jpg",
+    "brokerageName": "Lee & Associates - Houston",
+    "activatedOn": "2025-07-21T04:26:23.085Z",
+    "isInOpportunityZone": false,
+    "hasVideo": false,
+    "numberOfGalleryItems": 5,
+    "showCountdownAsDate": false,
+    "userIsAssetOwner": false,
+    "updatedOn": "2025-07-21T04:26:26.996Z",
+    "numberOfImages": 5,
+    "types": [
+      "Industrial"
+    ],
+    "hasOM": false,
+    "hasFlyer": true,
+    "status": "On-Market",
+    "hasVirtualTour": false,
+    "locations": [
+      {
+        "address": "0 North Freeway (Building 23)",
+        "city": "Houston",
+        "county": "Harris County",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "77090",
+        "latitude": 29.997782,
+        "longitude": -95.4253165,
+        "fullAddress": "0 North Freeway (Building 23), Houston, Harris County, TX 77090"
+      }
+    ],
+    "isNew": true
+  },
+  {
+    "id": 2031860,
+    "name": "8609 Citypark Loop",
+    "description": "Office",
+    "thumbnailUrl": "https://images.crexi.com/assets/2031860/d1c0d0f81c2d49b3b7c1c80b4276c3ad_716x444.jpg",
+    "urlSlug": "texas-8609-citypark-loop",
+    "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/14677/6ae8140fe38b496ebb8797dc937ffc0f_150x100_resize.jpg",
+    "brokerageName": "CBRE - Houston Galleria",
+    "activatedOn": "2025-07-21T04:26:10.692Z",
+    "isInOpportunityZone": false,
+    "hasVideo": false,
+    "numberOfGalleryItems": 6,
+    "showCountdownAsDate": false,
+    "userIsAssetOwner": false,
+    "updatedOn": "2025-07-21T04:26:21.568Z",
+    "numberOfImages": 6,
+    "types": [
+      "Office",
+      "Industrial"
+    ],
+    "hasOM": false,
+    "hasFlyer": true,
+    "status": "On-Market",
+    "hasVirtualTour": false,
+    "locations": [
+      {
+        "address": "8609 Citypark Loop",
+        "city": "Houston",
+        "county": "Harris County",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "77013",
+        "latitude": 29.8037701,
+        "longitude": -95.2727108,
+        "fullAddress": "8609 Citypark Loop, Houston, Harris County, TX 77013"
+      }
+    ],
+    "isNew": true
+  },
+  {
+    "id": 2027831,
+    "name": "TURN KEY MACHINE SHOP",
+    "description": "Industrial | 11,160 SqFt",
+    "thumbnailUrl": "https://images.crexi.com/assets/2027831/71c1d83d341941bd93754614b96c4417_716x444.jpg",
+    "urlSlug": "texas-turn-key-machine-shop",
+    "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/107128/03c9f7ab47ac4372aa7aadeb425a2be5_150x100_resize.jpg",
+    "brokerageName": "Better Homes and Gardens Real Estate Gary Greene - Cypress",
+    "activatedOn": "2025-07-21T04:23:45.815Z",
+    "isInOpportunityZone": false,
+    "hasVideo": false,
+    "numberOfGalleryItems": 6,
+    "squareFootage": 11160,
+    "showCountdownAsDate": false,
+    "askingPrice": 1130000.0,
+    "userIsAssetOwner": false,
+    "updatedOn": "2025-07-21T13:33:29.895Z",
+    "numberOfImages": 6,
+    "types": [
+      "Industrial"
+    ],
+    "hasOM": false,
+    "hasFlyer": true,
+    "status": "On-Market",
+    "hasVirtualTour": false,
+    "locations": [
+      {
+        "address": "20690 Highway 90 W",
+        "city": "Sealy",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "77474",
+        "latitude": 29.767069348457863,
+        "longitude": -96.17671339589987,
+        "fullAddress": "20690 Highway 90 W, Sealy, TX 77474"
+      }
+    ],
+    "isNew": true
+  },
+  {
+    "id": 2031883,
+    "name": "Baywood Logistics",
+    "description": "Office | 374,297 SqFt",
+    "thumbnailUrl": "https://images.crexi.com/assets/2031883/fbe6fa1150e040aeae84da3155919bb6_716x444.jpg",
+    "urlSlug": "texas-baywood-logistics",
+    "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/14677/6ae8140fe38b496ebb8797dc937ffc0f_150x100_resize.jpg",
+    "brokerageName": "CBRE - Houston Galleria",
+    "activatedOn": "2025-07-21T04:07:42.247Z",
+    "isInOpportunityZone": false,
+    "hasVideo": false,
+    "numberOfGalleryItems": 4,
+    "squareFootage": 374297,
+    "showCountdownAsDate": false,
+    "userIsAssetOwner": false,
+    "updatedOn": "2025-07-21T04:07:52.748Z",
+    "numberOfImages": 4,
+    "types": [
+      "Office",
+      "Industrial"
+    ],
+    "hasOM": false,
+    "hasFlyer": true,
+    "status": "On-Market",
+    "hasVirtualTour": false,
+    "locations": [
+      {
+        "address": "8920 Red Bluff Road",
+        "city": "Pasadena",
+        "county": "Harris County",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "77505",
+        "latitude": 29.6646521,
+        "longitude": -95.1331536,
+        "fullAddress": "8920 Red Bluff Road, Pasadena, Harris County, TX 77505"
+      }
+    ],
+    "isNew": true
+  },
+  {
+    "id": 2031859,
+    "name": "290 Grand Logistics Center",
+    "description": "Industrial | 909,352 SqFt",
+    "thumbnailUrl": "https://images.crexi.com/assets/2031859/e80c31ba7c0c4b60a366637fb5682f85_716x444.jpg",
+    "urlSlug": "texas-290-grand-logistics-center",
+    "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/14677/6ae8140fe38b496ebb8797dc937ffc0f_150x100_resize.jpg",
+    "brokerageName": "CBRE - Houston Galleria",
+    "activatedOn": "2025-07-21T03:05:08.175Z",
+    "isInOpportunityZone": false,
+    "hasVideo": false,
+    "numberOfGalleryItems": 4,
+    "squareFootage": 909352,
+    "showCountdownAsDate": false,
+    "userIsAssetOwner": false,
+    "updatedOn": "2025-07-21T03:05:21.904Z",
+    "numberOfImages": 4,
+    "types": [
+      "Industrial",
+      "Land"
+    ],
+    "hasOM": false,
+    "hasFlyer": true,
+    "status": "On-Market",
+    "hasVirtualTour": false,
+    "locations": [
+      {
+        "address": "Hwy 290 & Kermier Rd",
+        "city": "Hockley",
+        "county": "Harris",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "77447",
+        "latitude": 30.0183017,
+        "longitude": -95.8203795,
+        "fullAddress": "Hwy 290 & Kermier Rd, Hockley, Harris, TX 77447"
+      }
+    ],
+    "isNew": true
+  },
+  {
+    "id": 2031848,
+    "name": "Constellation Eldridge",
+    "description": "Industrial | 537,375 SqFt",
+    "thumbnailUrl": "https://images.crexi.com/assets/2031848/cdfab5857a6f491b9bd727f07a6a2d31_716x444.jpg",
+    "urlSlug": "texas-constellation-eldridge",
+    "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/14677/6ae8140fe38b496ebb8797dc937ffc0f_150x100_resize.jpg",
+    "brokerageName": "CBRE - Houston Galleria",
+    "activatedOn": "2025-07-21T02:58:04.214Z",
+    "isInOpportunityZone": false,
+    "hasVideo": false,
+    "numberOfGalleryItems": 4,
+    "squareFootage": 537375,
+    "showCountdownAsDate": false,
+    "userIsAssetOwner": false,
+    "updatedOn": "2025-07-21T02:58:18.173Z",
+    "numberOfImages": 4,
+    "types": [
+      "Industrial"
+    ],
+    "hasOM": false,
+    "hasFlyer": true,
+    "status": "On-Market",
+    "hasVirtualTour": false,
+    "locations": [
+      {
+        "address": "6411 N Eldridge Pkwy",
+        "city": "Houston",
+        "county": "Harris County",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "77041",
+        "latitude": 29.8673385,
+        "longitude": -95.608516,
+        "fullAddress": "6411 N Eldridge Pkwy, Houston, Harris County, TX 77041"
+      }
+    ],
+    "isNew": true
+  },
+  {
+    "id": 2032482,
+    "name": "12813 Hwy. 64W",
+    "description": "Industrial | 49,400 SqFt",
+    "thumbnailUrl": "https://images.crexi.com/assets/2032482/576480193f8a42d49f6d3a1b8e8b5b30_716x444.jpg",
+    "urlSlug": "texas-12813-hwy-64w",
+    "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/5975/61434e0e471f448885949012ead2c272_150x100_resize.jpg",
+    "brokerageName": "Cresa",
+    "activatedOn": "2025-07-21T00:58:09.073Z",
+    "isInOpportunityZone": false,
+    "hasVideo": false,
+    "numberOfGalleryItems": 2,
+    "squareFootage": 49400,
+    "pricePerSqFtLand": "$15.27/SF",
+    "showCountdownAsDate": false,
+    "askingPrice": 3211000.0,
+    "userIsAssetOwner": false,
+    "updatedOn": "2025-07-21T01:01:43.894Z",
+    "numberOfImages": 2,
+    "types": [
+      "Industrial"
+    ],
+    "hasOM": false,
+    "hasFlyer": true,
+    "status": "On-Market",
+    "hasVirtualTour": false,
+    "locations": [
+      {
+        "address": "12813 Highway 64W",
+        "city": "Tyler",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "75704",
+        "latitude": 32.3986023,
+        "longitude": -95.4149003,
+        "fullAddress": "12813 Highway 64W, Tyler, TX 75704"
+      }
+    ],
+    "isNew": true
+  },
+  {
+    "id": 2032481,
+    "name": "302 Huntsman Way",
+    "description": "Industrial | 57,033 SqFt",
+    "thumbnailUrl": "https://images.crexi.com/assets/2032481/62841c852634411db414f594f3899c8f_716x444.jpg",
+    "urlSlug": "texas-302-huntsman-way",
+    "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/5975/61434e0e471f448885949012ead2c272_150x100_resize.jpg",
+    "brokerageName": "Cresa",
+    "activatedOn": "2025-07-21T00:38:30.79Z",
+    "isInOpportunityZone": true,
+    "hasVideo": false,
+    "numberOfGalleryItems": 12,
+    "squareFootage": 57033,
+    "pricePerSqFtLand": "$1.99/SF",
+    "showCountdownAsDate": false,
+    "askingPrice": 3421980.0,
+    "userIsAssetOwner": false,
+    "updatedOn": "2025-07-21T00:38:30.79Z",
+    "numberOfImages": 12,
+    "types": [
+      "Industrial"
+    ],
+    "investmentType": "Owner/User",
+    "hasOM": false,
+    "hasFlyer": true,
+    "status": "On-Market",
+    "hasVirtualTour": false,
+    "locations": [
+      {
+        "address": "302 Huntsman Way",
+        "city": "Longview",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "75603",
+        "latitude": 32.3817587,
+        "longitude": -94.7070616,
+        "fullAddress": "302 Huntsman Way, Longview, TX 75603"
+      }
+    ],
+    "isNew": true
+  },
+  {
+    "id": 2032194,
+    "name": "Richmond Flex",
+    "description": "Industrial | 9,066 SqFt",
+    "thumbnailUrl": "https://images.crexi.com/assets/2032194/5eb8cb49dc124153be1c62c84b7fb907_716x444.jpg",
+    "urlSlug": "texas-richmond-flex",
+    "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/61474/125aa25580814f44b931b82f4f0cc928_150x100_resize.jpg",
+    "brokerageName": "REALM Real Estate Professionals",
+    "activatedOn": "2025-07-20T20:47:21.555Z",
+    "isInOpportunityZone": false,
+    "hasVideo": false,
+    "numberOfGalleryItems": 1,
+    "squareFootage": 9066,
+    "showCountdownAsDate": false,
+    "askingPrice": 1950000.0,
+    "userIsAssetOwner": false,
+    "updatedOn": "2025-07-20T20:47:21.555Z",
+    "numberOfImages": 1,
+    "types": [
+      "Industrial"
+    ],
+    "hasOM": true,
+    "hasFlyer": false,
+    "status": "On-Market",
+    "hasVirtualTour": false,
+    "locations": [
+      {
+        "address": "6242 Richmond Ave.",
+        "city": "Houston",
+        "county": "Harris County",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "77057",
+        "latitude": 29.732419641973106,
+        "longitude": -95.49304850110046,
+        "fullAddress": "6242 Richmond Ave., Houston, Harris County, TX 77057"
+      }
+    ],
+    "isNew": true
+  },
+  {
+    "id": 2032188,
+    "name": "1520 Iturbide St",
+    "description": "Industrial | 6,173 SqFt",
+    "thumbnailUrl": "https://images.crexi.com/assets/2032188/f6031430858043af8180cdf069e27382_716x444.jpg",
+    "urlSlug": "texas-1520-iturbide-st",
+    "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/806/e822a2e8b32544e6833817e9e5c5f523_150x100_resize.jpg",
+    "brokerageName": "Coldwell Banker Ana Ochoa & Company",
+    "activatedOn": "2025-07-19T23:41:30.406Z",
+    "isInOpportunityZone": false,
+    "hasVideo": false,
+    "numberOfGalleryItems": 11,
+    "squareFootage": 6173,
+    "showCountdownAsDate": false,
+    "askingPrice": 160000.0,
+    "userIsAssetOwner": false,
+    "updatedOn": "2025-07-19T23:41:30.406Z",
+    "numberOfImages": 11,
+    "types": [
+      "Industrial"
+    ],
+    "hasOM": false,
+    "hasFlyer": true,
+    "status": "On-Market",
+    "hasVirtualTour": false,
+    "locations": [
+      {
+        "address": "1520 Iturbide St",
+        "city": "Laredo",
+        "county": "Webb County",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "78040",
+        "latitude": 27.5037668,
+        "longitude": -99.5112591,
+        "fullAddress": "1520 Iturbide St, Laredo, Webb County, TX 78040"
+      }
+    ],
+    "isNew": true
+  },
+  {
+    "id": 2031880,
+    "name": "11010 Jones Rd",
+    "description": "Industrial | 254,186 SqFt",
+    "thumbnailUrl": "https://images.crexi.com/assets/2031880/ae9450cb34c14e77b19b6e4678bc94f4_716x444.jpg",
+    "urlSlug": "texas-11010-jones-rd",
+    "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/14657/cfcfc92f775f490b8947d189d6bf3e55_150x100_resize.jpg",
+    "brokerageName": "Cushman & Wakefield Houston",
+    "activatedOn": "2025-07-19T23:13:17.528Z",
+    "isInOpportunityZone": false,
+    "hasVideo": false,
+    "numberOfGalleryItems": 2,
+    "squareFootage": 254186,
+    "showCountdownAsDate": false,
+    "userIsAssetOwner": false,
+    "updatedOn": "2025-07-19T23:13:17.528Z",
+    "numberOfImages": 2,
+    "types": [
+      "Industrial"
+    ],
+    "hasOM": false,
+    "hasFlyer": true,
+    "status": "On-Market",
+    "hasVirtualTour": false,
+    "locations": [
+      {
+        "address": "11010 Jones Rd",
+        "city": "Houston",
+        "county": "Harris County",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "77070",
+        "latitude": 29.9363913,
+        "longitude": -95.5842722,
+        "fullAddress": "11010 Jones Rd, Houston, Harris County, TX 77070"
+      }
+    ],
+    "isNew": true
+  },
+  {
+    "id": 2031685,
+    "name": "Belt Line Trade Center",
+    "description": "Industrial | 167,595 SqFt",
+    "thumbnailUrl": "https://images.crexi.com/assets/2031685/b204a2d7412241bea6f439514f11bcae_716x444.jpg",
+    "urlSlug": "texas-belt-line-trade-center",
+    "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/14067/38c8933f293a4f3392916f5c2c8c8601_150x100_resize.jpg",
+    "brokerageName": "Lee & Associates - Dallas/Fort Worth",
+    "activatedOn": "2025-07-19T23:04:29.591Z",
+    "isInOpportunityZone": false,
+    "hasVideo": false,
+    "numberOfGalleryItems": 4,
+    "showCountdownAsDate": false,
+    "userIsAssetOwner": false,
+    "updatedOn": "2025-07-21T17:40:44.615Z",
+    "numberOfImages": 4,
+    "types": [
+      "Industrial"
+    ],
+    "hasOM": false,
+    "hasFlyer": true,
+    "status": "On-Market",
+    "hasVirtualTour": false,
+    "locations": [
+      {
+        "address": "2451 S Belt Line Rd",
+        "city": "Grand Prairie",
+        "county": "Dallas County",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "75050",
+        "latitude": 32.78622748108946,
+        "longitude": -96.99483667396404,
+        "fullAddress": "2451 S Belt Line Rd, Grand Prairie, Dallas County, TX 75050"
+      }
+    ],
+    "isNew": true
+  },
+  {
+    "id": 2023985,
+    "name": "Office/Shop/Warehouses/4 Acres",
+    "description": "Hwy 87 (Lubbock Hwy) Frontage",
+    "thumbnailUrl": "https://images.crexi.com/assets/2023985/62dfd883fdae4a45b773d1397ad8a0b8_716x444.jpg",
+    "urlSlug": "texas-officeshopwarehouses4-acres",
+    "brokerageName": "Steadfast Realty",
+    "activatedOn": "2025-07-19T20:39:56.721Z",
+    "isInOpportunityZone": false,
+    "hasVideo": true,
+    "numberOfGalleryItems": 18,
+    "squareFootage": 0,
+    "showCountdownAsDate": false,
+    "userIsAssetOwner": false,
+    "updatedOn": "2025-07-19T20:39:56.721Z",
+    "numberOfImages": 17,
+    "types": [
+      "Industrial",
+      "Land"
+    ],
+    "hasOM": false,
+    "hasFlyer": true,
+    "status": "On-Market",
+    "hasVirtualTour": true,
+    "locations": [
+      {
+        "address": "211 S Lynn Ave",
+        "city": "Lamesa",
+        "county": "Dawson County",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "79331",
+        "latitude": 32.732505154689974,
+        "longitude": -101.94893183877417,
+        "fullAddress": "211 S Lynn Ave, Lamesa, Dawson County, TX 79331"
+      }
+    ],
+    "isNew": true
+  },
+  {
+    "id": 2015998,
+    "name": "2304 W Pioneer AAMCO",
+    "description": "Industrial | 2,794 SqFt",
+    "thumbnailUrl": "https://images.crexi.com/assets/2015998/312f5cfa78e64db8b8211ce91f60d9fa_716x444.jpg",
+    "urlSlug": "texas-2304-w-pioneer-aamco",
+    "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/112253/4e7664b7571e4f728b921bc0f6010528_150x100_resize.jpg",
+    "brokerageName": "Ebby Halliday",
+    "activatedOn": "2025-07-19T15:46:00.473Z",
+    "isInOpportunityZone": false,
+    "hasVideo": false,
+    "numberOfGalleryItems": 23,
+    "squareFootage": 2794,
+    "showCountdownAsDate": false,
+    "askingPrice": 1050000.0,
+    "userIsAssetOwner": false,
+    "updatedOn": "2025-07-19T15:46:00.473Z",
+    "numberOfImages": 23,
+    "types": [
+      "Industrial",
+      "Retail"
+    ],
+    "investmentType": "Net Lease",
+    "hasOM": false,
+    "hasFlyer": true,
+    "status": "On-Market",
+    "hasVirtualTour": false,
+    "locations": [
+      {
+        "address": "2304 W Pioneer Pkwy",
+        "city": "Pantego",
+        "county": "Tarrant County",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "76013",
+        "latitude": 32.709352591570884,
+        "longitude": -97.14514144596359,
+        "fullAddress": "2304 W Pioneer Pkwy, Pantego, Tarrant County, TX 76013"
+      }
+    ],
+    "isNew": true
+  },
+  {
+    "id": 2031535,
+    "name": "10.31 Acres- Energy Intensive Potential",
+    "description": "Artificial Intelligence - Tech - Energy Potential - 10.31 acres and over 20,000 SF",
+    "thumbnailUrl": "https://images.crexi.com/assets/2031535/1fd3f8210caf455da18f0c90c798e6cf_716x444.jpg",
+    "urlSlug": "texas-1031-acres--energy-intensive-potential",
+    "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/102623/f184184feab34e7b9a173f905b04f031_150x100_resize.jpg",
+    "brokerageName": "Cornerstone Home & Ranch",
+    "activatedOn": "2025-07-19T15:10:11.268Z",
+    "isInOpportunityZone": false,
+    "hasVideo": true,
+    "numberOfGalleryItems": 35,
+    "squareFootage": 20506,
+    "showCountdownAsDate": false,
+    "askingPrice": 3499000.0,
+    "userIsAssetOwner": false,
+    "updatedOn": "2025-07-19T15:10:11.268Z",
+    "numberOfImages": 34,
+    "types": [
+      "Industrial",
+      "Land",
+      "Mixed Use",
+      "Special Purpose"
+    ],
+    "hasOM": false,
+    "hasFlyer": true,
+    "status": "On-Market",
+    "hasVirtualTour": false,
+    "locations": [
+      {
+        "address": "3008 Ranger Hwy",
+        "city": "Weatherford",
+        "county": "Parker",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "76088",
+        "latitude": 32.72979287372518,
+        "longitude": -97.87194393911692,
+        "fullAddress": "3008 Ranger Hwy, Weatherford, Parker, TX 76088"
+      }
+    ],
+    "isNew": true
+  },
+  {
+    "id": 2031084,
+    "name": "13506 Palmer Rd",
+    "description": "Multifamily",
+    "thumbnailUrl": "https://images.crexi.com/assets/2031084/97edcf0d9f384620af22f747fcf7f424_716x444.jpg",
+    "urlSlug": "texas-13506-palmer-rd",
+    "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/37520/ea5a64d46b814f89b52cbcc4bbb903d5_150x100_resize.jpg",
+    "brokerageName": "eXp Realty Austin",
+    "activatedOn": "2025-07-18T23:50:36.162Z",
+    "isInOpportunityZone": false,
+    "hasVideo": false,
+    "numberOfGalleryItems": 48,
+    "squareFootage": 1456,
+    "showCountdownAsDate": false,
+    "askingPrice": 475000.0,
+    "userIsAssetOwner": false,
+    "updatedOn": "2025-07-18T23:50:36.162Z",
+    "numberOfImages": 48,
+    "types": [
+      "Multifamily",
+      "Industrial",
+      "Land"
+    ],
+    "investmentType": "Owner/User",
+    "hasOM": false,
+    "hasFlyer": true,
+    "status": "On-Market",
+    "hasVirtualTour": false,
+    "locations": [
+      {
+        "address": "13506 Palmer Rd",
+        "city": "Buda",
+        "county": "Travis County",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "78610",
+        "latitude": 30.0868244,
+        "longitude": -97.7678106,
+        "fullAddress": "13506 Palmer Rd, Buda, Travis County, TX 78610"
+      }
+    ],
+    "isNew": true
+  },
+  {
+    "id": 2031680,
+    "name": "Welding shop with overhead doors and fenced yard",
+    "description": "Welding shop with overhead doors and fenced yard",
+    "thumbnailUrl": "https://images.crexi.com/assets/2031680/4c9fead8da064cce90a8954a2ae053cc_716x444.jpg",
+    "urlSlug": "texas-welding-shop-with-overhead-doors-and-fenced-yard",
+    "brokerageName": "Haus Property Group",
+    "activatedOn": "2025-07-18T21:21:36.28Z",
+    "isInOpportunityZone": false,
+    "hasVideo": false,
+    "numberOfGalleryItems": 21,
+    "squareFootage": 1950,
+    "showCountdownAsDate": false,
+    "askingPrice": 400000.0,
+    "userIsAssetOwner": false,
+    "updatedOn": "2025-07-18T21:21:36.281Z",
+    "numberOfImages": 21,
+    "types": [
+      "Industrial"
+    ],
+    "hasOM": false,
+    "hasFlyer": true,
+    "status": "On-Market",
+    "hasVirtualTour": false,
+    "locations": [
+      {
+        "address": "708 S Colorado St",
+        "city": "Midland",
+        "county": "Midland County",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "79701",
+        "latitude": 31.990445209244072,
+        "longitude": -102.0766345633168,
+        "fullAddress": "708 S Colorado St, Midland, Midland County, TX 79701"
+      }
+    ],
+    "isNew": true
+  },
+  {
+    "id": 2031602,
+    "name": "1207 Farmers Rd.",
+    "description": "Newly Constructed Class A Industrial | 40,670 SF | 24' Clear Height | 16 DH Doors",
+    "thumbnailUrl": "https://map-images.crexi.com/map-images/TX/Grand%20Prairie",
+    "urlSlug": "texas-1207-farmers-rd",
+    "brokerTeamLogoUrl": "https://images.crexi.com/broker-teams/2327/f1e58f49cf164fc3b541709e092f5c77_150x100_resize.jpg",
+    "brokerageName": "Bradford Commercial",
+    "activatedOn": "2025-07-18T20:07:00.294Z",
+    "isInOpportunityZone": false,
+    "hasVideo": false,
+    "numberOfGalleryItems": 0,
+    "squareFootage": 40670,
+    "showCountdownAsDate": false,
+    "userIsAssetOwner": false,
+    "updatedOn": "2025-07-18T20:07:29.329Z",
+    "numberOfImages": 0,
+    "types": [
+      "Industrial"
+    ],
+    "hasOM": false,
+    "hasFlyer": true,
+    "status": "On-Market",
+    "hasVirtualTour": false,
+    "locations": [
+      {
+        "address": "1207 Farmers Rd",
+        "city": "Grand Prairie",
+        "county": "Dallas County",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "75050",
+        "latitude": 32.79898053066661,
+        "longitude": -97.02380159064008,
+        "fullAddress": "1207 Farmers Rd, Grand Prairie, Dallas County, TX 75050"
+      }
+    ],
+    "isNew": true
+  },
+  {
+    "id": 2031567,
+    "name": "2508 McAllister",
+    "description": "Industrial | 22,280 SqFt",
+    "thumbnailUrl": "https://images.crexi.com/assets/2031567/7c6004b1788649398fc3657b948c2dc2_716x444.jpg",
+    "urlSlug": "texas-2508-mcallister",
+    "brokerageName": "Bridge Commercial",
+    "activatedOn": "2025-07-18T19:20:06.331Z",
+    "isInOpportunityZone": false,
+    "hasVideo": false,
+    "numberOfGalleryItems": 1,
+    "squareFootage": 22280,
+    "showCountdownAsDate": false,
+    "userIsAssetOwner": false,
+    "updatedOn": "2025-07-18T19:20:06.331Z",
+    "numberOfImages": 1,
+    "types": [
+      "Industrial"
+    ],
+    "hasOM": true,
+    "hasFlyer": false,
+    "status": "On-Market",
+    "hasVirtualTour": false,
+    "locations": [
+      {
+        "address": "2508 McAllister",
+        "city": "Houston",
+        "county": "Harris",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "77092",
+        "latitude": 29.811245,
+        "longitude": -95.463274,
+        "fullAddress": "2508 McAllister, Houston, Harris, TX 77092"
+      }
+    ],
+    "isNew": true
+  },
+  {
+    "id": 2031499,
+    "name": "9399 Summerbell Ln",
+    "description": "Industrial | 9,000 SqFt",
+    "thumbnailUrl": "https://images.crexi.com/assets/2031499/2143e567292d42caaa2548497dcca085_716x444.jpg",
+    "urlSlug": "texas-9399-summerbell-ln",
+    "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/5031/5306fe2f19cc4fd9bbffca12d870f794_150x100_resize.jpg",
+    "brokerageName": "Centermark Commercial Real Estate",
+    "activatedOn": "2025-07-18T18:23:56.308Z",
+    "isInOpportunityZone": false,
+    "hasVideo": false,
+    "numberOfGalleryItems": 7,
+    "squareFootage": 9000,
+    "showCountdownAsDate": false,
+    "userIsAssetOwner": false,
+    "updatedOn": "2025-07-18T18:24:58.195Z",
+    "numberOfImages": 7,
+    "types": [
+      "Industrial"
+    ],
+    "hasOM": false,
+    "hasFlyer": true,
+    "status": "On-Market",
+    "hasVirtualTour": false,
+    "locations": [
+      {
+        "address": "9399 Summerbell Ln",
+        "city": "Houston",
+        "county": "Harris County",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "77074",
+        "latitude": 29.671470764574078,
+        "longitude": -95.54052516929741,
+        "fullAddress": "9399 Summerbell Ln, Houston, Harris County, TX 77074"
+      }
+    ],
+    "isNew": true
+  },
+  {
+    "id": 2031375,
+    "name": "2701 W Amarillo Blvd",
+    "description": "Industrial | 6,969 SqFt",
+    "thumbnailUrl": "https://images.crexi.com/assets/2031375/1e17a7c2242c4c8db4bc7d17d27438b5_716x444.jpg",
+    "urlSlug": "texas-2701-w-amarillo-blvd",
+    "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/25809/5484db3bfe8b4be4822acfc7bb89d2d7_150x100_resize.jpg",
+    "brokerageName": "Coldwell Banker Commercial First Equity",
+    "activatedOn": "2025-07-18T16:22:14.988Z",
+    "isInOpportunityZone": false,
+    "hasVideo": false,
+    "numberOfGalleryItems": 2,
+    "squareFootage": 6969,
+    "showCountdownAsDate": false,
+    "askingPrice": 30000.0,
+    "userIsAssetOwner": false,
+    "updatedOn": "2025-07-18T16:22:14.988Z",
+    "numberOfImages": 2,
+    "types": [
+      "Industrial",
+      "Land"
+    ],
+    "hasOM": false,
+    "hasFlyer": true,
+    "status": "On-Market",
+    "hasVirtualTour": false,
+    "locations": [
+      {
+        "address": "2701 W Amarillo Blvd",
+        "city": "Amarillo",
+        "county": "Potter County",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "79106",
+        "latitude": 35.221907164702635,
+        "longitude": -101.86656163713116,
+        "fullAddress": "2701 W Amarillo Blvd, Amarillo, Potter County, TX 79106"
+      }
+    ],
+    "isNew": true
+  },
+  {
+    "id": 2031323,
+    "name": "INDUSTRIAL SERVICE CENTER AVAILABLE",
+    "description": "Development Potential | Functional Overhang",
+    "thumbnailUrl": "https://images.crexi.com/assets/2031323/f51f9e8188b44dfea423b5e54e1b1c31_716x444.jpg",
+    "urlSlug": "texas-industrial-service-center-available",
+    "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/23415/b700013f4adb4675be07feb6b67b48c7_150x100_resize.jpg",
+    "brokerageName": "Matthews Real Estate Investment Services El Segundo",
+    "activatedOn": "2025-07-18T15:28:51.125Z",
+    "isInOpportunityZone": true,
+    "hasVideo": false,
+    "numberOfGalleryItems": 3,
+    "squareFootage": 6900,
+    "showCountdownAsDate": false,
+    "askingPrice": 1220000.0,
+    "userIsAssetOwner": false,
+    "updatedOn": "2025-07-21T02:30:16.712Z",
+    "numberOfImages": 3,
+    "types": [
+      "Industrial",
+      "Special Purpose"
+    ],
+    "investmentType": "Owner/User",
+    "hasOM": true,
+    "hasFlyer": false,
+    "status": "On-Market",
+    "hasVirtualTour": false,
+    "locations": [
+      {
+        "address": "2914 Massey Tompkins Rd",
+        "city": "Baytown",
+        "county": "Harris County",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "77521",
+        "latitude": 29.766568,
+        "longitude": -94.9314373,
+        "fullAddress": "2914 Massey Tompkins Rd, Baytown, Harris County, TX 77521"
+      }
+    ],
+    "isNew": true
+  },
+  {
+    "id": 2031306,
+    "name": "12311 North Eldridge Parkway, Cypress, TX 77429",
+    "description": "Industrial | 2,750 SqFt",
+    "thumbnailUrl": "https://images.crexi.com/assets/2031306/1218d3d4f5a6433082c677e95367da15_716x444.jpg",
+    "urlSlug": "texas-12311-north-eldridge-parkway-cypress-tx-77429",
+    "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/20529/e8b2e1b3fe1e44378c4195d8116c5bab_150x100_resize.jpg",
+    "brokerageName": "KW Commercial Houston SW",
+    "activatedOn": "2025-07-18T15:17:32.413Z",
+    "isInOpportunityZone": false,
+    "hasVideo": false,
+    "numberOfGalleryItems": 29,
+    "squareFootage": 2750,
+    "showCountdownAsDate": false,
+    "askingPrice": 595000.0,
+    "userIsAssetOwner": false,
+    "updatedOn": "2025-07-21T18:59:56.229Z",
+    "numberOfImages": 29,
+    "types": [
+      "Industrial"
+    ],
+    "hasOM": false,
+    "hasFlyer": true,
+    "status": "On-Market",
+    "hasVirtualTour": false,
+    "locations": [
+      {
+        "address": "12311 N Eldridge Pkwy",
+        "city": "Houston",
+        "county": "Harris County",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "77429",
+        "latitude": 29.9533386,
+        "longitude": -95.6051039,
+        "fullAddress": "12311 N Eldridge Pkwy, Houston, Harris County, TX 77429"
+      }
+    ],
+    "isNew": true
+  },
+  {
+    "id": 2031265,
+    "name": "201 West Anaya Road",
+    "description": "Industrial | 109,737 SqFt",
+    "thumbnailUrl": "https://images.crexi.com/assets/2031265/628c0453359d41d99d2f85c66d11f84c_716x444.jpg",
+    "urlSlug": "texas-201-west-anaya-road",
+    "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/14043/c4da630e8aa54429a76fdba4541618f3_150x100_resize.jpg",
+    "brokerageName": "Marcus & Millichap - Dallas",
+    "activatedOn": "2025-07-18T14:38:12.992Z",
+    "isInOpportunityZone": false,
+    "hasVideo": false,
+    "numberOfGalleryItems": 6,
+    "squareFootage": 109737,
+    "showCountdownAsDate": false,
+    "askingPrice": 9575000.0,
+    "userIsAssetOwner": false,
+    "updatedOn": "2025-07-18T14:38:12.993Z",
+    "numberOfImages": 6,
+    "types": [
+      "Industrial"
+    ],
+    "hasOM": false,
+    "hasFlyer": true,
+    "status": "On-Market",
+    "hasVirtualTour": false,
+    "locations": [
+      {
+        "address": "201 W Anaya Rd",
+        "city": "Pharr",
+        "county": "Hidalgo County",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "78577",
+        "latitude": 26.1086491,
+        "longitude": -98.2034555,
+        "fullAddress": "201 W Anaya Rd, Pharr, Hidalgo County, TX 78577"
+      }
+    ],
+    "isNew": true
+  },
+  {
+    "id": 2024040,
+    "name": "10507-10525 Harry Hines Blvd",
+    "description": "Industrial | 55,583 SqFt",
+    "thumbnailUrl": "https://images.crexi.com/assets/2024040/b503e1e08b7544c3bc8c892d84d188f8_716x444.jpg",
+    "urlSlug": "texas-10507-10525-harry-hines-blvd",
+    "brokerTeamLogoUrl": "https://images.crexi.com/broker-teams/1774/6c79c3594b7647dd9208f116395f3472_150x100_resize.jpg",
+    "brokerageName": "Vista Holdings",
+    "activatedOn": "2025-07-18T12:18:25.634Z",
+    "isInOpportunityZone": false,
+    "hasVideo": false,
+    "numberOfGalleryItems": 5,
+    "squareFootage": 55583,
+    "showCountdownAsDate": false,
+    "askingPrice": 11500000.0,
+    "userIsAssetOwner": false,
+    "updatedOn": "2025-07-18T12:27:25.511Z",
+    "numberOfImages": 5,
+    "types": [
+      "Industrial"
+    ],
+    "hasOM": true,
+    "hasFlyer": false,
+    "status": "On-Market",
+    "hasVirtualTour": false,
+    "locations": [
+      {
+        "address": "10507 Harry Hines Blvd",
+        "city": "Dallas",
+        "county": "Dallas County",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "75220",
+        "latitude": 32.8668753,
+        "longitude": -96.882934,
+        "fullAddress": "10507 Harry Hines Blvd, Dallas, Dallas County, TX 75220"
+      }
+    ],
+    "isNew": true
+  },
+  {
+    "id": 2030664,
+    "name": "21195 Blair Rd, Building 17",
+    "description": "Office | 5,306 SqFt",
+    "thumbnailUrl": "https://images.crexi.com/assets/2030664/76150d6514e44846939ff242bfbd04d9_716x444.jpg",
+    "urlSlug": "texas-21195-blair-rd-building-17",
+    "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/69025/378f4033e0474d248bee5ad17680ba4b_150x100_resize.jpg",
+    "brokerageName": "JLL - Houston, Texas",
+    "activatedOn": "2025-07-18T05:54:47.976Z",
+    "isInOpportunityZone": false,
+    "hasVideo": false,
+    "numberOfGalleryItems": 9,
+    "squareFootage": 5306,
+    "showCountdownAsDate": false,
+    "askingPrice": 822000.0,
+    "userIsAssetOwner": false,
+    "updatedOn": "2025-07-18T05:55:02.885Z",
+    "numberOfImages": 9,
+    "types": [
+      "Office",
+      "Industrial"
+    ],
+    "hasOM": false,
+    "hasFlyer": true,
+    "status": "On-Market",
+    "hasVirtualTour": false,
+    "locations": [
+      {
+        "address": "21195 Blair Rd, Building 17",
+        "city": "Conroe",
+        "county": "Montgomery County",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "77385",
+        "latitude": 30.1459633,
+        "longitude": -95.4310146,
+        "fullAddress": "21195 Blair Rd, Building 17, Conroe, Montgomery County, TX 77385"
+      }
+    ],
+    "isNew": true
+  },
+  {
+    "id": 2024077,
+    "name": "10916 E Cottonwood",
+    "description": "Multifamily",
+    "thumbnailUrl": "https://images.crexi.com/assets/2024077/2a63a83c6e1f4fa09d8567a64bc520b0_716x444.jpg",
+    "urlSlug": "texas-10916-e-cottonwood",
+    "brokerageName": "Hollums Realty",
+    "activatedOn": "2025-07-18T05:10:11.561Z",
+    "isInOpportunityZone": false,
+    "hasVideo": false,
+    "numberOfGalleryItems": 35,
+    "squareFootage": 6600,
+    "showCountdownAsDate": false,
+    "askingPrice": 1100000.0,
+    "userIsAssetOwner": false,
+    "updatedOn": "2025-07-18T16:15:05.243Z",
+    "numberOfImages": 35,
+    "types": [
+      "Multifamily",
+      "Office",
+      "Industrial",
+      "Mixed Use"
+    ],
+    "hasOM": false,
+    "hasFlyer": true,
+    "status": "On-Market",
+    "hasVirtualTour": false,
+    "locations": [
+      {
+        "address": "10916 E Cottonwood Rd",
+        "city": "Gardendale",
+        "county": "Ector County",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "79758",
+        "latitude": 32.0248783,
+        "longitude": -102.2885994,
+        "fullAddress": "10916 E Cottonwood Rd, Gardendale, Ector County, TX 79758"
+      }
+    ],
+    "isNew": true
+  },
+  {
+    "id": 2023988,
+    "name": "3813 Magnolia Parkway",
+    "description": "Retail | 3,510 SqFt",
+    "thumbnailUrl": "https://images.crexi.com/assets/2023988/2389742ff1e04d4ba35221a5b8177405_716x444.jpg",
+    "urlSlug": "texas-3813-magnolia-parkway",
+    "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/27432/b7290bc973a14392a5d1128e132eb206_150x100_resize.jpg",
+    "brokerageName": "CRESA Houston",
+    "activatedOn": "2025-07-17T20:38:21.848Z",
+    "isInOpportunityZone": false,
+    "hasVideo": false,
+    "numberOfGalleryItems": 13,
+    "squareFootage": 3510,
+    "showCountdownAsDate": false,
+    "userIsAssetOwner": false,
+    "updatedOn": "2025-07-17T20:38:34.691Z",
+    "numberOfImages": 13,
+    "types": [
+      "Retail",
+      "Office",
+      "Industrial"
+    ],
+    "hasOM": false,
+    "hasFlyer": true,
+    "status": "On-Market",
+    "hasVirtualTour": false,
+    "locations": [
+      {
+        "address": "3813 Magnolia Parkway",
+        "city": "Pearland",
+        "county": "Brazoria County",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "77584",
+        "latitude": 29.5321026,
+        "longitude": -95.3207069,
+        "fullAddress": "3813 Magnolia Parkway, Pearland, Brazoria County, TX 77584"
+      }
+    ],
+    "isNew": true
+  },
+  {
+    "id": 1887945,
+    "name": "Forest West Business Park",
+    "description": "Build to Suit",
+    "thumbnailUrl": "https://images.crexi.com/assets/1887945/ae8d79026c4d43439485da05b8472a2d_716x444.jpg",
+    "urlSlug": "texas-forest-west-business-park",
+    "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/87660/98784fccfc474c93b0d6787afad9a63e_150x100_resize.jpg",
+    "brokerageName": "Pinnacle Realty Advisors",
+    "activatedOn": "2025-07-17T20:24:35.74Z",
+    "isInOpportunityZone": false,
+    "hasVideo": false,
+    "numberOfGalleryItems": 3,
+    "showCountdownAsDate": false,
+    "userIsAssetOwner": false,
+    "updatedOn": "2025-07-17T20:26:29.117Z",
+    "numberOfImages": 3,
+    "types": [
+      "Industrial",
+      "Mixed Use",
+      "Office",
+      "Retail"
+    ],
+    "hasOM": false,
+    "hasFlyer": true,
+    "status": "On-Market",
+    "hasVirtualTour": false,
+    "locations": [
+      {
+        "address": "33120 Forest W St",
+        "city": "Magnolia",
+        "county": "Montgomery County",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "77354",
+        "latitude": 30.223884,
+        "longitude": -95.5803628,
+        "fullAddress": "33120 Forest W St, Magnolia, Montgomery County, TX 77354"
+      }
+    ],
+    "isNew": true
+  },
+  {
+    "id": 2030663,
+    "name": "11370 Brittmoore Park Dr",
+    "description": "Industrial | 4,730 SqFt",
+    "thumbnailUrl": "https://images.crexi.com/assets/2030663/98aedd4ec48f49a88c63e85acbe9a7d4_716x444.jpg",
+    "urlSlug": "texas-11370-brittmoore-park-dr",
+    "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/14660/d56e141cebb34a3c8bdbd617bb4cf228_150x100_resize.jpg",
+    "brokerageName": "Colliers - Houston, Texas",
+    "activatedOn": "2025-07-17T20:23:29.207Z",
+    "isInOpportunityZone": false,
+    "hasVideo": false,
+    "numberOfGalleryItems": 7,
+    "squareFootage": 4730,
+    "showCountdownAsDate": false,
+    "userIsAssetOwner": false,
+    "updatedOn": "2025-07-17T22:17:58.721Z",
+    "numberOfImages": 7,
+    "types": [
+      "Industrial"
+    ],
+    "hasOM": false,
+    "hasFlyer": true,
+    "status": "On-Market",
+    "hasVirtualTour": false,
+    "locations": [
+      {
+        "address": "11370 Brittmoore Park Dr",
+        "city": "Houston",
+        "county": "Harris County",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "77041",
+        "latitude": 29.84550448,
+        "longitude": -95.57950825,
+        "fullAddress": "11370 Brittmoore Park Dr, Houston, Harris County, TX 77041"
+      }
+    ],
+    "isNew": true
+  },
+  {
+    "id": 1581437,
+    "name": "Mixed Use | 36 Acres | 20 Minutes to San Antonio",
+    "description": "36-Acre Mixed Use Property",
+    "thumbnailUrl": "https://images.crexi.com/assets/1581437/fbf91ea618b04e4da98a00d6634439b5_716x444.jpg",
+    "urlSlug": "texas-mixed-use-36-acres-20-minutes-to-san-antonio",
+    "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/114650/ca83273a51cd412392a67a21afedee2b_150x100_resize.jpg",
+    "brokerageName": "Leverage Realty Consulting Group, LLC",
+    "activatedOn": "2025-07-17T19:13:17.978Z",
+    "isInOpportunityZone": false,
+    "hasVideo": false,
+    "numberOfGalleryItems": 56,
+    "squareFootage": 15000,
+    "showCountdownAsDate": false,
+    "askingPrice": 1174900.0,
+    "userIsAssetOwner": false,
+    "updatedOn": "2025-07-17T19:13:17.978Z",
+    "numberOfImages": 56,
+    "types": [
+      "Industrial",
+      "Land",
+      "Mixed Use",
+      "Multifamily"
+    ],
+    "investmentType": "Value Add",
+    "hasOM": true,
+    "hasFlyer": false,
+    "status": "On-Market",
+    "hasVirtualTour": true,
+    "locations": [
+      {
+        "address": "804 Co Rd 6612",
+        "city": "Devine",
+        "county": "Medina County",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "78016",
+        "latitude": 29.17338604439376,
+        "longitude": -98.91161476936497,
+        "fullAddress": "804 Co Rd 6612, Devine, Medina County, TX 78016"
+      }
+    ],
+    "isNew": true
+  },
+  {
+    "id": 2029059,
+    "name": "4201 Roland Rd",
+    "description": "Industrial",
+    "thumbnailUrl": "https://images.crexi.com/assets/2029059/9a3684d886c441338f43a367168a933d_716x444.jpg",
+    "urlSlug": "texas-4201-roland-st",
+    "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/103002/7a94345279dd4cb293bc2ace97e76259_150x100_resize.jpg",
+    "brokerageName": "First Houston Properties, Inc.",
+    "activatedOn": "2025-07-17T18:25:05.926Z",
+    "isInOpportunityZone": false,
+    "hasVideo": false,
+    "numberOfGalleryItems": 7,
+    "showCountdownAsDate": false,
+    "userIsAssetOwner": false,
+    "updatedOn": "2025-07-17T19:45:30.64Z",
+    "numberOfImages": 7,
+    "types": [
+      "Industrial",
+      "Land"
+    ],
+    "hasOM": false,
+    "hasFlyer": true,
+    "status": "On-Market",
+    "hasVirtualTour": false,
+    "locations": [
+      {
+        "address": "4201 Roland Rd",
+        "city": "Katy",
+        "county": "Harris County",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "77493",
+        "latitude": 29.8357498,
+        "longitude": -95.8033123,
+        "fullAddress": "4201 Roland Rd, Katy, Harris County, TX 77493"
+      }
+    ],
+    "isNew": true
+  },
+  {
+    "id": 2024583,
+    "name": "3707 12th street",
+    "description": "\"Rare 2.38 -acre Opportunity with existing structure- ready for re-development",
+    "thumbnailUrl": "https://images.crexi.com/assets/2024583/a8757f67388d4ef48deadeb1648a7f36_716x444.jpg",
+    "urlSlug": "texas-3707-12th-street",
+    "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/8330/6f4050a425fe4dc9b349dbdaef30053a_150x100_resize.jpg",
+    "brokerageName": "KW Commercial Signature",
+    "activatedOn": "2025-07-17T16:31:18.719Z",
+    "isInOpportunityZone": false,
+    "hasVideo": false,
+    "numberOfGalleryItems": 17,
+    "squareFootage": 913,
+    "showCountdownAsDate": false,
+    "askingPrice": 485000.0,
+    "userIsAssetOwner": false,
+    "updatedOn": "2025-07-17T16:37:54.065Z",
+    "numberOfImages": 17,
+    "types": [
+      "Industrial",
+      "Land",
+      "Mixed Use",
+      "Mobile Home Park",
+      "Special Purpose"
+    ],
+    "hasOM": false,
+    "hasFlyer": true,
+    "status": "On-Market",
+    "hasVirtualTour": false,
+    "locations": [
+      {
+        "address": "3707 12th st",
+        "city": "Brookshire",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "77423",
+        "latitude": 29.77520934678561,
+        "longitude": -95.94745131691771,
+        "fullAddress": "3707 12th st, Brookshire, TX 77423"
+      }
+    ],
+    "isNew": true
+  },
+  {
+    "id": 2024579,
+    "name": "11930 Homestead Rd",
+    "description": "Industrial",
+    "thumbnailUrl": "https://images.crexi.com/assets/2024579/77aa7f0bfa1c45c0a462916a7760efa3_716x444.jpg",
+    "urlSlug": "texas-11930-homestead-rd",
+    "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/103002/7a94345279dd4cb293bc2ace97e76259_150x100_resize.jpg",
+    "brokerageName": "First Houston Properties, Inc.",
+    "activatedOn": "2025-07-17T16:10:04.332Z",
+    "isInOpportunityZone": false,
+    "hasVideo": false,
+    "numberOfGalleryItems": 3,
+    "showCountdownAsDate": false,
+    "userIsAssetOwner": false,
+    "updatedOn": "2025-07-17T16:10:14.36Z",
+    "numberOfImages": 3,
+    "types": [
+      "Industrial",
+      "Land"
+    ],
+    "hasOM": false,
+    "hasFlyer": true,
+    "status": "On-Market",
+    "hasVirtualTour": false,
+    "locations": [
+      {
+        "address": "11930 Homestead Rd",
+        "city": "Houston",
+        "county": "Harris County",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "77050",
+        "latitude": 29.8959152,
+        "longitude": -95.3000217,
+        "fullAddress": "11930 Homestead Rd, Houston, Harris County, TX 77050"
+      }
+    ],
+    "isNew": true
+  },
+  {
+    "id": 2024457,
+    "name": "2209 N Cesar Chavez Road",
+    "description": "Industrial | 1,456 SqFt",
+    "thumbnailUrl": "https://images.crexi.com/assets/2024457/ef1b7e228a834a3d864f36c883b56168_716x444.jpg",
+    "urlSlug": "texas-2209-n-cesar-chavez-road",
+    "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/85052/a8bdde3d9ffd4d569fbace35f1cc57f0_150x100_resize.jpg",
+    "brokerageName": "Coldwell Banker Commercial - RGV",
+    "activatedOn": "2025-07-17T14:00:33Z",
+    "isInOpportunityZone": false,
+    "hasVideo": false,
+    "numberOfGalleryItems": 11,
+    "squareFootage": 1456,
+    "showCountdownAsDate": false,
+    "askingPrice": 425000.0,
+    "userIsAssetOwner": false,
+    "updatedOn": "2025-07-17T14:05:15.145Z",
+    "numberOfImages": 11,
+    "types": [
+      "Industrial"
+    ],
+    "hasOM": false,
+    "hasFlyer": true,
+    "status": "On-Market",
+    "hasVirtualTour": false,
+    "locations": [
+      {
+        "address": "2209 N Cesar Chavez Road",
+        "city": "San Juan",
+        "county": "Hidalgo",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "78589",
+        "latitude": 26.2133754,
+        "longitude": -98.1308685,
+        "fullAddress": "2209 N Cesar Chavez Road, San Juan, Hidalgo, TX 78589"
+      }
+    ],
+    "isNew": true
+  },
+  {
+    "id": 2013428,
+    "name": "33204 Magnolia Circle",
+    "description": "100% Leased NNN",
+    "thumbnailUrl": "https://images.crexi.com/assets/2013428/e90b4d2d8b4e4ce2859b2a6a6dfbe66b_716x444.jpg",
+    "urlSlug": "texas-33204-magnolia-circle",
+    "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/87660/98784fccfc474c93b0d6787afad9a63e_150x100_resize.jpg",
+    "brokerageName": "Pinnacle Realty Advisors",
+    "activatedOn": "2025-07-17T13:04:16.844Z",
+    "isInOpportunityZone": false,
+    "hasVideo": false,
+    "numberOfGalleryItems": 7,
+    "squareFootage": 38000,
+    "showCountdownAsDate": false,
+    "askingPrice": 6499000.0,
+    "userIsAssetOwner": false,
+    "updatedOn": "2025-07-20T20:00:04.831Z",
+    "numberOfImages": 7,
+    "types": [
+      "Industrial",
+      "Special Purpose"
+    ],
+    "investmentType": "Stabilized",
+    "hasOM": false,
+    "hasFlyer": true,
+    "status": "On-Market",
+    "hasVirtualTour": false,
+    "locations": [
+      {
+        "address": "33204 Magnolia Cir",
+        "city": "Magnolia",
+        "county": "Montgomery County",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "77354",
+        "latitude": 30.225278401107406,
+        "longitude": -95.58386079436993,
+        "fullAddress": "33204 Magnolia Cir, Magnolia, Montgomery County, TX 77354"
+      }
+    ],
+    "isNew": true
+  },
+  {
+    "id": 2024272,
+    "name": "1512 Crestridge.",
+    "description": "Industrial | 2,100 SqFt",
+    "thumbnailUrl": "https://images.crexi.com/assets/2024272/f7ac87d097a64240b76eaa6522403e0f_716x444.jpg",
+    "urlSlug": "texas-1512-crestridge",
+    "brokerageName": "Coldwell Banker Apex, Realtors",
+    "activatedOn": "2025-07-17T10:06:13.394Z",
+    "isInOpportunityZone": true,
+    "hasVideo": false,
+    "numberOfGalleryItems": 34,
+    "squareFootage": 2100,
+    "showCountdownAsDate": false,
+    "askingPrice": 455000.0,
+    "userIsAssetOwner": false,
+    "updatedOn": "2025-07-19T22:11:08.538Z",
+    "numberOfImages": 34,
+    "types": [
+      "Industrial",
+      "Land"
+    ],
+    "hasOM": false,
+    "hasFlyer": true,
+    "status": "On-Market",
+    "hasVirtualTour": false,
+    "locations": [
+      {
+        "address": "1512 Crestridge.",
+        "city": "Cleburne",
+        "county": "Johnson",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "76033",
+        "latitude": 32.3414891,
+        "longitude": -97.4103696,
+        "fullAddress": "1512 Crestridge., Cleburne, Johnson, TX 76033"
+      }
+    ],
+    "isNew": true
+  },
+  {
+    "id": 2023828,
+    "name": "7692 sqft warehouse",
+    "description": "Industrial | 7,692 SqFt",
+    "thumbnailUrl": "https://images.crexi.com/assets/2023828/d56df1bd70704eee926c1eb9d48c76b9_716x444.jpg",
+    "urlSlug": "texas-7692-sqft-warehouse",
+    "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/67522/6723b59f331748edaa7745929032742c_150x100_resize.jpg",
+    "brokerageName": "Keller Williams Dallas Preston Road",
+    "activatedOn": "2025-07-16T22:30:00.832Z",
+    "isInOpportunityZone": false,
+    "hasVideo": false,
+    "numberOfGalleryItems": 19,
+    "squareFootage": 7692,
+    "showCountdownAsDate": false,
+    "askingPrice": 1400000.0,
+    "userIsAssetOwner": false,
+    "updatedOn": "2025-07-18T20:43:23.67Z",
+    "numberOfImages": 19,
+    "types": [
+      "Industrial"
+    ],
+    "hasOM": false,
+    "hasFlyer": true,
+    "status": "On-Market",
+    "hasVirtualTour": false,
+    "locations": [
+      {
+        "address": "4309 Action St",
+        "city": "Garland",
+        "county": "Dallas County",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "75042",
+        "latitude": 32.904597,
+        "longitude": -96.6937863,
+        "fullAddress": "4309 Action St, Garland, Dallas County, TX 75042"
+      }
+    ],
+    "isNew": true
+  },
+  {
+    "id": 2023814,
+    "name": "5500 & 5508 S FM 1788",
+    "description": "Industrial | 7,200 SqFt",
+    "thumbnailUrl": "https://images.crexi.com/assets/2023814/191e978c8ed54ad8abe18b2feb5a4e10_716x444.jpg",
+    "urlSlug": "texas-5500-5508-s-fm-1788",
+    "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/117847/654a73441c9c46e5a3eb94a12f20b938_150x100_resize.jpg",
+    "brokerageName": "Invest Texas Real Estate",
+    "activatedOn": "2025-07-16T20:55:02.649Z",
+    "isInOpportunityZone": false,
+    "hasVideo": false,
+    "numberOfGalleryItems": 17,
+    "squareFootage": 7200,
+    "showCountdownAsDate": false,
+    "askingPrice": 1099000.0,
+    "userIsAssetOwner": false,
+    "updatedOn": "2025-07-17T15:25:08.771Z",
+    "numberOfImages": 17,
+    "types": [
+      "Industrial"
+    ],
+    "hasOM": false,
+    "hasFlyer": true,
+    "status": "On-Market",
+    "hasVirtualTour": false,
+    "locations": [
+      {
+        "address": "5500 Farm to Market 1788",
+        "city": "Midland",
+        "county": "Midland County",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "79706",
+        "latitude": 31.893326,
+        "longitude": -102.2100266,
+        "fullAddress": "5500 Farm to Market 1788, Midland, Midland County, TX 79706"
+      },
+      {
+        "address": "5508 S FM 1788",
+        "city": "Midland",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "79706",
+        "latitude": 31.8929068,
+        "longitude": -102.2096223,
+        "fullAddress": "5508 S FM 1788, Midland, TX 79706"
+      }
+    ],
+    "isNew": true
+  },
+  {
+    "id": 2023809,
+    "name": "1124-26 N Bowie St",
+    "description": "Duplex Warehouse In The Heart of Seguin",
+    "thumbnailUrl": "https://images.crexi.com/assets/2023809/f40cf69fab6243b49736349648610dc1_716x444.jpg",
+    "urlSlug": "texas-1124-26-n-bowie-st",
+    "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/26500/b386f2091a6f44b7a020fc71de77e136_150x100_resize.jpg",
+    "brokerageName": "Edwards Commercial Real Estate",
+    "activatedOn": "2025-07-16T20:36:32.238Z",
+    "isInOpportunityZone": false,
+    "hasVideo": false,
+    "numberOfGalleryItems": 25,
+    "squareFootage": 10527,
+    "showCountdownAsDate": false,
+    "askingPrice": 1100000.0,
+    "userIsAssetOwner": false,
+    "updatedOn": "2025-07-16T20:37:21.966Z",
+    "numberOfImages": 25,
+    "types": [
+      "Industrial"
+    ],
+    "hasOM": false,
+    "hasFlyer": true,
+    "status": "On-Market",
+    "hasVirtualTour": false,
+    "locations": [
+      {
+        "address": "1124 N Bowie St",
+        "city": "Seguin",
+        "county": "Guadalupe",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "78155",
+        "latitude": 29.57967038204245,
+        "longitude": -97.9672536096318,
+        "fullAddress": "1124 N Bowie St, Seguin, Guadalupe, TX 78155"
+      }
+    ],
+    "isNew": true
+  },
+  {
+    "id": 2023808,
+    "name": "5.29-Ac Land For Sale, Hwy 59, New Caney",
+    "description": "5.29-Ac Land For Sale, Hwy 59, New Caney",
+    "thumbnailUrl": "https://images.crexi.com/assets/2023808/38b5636f381a416dac287af5614e699d_716x444.jpg",
+    "urlSlug": "texas-529-ac-land-for-sale-hwy-59-new-caney",
+    "brokerageName": "Anne Vickery Real Estate",
+    "activatedOn": "2025-07-16T20:30:51.465Z",
+    "isInOpportunityZone": false,
+    "hasVideo": false,
+    "numberOfGalleryItems": 9,
+    "squareFootage": 230506,
+    "pricePerSqFtLand": "$11/SF",
+    "showCountdownAsDate": false,
+    "askingPrice": 2538375.0,
+    "userIsAssetOwner": false,
+    "updatedOn": "2025-07-16T20:30:51.465Z",
+    "numberOfImages": 9,
+    "types": [
+      "Industrial",
+      "Land",
+      "Retail"
+    ],
+    "hasOM": false,
+    "hasFlyer": true,
+    "status": "On-Market",
+    "hasVirtualTour": false,
+    "locations": [
+      {
+        "address": "US-59",
+        "city": "New Caney",
+        "county": "Montgomery County",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "77357",
+        "latitude": 30.176472092791663,
+        "longitude": -95.20180615140735,
+        "fullAddress": "US-59, New Caney, Montgomery County, TX 77357"
+      }
+    ],
+    "isNew": true
+  },
+  {
+    "id": 2023791,
+    "name": "TBD Andrews Hwy",
+    "description": "Industrial | 10,832 SqFt",
+    "thumbnailUrl": "https://images.crexi.com/assets/2023791/fad451f0ea434cad98be8bafb892e149_716x444.jpg",
+    "urlSlug": "texas-tbd-andrews-hwy",
+    "brokerTeamLogoUrl": "https://images.crexi.com/brokers/1070955/6abad11c96134057aac7fbaa102b0de1_150x100_resize.jpg",
+    "brokerageName": "Copper Key Realty",
+    "activatedOn": "2025-07-16T20:21:09.278Z",
+    "isInOpportunityZone": false,
+    "hasVideo": false,
+    "numberOfGalleryItems": 1,
+    "squareFootage": 10832,
+    "showCountdownAsDate": false,
+    "askingPrice": 6500000.0,
+    "userIsAssetOwner": false,
+    "updatedOn": "2025-07-16T20:21:09.278Z",
+    "numberOfImages": 1,
+    "types": [
+      "Industrial"
+    ],
+    "hasOM": false,
+    "hasFlyer": true,
+    "status": "On-Market",
+    "hasVirtualTour": false,
+    "locations": [
+      {
+        "address": "000 Andrews Hwy",
+        "city": "Odessa",
+        "county": "Ector",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "79764",
+        "latitude": 31.9105161,
+        "longitude": -102.39392,
+        "fullAddress": "000 Andrews Hwy, Odessa, Ector, TX 79764"
+      }
+    ],
+    "isNew": true
+  },
+  {
+    "id": 1839685,
+    "name": "Houston Multi-Tenant Industrial Portfolio",
+    "description": "NW HOUSTON | MULTI-TENANT INDUSTRIAL PORTFOLIO | \u00b1120,598 TOTAL SF | VALUE-ADD",
+    "thumbnailUrl": "https://images.crexi.com/assets/1839685/f04cc44b551f417496dbbf75c22fada4_716x444.jpg",
+    "urlSlug": "texas-houston-multi-tenant-industrial-portfolio",
+    "brokerageName": "JLS Real Estate",
+    "activatedOn": "2025-07-16T20:12:56.414Z",
+    "isInOpportunityZone": false,
+    "hasVideo": false,
+    "numberOfGalleryItems": 5,
+    "squareFootage": 120598,
+    "showCountdownAsDate": false,
+    "userIsAssetOwner": false,
+    "updatedOn": "2025-07-16T20:15:19.2Z",
+    "numberOfImages": 5,
+    "types": [
+      "Industrial"
+    ],
+    "investmentType": "Value Add",
+    "hasOM": true,
+    "hasFlyer": true,
+    "status": "On-Market",
+    "hasVirtualTour": false,
+    "locations": [
+      {
+        "address": "MULTIPLE",
+        "city": "Houston",
+        "county": "Harris",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "77055",
+        "latitude": 29.8117607,
+        "longitude": -95.48398415,
+        "fullAddress": "MULTIPLE, Houston, Harris, TX 77055"
+      }
+    ],
+    "isNew": true
+  },
+  {
+    "id": 2023771,
+    "name": "7240 I-10",
+    "description": "Industrial | 3.11-Acres Industrial Outside Storage",
+    "thumbnailUrl": "https://images.crexi.com/assets/2023771/b89b1386eaec46a8839e7d7f4cb9744e_716x444.jpg",
+    "urlSlug": "texas-7240-i-10",
+    "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/54802/179eedca3ee44629aba21d9c7d475499_150x100_resize.jpg",
+    "brokerageName": "Llano Realty Partners",
+    "activatedOn": "2025-07-16T20:06:42.152Z",
+    "isInOpportunityZone": false,
+    "hasVideo": false,
+    "numberOfGalleryItems": 7,
+    "squareFootage": 20000,
+    "showCountdownAsDate": false,
+    "askingPrice": 1800000.0,
+    "userIsAssetOwner": false,
+    "updatedOn": "2025-07-21T15:37:42.535Z",
+    "numberOfImages": 7,
+    "types": [
+      "Industrial"
+    ],
+    "hasOM": false,
+    "hasFlyer": true,
+    "status": "On-Market",
+    "hasVirtualTour": false,
+    "locations": [
+      {
+        "address": "7240 I-10",
+        "city": "San Antonio",
+        "county": "Bexar County",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "78219",
+        "latitude": 29.449493132997432,
+        "longitude": -98.3460365234569,
+        "fullAddress": "7240 I-10, San Antonio, Bexar County, TX 78219"
+      }
+    ],
+    "isNew": true
+  },
+  {
+    "id": 2023778,
+    "name": "XSpace Unit 413",
+    "description": "Industrial | 813 SqFt",
+    "thumbnailUrl": "https://images.crexi.com/assets/2023778/7e3043cc1c184b0592b164b9c44a95c9_716x444.jpg",
+    "urlSlug": "xspace-unit-413",
+    "brokerTeamLogoUrl": "https://images.crexi.com/brokers/2294285/935e7f5a2d0240b9bedfef6658918048_150x100_resize.jpg",
+    "activatedOn": "2025-07-16T19:55:23.85Z",
+    "isInOpportunityZone": false,
+    "hasVideo": false,
+    "numberOfGalleryItems": 7,
+    "squareFootage": 813,
+    "showCountdownAsDate": false,
+    "askingPrice": 499769.0,
+    "userIsAssetOwner": false,
+    "updatedOn": "2025-07-17T19:27:32.194Z",
+    "numberOfImages": 7,
+    "types": [
+      "Industrial",
+      "Office"
+    ],
+    "hasOM": false,
+    "hasFlyer": true,
+    "status": "On-Market",
+    "hasVirtualTour": false,
+    "locations": [
+      {
+        "address": "7026 Old Katy Road",
+        "city": "Houston",
+        "country": "US",
+        "state": {},
+        "zip": "77024",
+        "latitude": 29.7851873,
+        "longitude": -95.4450004,
+        "fullAddress": "7026 Old Katy Road, Houston, US 77024"
+      }
+    ],
+    "isNew": true
+  },
+  {
+    "id": 2023772,
+    "name": "XSpace Unit 412",
+    "description": "Industrial | 813 SqFt",
+    "thumbnailUrl": "https://images.crexi.com/assets/2023772/002c4ff654784904a9a70af7639057d4_716x444.jpg",
+    "urlSlug": "texas-xspace-unit-412",
+    "brokerTeamLogoUrl": "https://images.crexi.com/brokers/2294285/935e7f5a2d0240b9bedfef6658918048_150x100_resize.jpg",
+    "activatedOn": "2025-07-16T19:52:05.915Z",
+    "isInOpportunityZone": false,
+    "hasVideo": false,
+    "numberOfGalleryItems": 7,
+    "squareFootage": 813,
+    "showCountdownAsDate": false,
+    "askingPrice": 499769.0,
+    "userIsAssetOwner": false,
+    "updatedOn": "2025-07-17T19:29:40.322Z",
+    "numberOfImages": 7,
+    "types": [
+      "Industrial",
+      "Office"
+    ],
+    "hasOM": false,
+    "hasFlyer": true,
+    "status": "On-Market",
+    "hasVirtualTour": false,
+    "locations": [
+      {
+        "address": "7026 Old Katy Road",
+        "city": "Houston",
+        "county": "Harris County",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "77024",
+        "latitude": 29.7851873,
+        "longitude": -95.4450004,
+        "fullAddress": "7026 Old Katy Road, Houston, Harris County, TX 77024"
+      }
+    ],
+    "isNew": true
+  },
+  {
+    "id": 2023769,
+    "name": "XSpace Unit 411",
+    "description": "Industrial | 1,048 SqFt",
+    "thumbnailUrl": "https://images.crexi.com/assets/2023769/c6de38ad4be845e288d2073049a72cdc_716x444.jpg",
+    "urlSlug": "texas-xspace-unit-411",
+    "brokerTeamLogoUrl": "https://images.crexi.com/brokers/2294285/935e7f5a2d0240b9bedfef6658918048_150x100_resize.jpg",
+    "activatedOn": "2025-07-16T19:48:11.543Z",
+    "isInOpportunityZone": false,
+    "hasVideo": false,
+    "numberOfGalleryItems": 7,
+    "squareFootage": 1048,
+    "showCountdownAsDate": false,
+    "askingPrice": 644700.0,
+    "userIsAssetOwner": false,
+    "updatedOn": "2025-07-17T19:28:54.664Z",
+    "numberOfImages": 7,
+    "types": [
+      "Industrial",
+      "Office"
+    ],
+    "hasOM": false,
+    "hasFlyer": true,
+    "status": "On-Market",
+    "hasVirtualTour": false,
+    "locations": [
+      {
+        "address": "7026 Old katy road",
+        "city": "Katy",
+        "county": "Harris County",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "77494",
+        "latitude": 29.7857221,
+        "longitude": -95.8212193,
+        "fullAddress": "7026 Old katy road, Katy, Harris County, TX 77494"
+      }
+    ],
+    "isNew": true
+  },
+  {
+    "id": 2023763,
+    "name": "XSpace Unit 322",
+    "description": "Industrial",
+    "thumbnailUrl": "https://images.crexi.com/assets/2023763/b1ad0f3b524640a4bcbcf6afc99a5ded_716x444.jpg",
+    "urlSlug": "texas-xspace-unit-322",
+    "brokerTeamLogoUrl": "https://images.crexi.com/brokers/2294285/935e7f5a2d0240b9bedfef6658918048_150x100_resize.jpg",
+    "activatedOn": "2025-07-16T19:41:08.154Z",
+    "isInOpportunityZone": false,
+    "hasVideo": false,
+    "numberOfGalleryItems": 7,
+    "showCountdownAsDate": false,
+    "askingPrice": 745800.0,
+    "userIsAssetOwner": false,
+    "updatedOn": "2025-07-17T19:29:54.066Z",
+    "numberOfImages": 7,
+    "types": [
+      "Industrial",
+      "Office"
+    ],
+    "hasOM": false,
+    "hasFlyer": true,
+    "status": "On-Market",
+    "hasVirtualTour": false,
+    "locations": [
+      {
+        "address": "7022 old Katy Road, Houston, TX, USA",
+        "city": "Houston",
+        "county": "Harris County",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "77024",
+        "latitude": 29.7855913,
+        "longitude": -95.446281,
+        "fullAddress": "7022 old Katy Road, Houston, TX, USA, Houston, Harris County, TX 77024"
+      }
+    ],
+    "isNew": true
+  },
+  {
+    "id": 2023758,
+    "name": "XSpace Unit 321",
+    "description": "Industrial | 1,000 SqFt",
+    "thumbnailUrl": "https://images.crexi.com/assets/2023758/0c0a41ace4ce4c8f8810295f0f4b4a2e_716x444.jpg",
+    "urlSlug": "texas-xspace-unit-321",
+    "brokerTeamLogoUrl": "https://images.crexi.com/brokers/2294285/935e7f5a2d0240b9bedfef6658918048_150x100_resize.jpg",
+    "activatedOn": "2025-07-16T19:37:16.164Z",
+    "isInOpportunityZone": false,
+    "hasVideo": false,
+    "numberOfGalleryItems": 7,
+    "squareFootage": 1000,
+    "showCountdownAsDate": false,
+    "askingPrice": 550000.0,
+    "userIsAssetOwner": false,
+    "updatedOn": "2025-07-17T18:40:24.986Z",
+    "numberOfImages": 7,
+    "types": [
+      "Industrial",
+      "Office"
+    ],
+    "hasOM": false,
+    "hasFlyer": true,
+    "status": "On-Market",
+    "hasVirtualTour": false,
+    "locations": [
+      {
+        "address": "7022 old Katy Road",
+        "city": "Katy",
+        "county": "Harris County",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "77494",
+        "latitude": 29.7857221,
+        "longitude": -95.8212193,
+        "fullAddress": "7022 old Katy Road, Katy, Harris County, TX 77494"
+      }
+    ],
+    "isNew": true
+  },
+  {
+    "id": 2023747,
+    "name": "XSpace Unit 320",
+    "description": "Industrial | 1,000 SqFt",
+    "thumbnailUrl": "https://images.crexi.com/assets/2023747/8b60b63de4a74535a7ab8f8922eccf9c_716x444.jpg",
+    "urlSlug": "texas-xspace-unit-320",
+    "brokerTeamLogoUrl": "https://images.crexi.com/brokers/2294285/935e7f5a2d0240b9bedfef6658918048_150x100_resize.jpg",
+    "activatedOn": "2025-07-16T19:32:05.544Z",
+    "isInOpportunityZone": false,
+    "hasVideo": false,
+    "numberOfGalleryItems": 7,
+    "squareFootage": 1000,
+    "showCountdownAsDate": false,
+    "askingPrice": 550000.0,
+    "userIsAssetOwner": false,
+    "updatedOn": "2025-07-17T19:30:24.06Z",
+    "numberOfImages": 7,
+    "types": [
+      "Industrial",
+      "Office"
+    ],
+    "hasOM": false,
+    "hasFlyer": true,
+    "status": "On-Market",
+    "hasVirtualTour": false,
+    "locations": [
+      {
+        "address": "7022 Old Katy Road",
+        "city": "Katy",
+        "county": "Harris County",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "77024",
+        "latitude": 29.7855913,
+        "longitude": -95.446281,
+        "fullAddress": "7022 Old Katy Road, Katy, Harris County, TX 77024"
+      }
+    ],
+    "isNew": true
+  },
+  {
+    "id": 2023740,
+    "name": "XSpace Unit 203",
+    "description": "Industrial | 972 SqFt",
+    "thumbnailUrl": "https://images.crexi.com/assets/2023740/ad3e6b1e3019467aa8f0cfc466a021dd_716x444.jpg",
+    "urlSlug": "xspace-unit-203",
+    "brokerTeamLogoUrl": "https://images.crexi.com/brokers/2294285/935e7f5a2d0240b9bedfef6658918048_150x100_resize.jpg",
+    "activatedOn": "2025-07-16T19:26:36.38Z",
+    "isInOpportunityZone": false,
+    "hasVideo": false,
+    "numberOfGalleryItems": 7,
+    "squareFootage": 972,
+    "showCountdownAsDate": false,
+    "askingPrice": 605645.0,
+    "userIsAssetOwner": false,
+    "updatedOn": "2025-07-17T19:30:10.722Z",
+    "numberOfImages": 7,
+    "types": [
+      "Industrial",
+      "Office"
+    ],
+    "hasOM": false,
+    "hasFlyer": true,
+    "status": "On-Market",
+    "hasVirtualTour": false,
+    "locations": [
+      {
+        "address": "7022 Old Katy Road",
+        "city": "Houston",
+        "country": "US",
+        "state": {},
+        "zip": "77024",
+        "latitude": 29.7855913,
+        "longitude": -95.446281,
+        "fullAddress": "7022 Old Katy Road, Houston, US 77024"
+      }
+    ],
+    "isNew": true
+  },
+  {
+    "id": 2023732,
+    "name": "XSpace Unit 202",
+    "description": "Industrial | 972 SqFt",
+    "thumbnailUrl": "https://images.crexi.com/assets/2023732/7f10eb2bb26d4d6ea02f0519552d2844_716x444.jpg",
+    "urlSlug": "texas-xspace-unit-202",
+    "brokerTeamLogoUrl": "https://images.crexi.com/brokers/2294285/935e7f5a2d0240b9bedfef6658918048_150x100_resize.jpg",
+    "activatedOn": "2025-07-16T19:26:15.949Z",
+    "isInOpportunityZone": false,
+    "hasVideo": false,
+    "numberOfGalleryItems": 7,
+    "squareFootage": 972,
+    "showCountdownAsDate": false,
+    "askingPrice": 597635.0,
+    "userIsAssetOwner": false,
+    "updatedOn": "2025-07-17T19:28:08.121Z",
+    "numberOfImages": 7,
+    "types": [
+      "Industrial",
+      "Office"
+    ],
+    "hasOM": false,
+    "hasFlyer": true,
+    "status": "On-Market",
+    "hasVirtualTour": false,
+    "locations": [
+      {
+        "address": "7022 Old Katy Road",
+        "city": "Houston",
+        "county": "Harris County",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "77024",
+        "latitude": 29.7855913,
+        "longitude": -95.446281,
+        "fullAddress": "7022 Old Katy Road, Houston, Harris County, TX 77024"
+      }
+    ],
+    "isNew": true
+  },
+  {
+    "id": 2023707,
+    "name": "XSpace Unit 201",
+    "description": "Industrial | 1,581 SqFt",
+    "thumbnailUrl": "https://images.crexi.com/assets/2023707/a77213db4d7446cc863a595231d60e50_716x444.jpg",
+    "urlSlug": "texas-xspace-unit-201",
+    "brokerTeamLogoUrl": "https://images.crexi.com/brokers/2294285/935e7f5a2d0240b9bedfef6658918048_150x100_resize.jpg",
+    "activatedOn": "2025-07-16T19:05:01.115Z",
+    "isInOpportunityZone": false,
+    "hasVideo": false,
+    "numberOfGalleryItems": 7,
+    "squareFootage": 1581,
+    "showCountdownAsDate": false,
+    "askingPrice": 800100.0,
+    "userIsAssetOwner": false,
+    "updatedOn": "2025-07-17T19:27:51.603Z",
+    "numberOfImages": 7,
+    "types": [
+      "Industrial",
+      "Office"
+    ],
+    "hasOM": false,
+    "hasFlyer": true,
+    "status": "On-Market",
+    "hasVirtualTour": false,
+    "locations": [
+      {
+        "address": "7026 Old Katy Rd",
+        "city": "Katy",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "77494",
+        "latitude": 29.7857221,
+        "longitude": -95.8212193,
+        "fullAddress": "7026 Old Katy Rd, Katy, TX 77494"
+      }
+    ],
+    "isNew": true
+  },
+  {
+    "id": 2023698,
+    "name": "XSpace Unit 122",
+    "description": "Industrial | 2,713 SqFt",
+    "thumbnailUrl": "https://images.crexi.com/assets/2023698/90d7936b1f564507a990bafee8a8793e_716x444.jpg",
+    "urlSlug": "texas-xspace-unit-122",
+    "brokerTeamLogoUrl": "https://images.crexi.com/brokers/2294285/935e7f5a2d0240b9bedfef6658918048_150x100_resize.jpg",
+    "activatedOn": "2025-07-16T18:58:53.383Z",
+    "isInOpportunityZone": false,
+    "hasVideo": false,
+    "numberOfGalleryItems": 7,
+    "squareFootage": 2713,
+    "showCountdownAsDate": false,
+    "askingPrice": 1229990.0,
+    "userIsAssetOwner": false,
+    "updatedOn": "2025-07-17T19:29:07.163Z",
+    "numberOfImages": 7,
+    "types": [
+      "Industrial",
+      "Office"
+    ],
+    "hasOM": false,
+    "hasFlyer": true,
+    "status": "On-Market",
+    "hasVirtualTour": false,
+    "locations": [
+      {
+        "address": "7026 Old Katy Rd",
+        "city": "Houston",
+        "county": "Harris County",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "77024",
+        "latitude": 29.7851873,
+        "longitude": -95.4450004,
+        "fullAddress": "7026 Old Katy Rd, Houston, Harris County, TX 77024"
+      }
+    ],
+    "isNew": true
+  },
+  {
+    "id": 2023686,
+    "name": "XSpace Unit 121",
+    "description": "Industrial | 1,503 SqFt",
+    "thumbnailUrl": "https://images.crexi.com/assets/2023686/e9e9b8c266eb4f509542c5de7eb0abbc_716x444.jpg",
+    "urlSlug": "texas-xspace-unit-121",
+    "brokerTeamLogoUrl": "https://images.crexi.com/brokers/2294285/935e7f5a2d0240b9bedfef6658918048_150x100_resize.jpg",
+    "activatedOn": "2025-07-16T18:51:21.999Z",
+    "isInOpportunityZone": false,
+    "hasVideo": false,
+    "numberOfGalleryItems": 7,
+    "squareFootage": 1503,
+    "showCountdownAsDate": false,
+    "askingPrice": 1352000.0,
+    "userIsAssetOwner": false,
+    "updatedOn": "2025-07-17T19:29:27.311Z",
+    "numberOfImages": 7,
+    "types": [
+      "Industrial",
+      "Office"
+    ],
+    "hasOM": false,
+    "hasFlyer": true,
+    "status": "On-Market",
+    "hasVirtualTour": false,
+    "locations": [
+      {
+        "address": "7022 Old Katy Rd",
+        "city": "Katy",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "77494",
+        "latitude": 29.7857221,
+        "longitude": -95.8212193,
+        "fullAddress": "7022 Old Katy Rd, Katy, TX 77494"
+      }
+    ],
+    "isNew": true
+  },
+  {
+    "id": 2023643,
+    "name": "XSpace Unit 101",
+    "description": "Industrial | 575 SqFt",
+    "thumbnailUrl": "https://images.crexi.com/assets/2023643/4ab2ffccdd69440fb9c37dee4a8c8b2c_716x444.jpg",
+    "urlSlug": "texas-xspace-unit-101",
+    "brokerTeamLogoUrl": "https://images.crexi.com/brokers/2294285/935e7f5a2d0240b9bedfef6658918048_150x100_resize.jpg",
+    "activatedOn": "2025-07-16T18:45:47.454Z",
+    "isInOpportunityZone": false,
+    "hasVideo": false,
+    "numberOfGalleryItems": 7,
+    "squareFootage": 575,
+    "showCountdownAsDate": false,
+    "askingPrice": 299990.0,
+    "userIsAssetOwner": false,
+    "updatedOn": "2025-07-17T19:28:22.135Z",
+    "numberOfImages": 7,
+    "types": [
+      "Industrial"
+    ],
+    "hasOM": false,
+    "hasFlyer": true,
+    "status": "On-Market",
+    "hasVirtualTour": false,
+    "locations": [
+      {
+        "address": "7022 Old Katy Rd",
+        "city": "Houston",
+        "county": "Harris County",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "77024",
+        "latitude": 29.7855913,
+        "longitude": -95.446281,
+        "fullAddress": "7022 Old Katy Rd, Houston, Harris County, TX 77024"
+      }
+    ],
+    "isNew": true
+  },
+  {
+    "id": 2023682,
+    "name": "XSpace Unit 104",
+    "description": "Industrial | 1,327 SqFt",
+    "thumbnailUrl": "https://images.crexi.com/assets/2023682/839a69c971394b04a8ca5ce55fa6ee0a_716x444.jpg",
+    "urlSlug": "texas-xspace-unit-104",
+    "brokerTeamLogoUrl": "https://images.crexi.com/brokers/2294285/935e7f5a2d0240b9bedfef6658918048_150x100_resize.jpg",
+    "activatedOn": "2025-07-16T18:45:21.031Z",
+    "isInOpportunityZone": false,
+    "hasVideo": false,
+    "numberOfGalleryItems": 7,
+    "squareFootage": 1327,
+    "showCountdownAsDate": false,
+    "askingPrice": 699300.0,
+    "userIsAssetOwner": false,
+    "updatedOn": "2025-07-17T19:28:39.41Z",
+    "numberOfImages": 7,
+    "types": [
+      "Industrial",
+      "Office"
+    ],
+    "hasOM": false,
+    "hasFlyer": true,
+    "status": "On-Market",
+    "hasVirtualTour": false,
+    "locations": [
+      {
+        "address": "7022 Old Katy, Rd",
+        "city": "Katy",
+        "county": "Harris County",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "77494",
+        "latitude": 29.7855913,
+        "longitude": -95.446281,
+        "fullAddress": "7022 Old Katy, Rd, Katy, Harris County, TX 77494"
+      }
+    ],
+    "isNew": true
+  },
+  {
+    "id": 2023642,
+    "name": "Waxahachie Truck Park",
+    "description": "Excellent location with frontage on I-35E & US-77",
+    "thumbnailUrl": "https://images.crexi.com/assets/2023642/0d5f54ebeb92440dab4943e3eed08229_716x444.jpg",
+    "urlSlug": "texas-waxahachie-truck-park",
+    "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/99894/8af71a5a6a6041b2964e07679e9e34a0_150x100_resize.jpg",
+    "brokerageName": "CENTURY 21 Judge Fite Company",
+    "activatedOn": "2025-07-16T18:16:56.793Z",
+    "isInOpportunityZone": false,
+    "hasVideo": false,
+    "numberOfGalleryItems": 33,
+    "squareFootage": 373396,
+    "showCountdownAsDate": false,
+    "userIsAssetOwner": false,
+    "updatedOn": "2025-07-17T16:22:31.382Z",
+    "numberOfImages": 33,
+    "types": [
+      "Industrial",
+      "Land"
+    ],
+    "hasOM": false,
+    "hasFlyer": true,
+    "status": "On-Market",
+    "hasVirtualTour": false,
+    "locations": [
+      {
+        "address": "17640 I-35E S",
+        "city": "Milford",
+        "county": "Ellis County",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "76670",
+        "latitude": 32.1176643,
+        "longitude": -96.9855874,
+        "fullAddress": "17640 I-35E S, Milford, Ellis County, TX 76670"
+      }
+    ],
+    "isNew": true
+  },
+  {
+    "id": 2023524,
+    "name": "100 C M H Rd",
+    "description": "Industrial Warehouse 30,000 SqFt - 4.94 Acres",
+    "thumbnailUrl": "https://images.crexi.com/assets/2023524/96e8e0ab1e3840fb855cb7908dbcd4a6_716x444.jpg",
+    "urlSlug": "texas-100-c-m-h-rd",
+    "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/84815/c03cc3275d98427aaccc892bcf1b7b06_150x100_resize.jpg",
+    "brokerageName": "Stream Realty Austin",
+    "activatedOn": "2025-07-16T17:31:51.672Z",
+    "isInOpportunityZone": false,
+    "hasVideo": false,
+    "numberOfGalleryItems": 3,
+    "squareFootage": 30000,
+    "showCountdownAsDate": false,
+    "userIsAssetOwner": false,
+    "updatedOn": "2025-07-16T17:55:17.714Z",
+    "numberOfImages": 3,
+    "types": [
+      "Industrial"
+    ],
+    "hasOM": true,
+    "hasFlyer": false,
+    "status": "On-Market",
+    "hasVirtualTour": false,
+    "locations": [
+      {
+        "address": "100 C M H Rd",
+        "city": "Sulphur Springs",
+        "county": "Hopkins County",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "75482",
+        "latitude": 33.12859783125743,
+        "longitude": -95.6560468160212,
+        "fullAddress": "100 C M H Rd, Sulphur Springs, Hopkins County, TX 75482"
+      }
+    ],
+    "isNew": true
+  },
+  {
+    "id": 2023512,
+    "name": "Lucas Retail Flex- Lot 4 Bldg B",
+    "description": "Retail Flex | 10,000 SqFt",
+    "thumbnailUrl": "https://images.crexi.com/assets/2023512/de0a48377d6c4bf58352ea25b943bf75_716x444.jpg",
+    "urlSlug": "texas-lucas-retail-flex--lot-4-bldg-b",
+    "brokerageName": "Owens Realtors",
+    "activatedOn": "2025-07-16T17:18:30.701Z",
+    "isInOpportunityZone": false,
+    "hasVideo": false,
+    "numberOfGalleryItems": 5,
+    "squareFootage": 10000,
+    "showCountdownAsDate": false,
+    "askingPrice": 2895000.0,
+    "userIsAssetOwner": false,
+    "updatedOn": "2025-07-16T17:20:52.537Z",
+    "numberOfImages": 5,
+    "types": [
+      "Industrial",
+      "Mixed Use",
+      "Office",
+      "Retail"
+    ],
+    "hasOM": true,
+    "hasFlyer": true,
+    "status": "On-Market",
+    "hasVirtualTour": false,
+    "locations": [
+      {
+        "address": "TBD McGarity Lane1 (Next Too Tractor Supply)",
+        "city": "Lucas",
+        "county": "Collin",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "75002",
+        "latitude": 33.092861119473824,
+        "longitude": -96.61955499101376,
+        "fullAddress": "TBD McGarity Lane1 (Next Too Tractor Supply), Lucas, Collin, TX 75002"
+      }
+    ],
+    "isNew": true
+  },
+  {
+    "id": 2023515,
+    "name": "Lucas Retail Flex- Lot 3 Bldg C",
+    "description": "Retail Flex | 15,400 SqFt",
+    "thumbnailUrl": "https://images.crexi.com/assets/2023515/b77a97b877b84b91b2ae0dc70bd37a52_716x444.jpg",
+    "urlSlug": "texas-lucas-retail-flex--lot-3-bldg-c",
+    "brokerageName": "Owens Realtors",
+    "activatedOn": "2025-07-16T17:13:39.902Z",
+    "isInOpportunityZone": false,
+    "hasVideo": false,
+    "numberOfGalleryItems": 5,
+    "squareFootage": 15400,
+    "showCountdownAsDate": false,
+    "askingPrice": 4212000.0,
+    "userIsAssetOwner": false,
+    "updatedOn": "2025-07-16T17:20:29.169Z",
+    "numberOfImages": 5,
+    "types": [
+      "Industrial",
+      "Mixed Use",
+      "Office",
+      "Retail"
+    ],
+    "hasOM": true,
+    "hasFlyer": true,
+    "status": "On-Market",
+    "hasVirtualTour": false,
+    "locations": [
+      {
+        "address": "TBD McGarity Ln (Next Too Tractor Supply)",
+        "city": "Lucas",
+        "county": "Collin",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "75002",
+        "latitude": 33.0928182,
+        "longitude": -96.6152467,
+        "fullAddress": "TBD McGarity Ln (Next Too Tractor Supply), Lucas, Collin, TX 75002"
+      }
+    ],
+    "isNew": true
+  },
+  {
+    "id": 2023477,
+    "name": "10.75-Acre Trailer Yard in Pinnacle Industrial Park",
+    "description": "Industrial | 8,734 SqFt",
+    "thumbnailUrl": "https://images.crexi.com/assets/2023477/17a8487c518f4042929b04e685e8cc8e_716x444.jpg",
+    "urlSlug": "texas-1075-acre-trailer-yard-in-pinnacle-industrial-park",
+    "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/103002/7a94345279dd4cb293bc2ace97e76259_150x100_resize.jpg",
+    "brokerageName": "First Houston Properties, Inc.",
+    "activatedOn": "2025-07-16T16:32:12.069Z",
+    "isInOpportunityZone": false,
+    "hasVideo": false,
+    "numberOfGalleryItems": 13,
+    "squareFootage": 8734,
+    "showCountdownAsDate": false,
+    "userIsAssetOwner": false,
+    "updatedOn": "2025-07-16T16:32:12.069Z",
+    "numberOfImages": 13,
+    "types": [
+      "Industrial",
+      "Land"
+    ],
+    "investmentType": "Sale/Leaseback",
+    "hasOM": false,
+    "hasFlyer": true,
+    "status": "On-Market",
+    "hasVirtualTour": false,
+    "locations": [
+      {
+        "address": "539 El Pico Rd",
+        "city": "Laredo",
+        "county": "Webb County",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "78045",
+        "latitude": 27.63738727599597,
+        "longitude": -99.56528802344947,
+        "fullAddress": "539 El Pico Rd, Laredo, Webb County, TX 78045"
+      }
+    ],
+    "isNew": true
+  },
+  {
+    "id": 2023466,
+    "name": "Lucas Retail Flex- Lot 2- Bldg A",
+    "description": "Retail Flex | 16,800 SqFt",
+    "thumbnailUrl": "https://images.crexi.com/assets/2023466/5e6f38b767eb48bea303ea9ae6895e57_716x444.jpg",
+    "urlSlug": "texas-lucas-retail-flex",
+    "brokerageName": "Owens Realtors",
+    "activatedOn": "2025-07-16T16:28:26.769Z",
+    "isInOpportunityZone": false,
+    "hasVideo": false,
+    "numberOfGalleryItems": 6,
+    "squareFootage": 16800,
+    "pricePerSqFtLand": "$12/SF",
+    "showCountdownAsDate": false,
+    "askingPrice": 4670400.0,
+    "userIsAssetOwner": false,
+    "updatedOn": "2025-07-16T17:21:21.897Z",
+    "numberOfImages": 6,
+    "types": [
+      "Hospitality",
+      "Industrial",
+      "Mixed Use",
+      "Office",
+      "Retail"
+    ],
+    "hasOM": true,
+    "hasFlyer": true,
+    "status": "On-Market",
+    "hasVirtualTour": false,
+    "locations": [
+      {
+        "address": "TBD McGarity Lane (Next Too Tractor Supply)",
+        "city": "Lucas",
+        "county": "Collin",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "75002",
+        "latitude": 33.09284356036808,
+        "longitude": -96.61887469685348,
+        "fullAddress": "TBD McGarity Lane (Next Too Tractor Supply), Lucas, Collin, TX 75002"
+      }
+    ],
+    "isNew": true
+  },
+  {
+    "id": 2024458,
+    "name": "700 W State Avenue",
+    "description": "Retail | 8,931 SqFt",
+    "thumbnailUrl": "https://images.crexi.com/assets/2024458/efdce141b65a4fdbb6a19e843aa43f4f_716x444.jpg",
+    "urlSlug": "texas-700-w-state-avenue",
+    "brokerageName": "Encore Fine Properties",
+    "activatedOn": "2025-07-16T14:00:33Z",
+    "isInOpportunityZone": false,
+    "hasVideo": false,
+    "numberOfGalleryItems": 33,
+    "squareFootage": 8931,
+    "showCountdownAsDate": false,
+    "askingPrice": 425000.0,
+    "userIsAssetOwner": false,
+    "updatedOn": "2025-07-18T14:02:49.686Z",
+    "numberOfImages": 33,
+    "types": [
+      "Retail",
+      "Industrial",
+      "Office"
+    ],
+    "hasOM": false,
+    "hasFlyer": true,
+    "status": "On-Market",
+    "hasVirtualTour": false,
+    "locations": [
+      {
+        "address": "700 W State Avenue",
+        "city": "Pharr",
+        "county": "Hidalgo",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "78577",
+        "latitude": 26.1973054,
+        "longitude": -98.1918825,
+        "fullAddress": "700 W State Avenue, Pharr, Hidalgo, TX 78577"
+      }
+    ],
+    "isNew": true
+  },
+  {
+    "id": 2016356,
+    "name": "Prime Hwy 59 Building + 3.4 Acres Behind",
+    "description": "Industrial | 6,588 SqFt",
+    "thumbnailUrl": "https://images.crexi.com/assets/2016356/ed7de27811494fa29564ec3f34b274c9_716x444.jpg",
+    "urlSlug": "texas-prime-commercial-building",
+    "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/20530/db04a0226c634e54b61ba4f54a648af4_150x100_resize.jpg",
+    "brokerageName": "KW Commercial Houston-Northeast",
+    "activatedOn": "2025-07-16T12:51:44.537Z",
+    "isInOpportunityZone": false,
+    "hasVideo": false,
+    "numberOfGalleryItems": 7,
+    "squareFootage": 6588,
+    "showCountdownAsDate": false,
+    "askingPrice": 499000.0,
+    "userIsAssetOwner": false,
+    "updatedOn": "2025-07-17T21:01:58.894Z",
+    "numberOfImages": 7,
+    "types": [
+      "Industrial",
+      "Mixed Use",
+      "Office",
+      "Retail"
+    ],
+    "investmentType": "Owner/User",
+    "hasOM": false,
+    "hasFlyer": true,
+    "status": "On-Market",
+    "hasVirtualTour": false,
+    "locations": [
+      {
+        "address": "18496 US-59",
+        "city": "New Caney",
+        "county": "Montgomery County",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "77357",
+        "latitude": 30.1779113,
+        "longitude": -95.2015045,
+        "fullAddress": "18496 US-59, New Caney, Montgomery County, TX 77357"
+      }
+    ],
+    "isNew": true
+  },
+  {
+    "id": 2016852,
+    "name": "XSpace Unit #222 **Private/Close to Main Entrance**",
+    "description": "Luxury Commercial Mixed Use Condo in West Austin - **Work-Play-Store**",
+    "thumbnailUrl": "https://images.crexi.com/assets/2016852/877e66438ce34b88a0909aaf6bc18054_716x444.jpg",
+    "urlSlug": "texas-xspace-unit-222",
+    "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/36377/b78df1e503844d63a3e12a91279dc125_150x100_resize.jpg",
+    "brokerageName": "All City Real Estate",
+    "activatedOn": "2025-07-16T03:56:48.807Z",
+    "isInOpportunityZone": false,
+    "hasVideo": false,
+    "numberOfGalleryItems": 11,
+    "squareFootage": 379,
+    "showCountdownAsDate": false,
+    "askingPrice": 179000.0,
+    "userIsAssetOwner": false,
+    "updatedOn": "2025-07-20T17:49:52.118Z",
+    "numberOfImages": 11,
+    "types": [
+      "Industrial"
+    ],
+    "hasOM": false,
+    "hasFlyer": true,
+    "status": "On-Market",
+    "hasVirtualTour": false,
+    "locations": [
+      {
+        "address": "4229 N FM 620",
+        "city": "Austin",
+        "county": "Travis",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "78734",
+        "latitude": 30.3955651,
+        "longitude": -97.9159239,
+        "fullAddress": "4229 N FM 620, Austin, Travis, TX 78734"
+      }
+    ],
+    "isNew": true
+  },
+  {
+    "id": 2016855,
+    "name": "1812 W D Street, La Porte, Texas 77571",
+    "description": "Industrial | 2,800 SqFt",
+    "thumbnailUrl": "https://images.crexi.com/assets/2016855/1c28d733b8084092b06458c0d4debc76_716x444.jpg",
+    "urlSlug": "texas-1812-w-d-street-la-porte-texas-77571",
+    "brokerageName": "Independence Real Estate, Inc.",
+    "activatedOn": "2025-07-16T03:44:25.647Z",
+    "isInOpportunityZone": false,
+    "hasVideo": false,
+    "numberOfGalleryItems": 14,
+    "squareFootage": 2800,
+    "showCountdownAsDate": false,
+    "askingPrice": 400000.0,
+    "userIsAssetOwner": false,
+    "updatedOn": "2025-07-18T01:32:49.579Z",
+    "numberOfImages": 14,
+    "types": [
+      "Industrial",
+      "Self Storage"
+    ],
+    "hasOM": false,
+    "hasFlyer": true,
+    "status": "On-Market",
+    "hasVirtualTour": false,
+    "locations": [
+      {
+        "address": "1812 W D St",
+        "city": "La Porte",
+        "county": "Harris County",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "77571",
+        "latitude": 29.65995905938162,
+        "longitude": -95.03760969450262,
+        "fullAddress": "1812 W D St, La Porte, Harris County, TX 77571"
+      }
+    ],
+    "isNew": true
+  },
+  {
+    "id": 2016757,
+    "name": "401 Western Hills Trail Granbury, TX",
+    "description": "Industrial | 4.10% CAP | 5,000 SqFt",
+    "thumbnailUrl": "https://images.crexi.com/assets/2016757/396c8034401d433f94606faf496ec602_716x444.jpg",
+    "urlSlug": "texas-401-western-hills-trail-granbury-tx",
+    "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/127048/6944ab48d7ad44dba2523a54741e9752_150x100_resize.jpg",
+    "brokerageName": "Tero",
+    "activatedOn": "2025-07-15T22:19:27.067Z",
+    "isInOpportunityZone": false,
+    "hasVideo": false,
+    "numberOfGalleryItems": 15,
+    "squareFootage": 5000,
+    "showCountdownAsDate": false,
+    "askingPrice": 649000.0,
+    "userIsAssetOwner": false,
+    "updatedOn": "2025-07-15T22:19:27.067Z",
+    "numberOfImages": 15,
+    "types": [
+      "Industrial"
+    ],
+    "investmentType": "Core+",
+    "hasOM": false,
+    "hasFlyer": true,
+    "status": "On-Market",
+    "hasVirtualTour": false,
+    "locations": [
+      {
+        "address": "401 Western Hills Trail",
+        "city": "Granbury",
+        "county": "Hood County",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "76049",
+        "latitude": 32.43835560585018,
+        "longitude": -97.75627669612106,
+        "fullAddress": "401 Western Hills Trail, Granbury, Hood County, TX 76049"
+      }
+    ],
+    "isNew": true
+  },
+  {
+    "id": 2016725,
+    "name": "Warehouse With 3-Ton Crane and Yard",
+    "description": "Industrial | 5,408 SqFt",
+    "thumbnailUrl": "https://images.crexi.com/assets/2016725/ab44481791fd435d873e81aadd76cd9a_716x444.jpg",
+    "urlSlug": "texas-warehouse-with-3-ton-crane-and-yard",
+    "brokerageName": "Oldham Goodwin Group",
+    "activatedOn": "2025-07-15T21:33:38.361Z",
+    "isInOpportunityZone": false,
+    "hasVideo": false,
+    "numberOfGalleryItems": 8,
+    "squareFootage": 5408,
+    "showCountdownAsDate": false,
+    "askingPrice": 450000.0,
+    "userIsAssetOwner": false,
+    "updatedOn": "2025-07-15T21:35:15.183Z",
+    "numberOfImages": 8,
+    "types": [
+      "Industrial",
+      "Retail"
+    ],
+    "hasOM": true,
+    "hasFlyer": false,
+    "status": "On-Market",
+    "hasVirtualTour": false,
+    "locations": [
+      {
+        "address": "14202 Burnham St",
+        "city": "Houston",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "77053",
+        "latitude": 29.6023977,
+        "longitude": -95.4283658,
+        "fullAddress": "14202 Burnham St, Houston, TX 77053"
+      }
+    ],
+    "isNew": true
+  },
+  {
+    "id": 2016656,
+    "name": "16,000 SF Service Facility on 14.71 AC",
+    "description": "16,000 SF Service Facility on 14.71 AC",
+    "thumbnailUrl": "https://images.crexi.com/assets/2016656/495cbc7f0b524a14b8535de3b424add8_716x444.jpg",
+    "urlSlug": "texas-16000-sf-service-facility-on-1471-ac",
+    "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/11538/62219cf670194d4fbf04fc63ec05d2be_150x100_resize.jpg",
+    "brokerageName": "Formation Real Estate LLC",
+    "activatedOn": "2025-07-15T20:43:43.749Z",
+    "isInOpportunityZone": false,
+    "hasVideo": false,
+    "numberOfGalleryItems": 19,
+    "squareFootage": 16000,
+    "showCountdownAsDate": false,
+    "userIsAssetOwner": false,
+    "updatedOn": "2025-07-17T16:03:37.206Z",
+    "numberOfImages": 19,
+    "types": [
+      "Industrial"
+    ],
+    "hasOM": false,
+    "hasFlyer": true,
+    "status": "On-Market",
+    "hasVirtualTour": false,
+    "locations": [
+      {
+        "address": "12071 W. HWY 85",
+        "city": "Dilley",
+        "county": "Frio County",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "78017",
+        "latitude": 28.652582048398145,
+        "longitude": -99.36467582021372,
+        "fullAddress": "12071 W. HWY 85, Dilley, Frio County, TX 78017"
+      }
+    ],
+    "isNew": true
+  },
+  {
+    "id": 2016613,
+    "name": "Warehouse for lease/sale at Osborne Dr",
+    "description": "Warehouse for lease or sale",
+    "thumbnailUrl": "https://images.crexi.com/assets/2016613/c6cc459b2a0e4650b7ea6e3e6c5b2c43_716x444.jpg",
+    "urlSlug": "texas-warehouse-for-leasesale-at-osborne-dr",
+    "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/63385/8ab3fa5f28dc4eeaa450e224c152f27a_150x100_resize.jpg",
+    "brokerageName": "REP Commercial Real Estate",
+    "activatedOn": "2025-07-15T20:01:20.813Z",
+    "isInOpportunityZone": false,
+    "hasVideo": false,
+    "numberOfGalleryItems": 5,
+    "squareFootage": 30000,
+    "showCountdownAsDate": false,
+    "userIsAssetOwner": false,
+    "updatedOn": "2025-07-21T15:48:12.567Z",
+    "numberOfImages": 5,
+    "types": [
+      "Industrial"
+    ],
+    "hasOM": false,
+    "hasFlyer": true,
+    "status": "On-Market",
+    "hasVirtualTour": false,
+    "locations": [
+      {
+        "address": "4673 Osborne Dr",
+        "city": "El Paso",
+        "county": "El Paso County",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "79922",
+        "latitude": 31.834632080409218,
+        "longitude": -106.5717450144831,
+        "fullAddress": "4673 Osborne Dr, El Paso, El Paso County, TX 79922"
+      }
+    ],
+    "isNew": true
+  },
+  {
+    "id": 2016607,
+    "name": "7127 Satsuma",
+    "description": "Industrial | 4,656 SqFt",
+    "thumbnailUrl": "https://images.crexi.com/assets/2016607/0db1ec441cce4f6cb4d04a534c063ca6_716x444.jpg",
+    "urlSlug": "texas-7127-satsuma",
+    "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/106007/321241f0b8de4a428d7acc418e10e734_150x100_resize.jpg",
+    "brokerageName": "Titan Commercial",
+    "activatedOn": "2025-07-15T19:56:28.465Z",
+    "isInOpportunityZone": false,
+    "hasVideo": false,
+    "numberOfGalleryItems": 9,
+    "squareFootage": 4656,
+    "showCountdownAsDate": false,
+    "userIsAssetOwner": false,
+    "updatedOn": "2025-07-15T19:56:28.466Z",
+    "numberOfImages": 9,
+    "types": [
+      "Industrial"
+    ],
+    "investmentType": "Owner/User",
+    "hasOM": false,
+    "hasFlyer": true,
+    "status": "On-Market",
+    "hasVirtualTour": false,
+    "locations": [
+      {
+        "address": "7127 Satsuma Dr",
+        "city": "Houston",
+        "county": "Harris County",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "77041",
+        "latitude": 29.8830023,
+        "longitude": -95.6032539,
+        "fullAddress": "7127 Satsuma Dr, Houston, Harris County, TX 77041"
+      }
+    ],
+    "isNew": true
+  },
+  {
+    "id": 2016478,
+    "name": "DFW Infill - Conway Small Bay",
+    "description": "Industrial | 81,178 SqFt",
+    "thumbnailUrl": "https://images.crexi.com/assets/2016478/332fb1257a63464588469940a4ecfb46_716x444.jpg",
+    "urlSlug": "texas-dfw-infill---conway-small-bay",
+    "brokerTeamLogoUrl": "https://images.crexi.com/broker-teams/1024/11bad7835d344fff8b9810058a445da4_150x100_resize.jpg",
+    "brokerageName": "STRIVE Commercial Real Estate Advisors",
+    "activatedOn": "2025-07-15T18:26:26.075Z",
+    "isInOpportunityZone": false,
+    "hasVideo": false,
+    "numberOfGalleryItems": 4,
+    "squareFootage": 81178,
+    "showCountdownAsDate": false,
+    "userIsAssetOwner": false,
+    "updatedOn": "2025-07-15T18:26:26.075Z",
+    "numberOfImages": 4,
+    "types": [
+      "Industrial"
+    ],
+    "hasOM": true,
+    "hasFlyer": false,
+    "status": "On-Market",
+    "hasVirtualTour": false,
+    "locations": [
+      {
+        "address": "3601 Conway St",
+        "city": "Fort Worth",
+        "county": "Tarrant County",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "76111",
+        "latitude": 32.7685635,
+        "longitude": -97.2955954,
+        "fullAddress": "3601 Conway St, Fort Worth, Tarrant County, TX 76111"
+      }
+    ],
+    "isNew": true
+  },
+  {
+    "id": 2016421,
+    "name": "Canyon Lake Investment Property",
+    "description": "Canyon Lake Investment Property",
+    "thumbnailUrl": "https://images.crexi.com/assets/2016421/8b87147db8f24cbc96a32c91f53a4436_716x444.jpg",
+    "urlSlug": "texas-canyon-lake-investment-property",
+    "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/91241/a985420c80e545608531310eafb95902_150x100_resize.jpg",
+    "brokerageName": "Legacy Broker Group",
+    "activatedOn": "2025-07-15T17:56:44.821Z",
+    "isInOpportunityZone": false,
+    "hasVideo": false,
+    "numberOfGalleryItems": 30,
+    "squareFootage": 7205,
+    "showCountdownAsDate": false,
+    "askingPrice": 1325000.0,
+    "userIsAssetOwner": false,
+    "updatedOn": "2025-07-18T17:07:57.847Z",
+    "numberOfImages": 30,
+    "types": [
+      "Industrial",
+      "Mixed Use"
+    ],
+    "hasOM": false,
+    "hasFlyer": true,
+    "status": "On-Market",
+    "hasVirtualTour": false,
+    "locations": [
+      {
+        "address": "16415 S Access Rd",
+        "city": "Canyon Lake",
+        "county": "Comal County",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "78133",
+        "latitude": 29.868177289646077,
+        "longitude": -98.19191097296785,
+        "fullAddress": "16415 S Access Rd, Canyon Lake, Comal County, TX 78133"
+      }
+    ],
+    "isNew": true
+  },
+  {
+    "id": 2016412,
+    "name": "100 S. Main St. Conroe, TX 77301 - FOR SALE",
+    "description": "FOR SALE - Downtown Conroe Commercial Property",
+    "thumbnailUrl": "https://images.crexi.com/assets/2016412/0595f2880b3e4e30ba0958211bda8997_716x444.jpg",
+    "urlSlug": "texas-100-s-main-st-conroe-tx-77301---for-sale",
+    "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/24823/ee60402db0034153a5ccd5ab20584df6_150x100_resize.jpg",
+    "brokerageName": "Texas Glocal Partners",
+    "activatedOn": "2025-07-15T17:56:43.826Z",
+    "isInOpportunityZone": false,
+    "hasVideo": false,
+    "numberOfGalleryItems": 12,
+    "squareFootage": 9000,
+    "showCountdownAsDate": false,
+    "askingPrice": 500000.0,
+    "userIsAssetOwner": false,
+    "updatedOn": "2025-07-15T18:06:08.119Z",
+    "numberOfImages": 12,
+    "types": [
+      "Industrial",
+      "Mixed Use",
+      "Office",
+      "Retail"
+    ],
+    "hasOM": false,
+    "hasFlyer": true,
+    "status": "On-Market",
+    "hasVirtualTour": false,
+    "locations": [
+      {
+        "address": "100 S Main St",
+        "city": "Conroe",
+        "county": "Montgomery County",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "77301",
+        "latitude": 30.308831,
+        "longitude": -95.4564652,
+        "fullAddress": "100 S Main St, Conroe, Montgomery County, TX 77301"
+      }
+    ],
+    "isNew": true
+  },
+  {
+    "id": 2016320,
+    "name": "3.33 Acre Industrial Site",
+    "description": "836 W FM 71 / 709 Crawford St, Talco, TX 75487",
+    "thumbnailUrl": "https://images.crexi.com/assets/2016320/02e3a81cf08d4731af4e5d3c21140487_716x444.jpg",
+    "urlSlug": "texas-333-acre-industrial-site",
+    "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/85329/24f6282714d94fe493034c813e1257a4_150x100_resize.jpg",
+    "brokerageName": "Scarborough Commercial Real Estate",
+    "activatedOn": "2025-07-15T16:40:23.41Z",
+    "isInOpportunityZone": false,
+    "hasVideo": false,
+    "numberOfGalleryItems": 25,
+    "squareFootage": 4831,
+    "showCountdownAsDate": false,
+    "askingPrice": 230000.0,
+    "userIsAssetOwner": false,
+    "updatedOn": "2025-07-15T16:40:23.411Z",
+    "numberOfImages": 25,
+    "types": [
+      "Industrial"
+    ],
+    "investmentType": "Owner/User",
+    "hasOM": true,
+    "hasFlyer": false,
+    "status": "On-Market",
+    "hasVirtualTour": false,
+    "locations": [
+      {
+        "address": "836 W FM 71 & 709 Crawford St",
+        "city": "Talco",
+        "county": "Titus",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "75487",
+        "latitude": 33.35904576401408,
+        "longitude": -95.09566280460578,
+        "fullAddress": "836 W FM 71 & 709 Crawford St, Talco, Titus, TX 75487"
+      }
+    ],
+    "isNew": true
+  },
+  {
+    "id": 2016271,
+    "name": "Well-Positioned Industrial Redevelopment Opportunity",
+    "description": "Minutes from Downtown & Major Highways",
+    "thumbnailUrl": "https://images.crexi.com/assets/2016271/0b1a4a64bcb74a9c9c1b995e0aeddae5_716x444.jpg",
+    "urlSlug": "texas-well-positioned-industrial-redevelopment-opportunity",
+    "brokerTeamLogoUrl": "https://images.crexi.com/brokers/68988/20836391ce0c4e6381734936c92681b2_150x100_resize.jpg",
+    "brokerageName": "The Commercial Professionals",
+    "activatedOn": "2025-07-15T16:04:11.592Z",
+    "isInOpportunityZone": false,
+    "hasVideo": false,
+    "numberOfGalleryItems": 19,
+    "squareFootage": 7450,
+    "showCountdownAsDate": false,
+    "askingPrice": 700000.0,
+    "userIsAssetOwner": false,
+    "updatedOn": "2025-07-15T16:05:04.89Z",
+    "numberOfImages": 19,
+    "types": [
+      "Industrial"
+    ],
+    "hasOM": false,
+    "hasFlyer": true,
+    "status": "On-Market",
+    "hasVirtualTour": false,
+    "locations": [
+      {
+        "address": "8316 LaPorte Rd",
+        "city": "Houston",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "77012",
+        "latitude": 29.7144721,
+        "longitude": -95.2750149,
+        "fullAddress": "8316 LaPorte Rd, Houston, TX 77012"
+      }
+    ],
+    "isNew": true
+  },
+  {
+    "id": 2016167,
+    "name": "Office, Warehouses, and Wash-Bay on 19.2 Acres",
+    "description": "Office, Warehouses, and Wash-Bay on 19.2 Acres",
+    "thumbnailUrl": "https://images.crexi.com/assets/2016167/c77098eeacb84b3ab4adb6419618980b_716x444.jpg",
+    "urlSlug": "texas-office-warehouses-and-wash-bay-on-192-acres",
+    "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/25364/0674e22e11ea45ce879ea03017d8e1f1_150x100_resize.jpg",
+    "brokerageName": "NRG Realty Group",
+    "activatedOn": "2025-07-15T14:37:26.299Z",
+    "isInOpportunityZone": false,
+    "hasVideo": false,
+    "numberOfGalleryItems": 25,
+    "showCountdownAsDate": false,
+    "userIsAssetOwner": false,
+    "updatedOn": "2025-07-15T14:37:26.299Z",
+    "numberOfImages": 25,
+    "types": [
+      "Industrial"
+    ],
+    "investmentType": "Owner/User",
+    "hasOM": false,
+    "hasFlyer": true,
+    "status": "On-Market",
+    "hasVirtualTour": false,
+    "locations": [
+      {
+        "address": "6365 US-59",
+        "city": "Marshall",
+        "county": "Harrison County",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "75672",
+        "latitude": 32.48242301875166,
+        "longitude": -94.3593061892682,
+        "fullAddress": "6365 US-59, Marshall, Harrison County, TX 75672"
+      }
+    ],
+    "isNew": true
+  },
+  {
+    "id": 2016173,
+    "name": "Prime Location I \u00b19.29 Acre Laydown Yard",
+    "description": "Industrial | 17,800 SqFt",
+    "thumbnailUrl": "https://images.crexi.com/assets/2016173/b03827d4103341eaae2aaa2e808a133f_716x444.jpg",
+    "urlSlug": "texas-prime-location-i-929-acre-laydown-yard",
+    "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/14660/d56e141cebb34a3c8bdbd617bb4cf228_150x100_resize.jpg",
+    "brokerageName": "Colliers - Houston, Texas",
+    "activatedOn": "2025-07-15T14:32:25.204Z",
+    "isInOpportunityZone": true,
+    "hasVideo": false,
+    "numberOfGalleryItems": 3,
+    "squareFootage": 17800,
+    "showCountdownAsDate": false,
+    "userIsAssetOwner": false,
+    "updatedOn": "2025-07-15T14:45:06.918Z",
+    "numberOfImages": 3,
+    "types": [
+      "Industrial",
+      "Land"
+    ],
+    "hasOM": false,
+    "hasFlyer": true,
+    "status": "On-Market",
+    "hasVirtualTour": false,
+    "locations": [
+      {
+        "address": "3660 Schalker Dr",
+        "city": "Houston",
+        "county": "Harris County",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "77026",
+        "latitude": 29.79910773,
+        "longitude": -95.34630734,
+        "fullAddress": "3660 Schalker Dr, Houston, Harris County, TX 77026"
+      }
+    ],
+    "isNew": true
+  },
+  {
+    "id": 2016054,
+    "name": "Rosenberg Buildings",
+    "description": "Industrial | 10,500 SqFt",
+    "thumbnailUrl": "https://images.crexi.com/assets/2016054/5b967a42a1324eccb40ec93eadb68a2d_716x444.jpg",
+    "urlSlug": "texas-rosenberg-buildings",
+    "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/7209/b49ecf53c9bf4681a8a64046733ca266_150x100_resize.jpg",
+    "brokerageName": "Guflstream Properties, LLC",
+    "activatedOn": "2025-07-15T12:59:29.03Z",
+    "isInOpportunityZone": false,
+    "hasVideo": false,
+    "numberOfGalleryItems": 4,
+    "squareFootage": 10500,
+    "showCountdownAsDate": false,
+    "askingPrice": 1600000.0,
+    "userIsAssetOwner": false,
+    "updatedOn": "2025-07-15T13:01:43.821Z",
+    "numberOfImages": 4,
+    "types": [
+      "Industrial"
+    ],
+    "hasOM": true,
+    "hasFlyer": true,
+    "status": "On-Market",
+    "hasVirtualTour": false,
+    "locations": [
+      {
+        "address": "2070 Nala St",
+        "city": "Rosenberg",
+        "county": "Fort Bend County",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "77471",
+        "latitude": 29.5467599,
+        "longitude": -95.8219924,
+        "fullAddress": "2070 Nala St, Rosenberg, Fort Bend County, TX 77471"
+      }
+    ],
+    "isNew": true
+  },
+  {
+    "id": 2015283,
+    "name": "3324 W. 44th Street (Johnson Road)",
+    "description": "Industrial | 18,540 SqFt",
+    "thumbnailUrl": "https://images.crexi.com/assets/2015283/665aa1bf85bd40aaaa6fbc1babac0753_716x444.jpg",
+    "urlSlug": "texas-3324-w-44th-street-johnson-road",
+    "brokerTeamLogoUrl": "https://images.crexi.com/broker-teams/2245/af6c6fb0dd8940b5ab9dab5c52eeca39_150x100_resize.jpg",
+    "brokerageName": "The Havens Group",
+    "activatedOn": "2025-07-15T01:00:07.459Z",
+    "isInOpportunityZone": false,
+    "hasVideo": false,
+    "numberOfGalleryItems": 22,
+    "squareFootage": 18540,
+    "showCountdownAsDate": false,
+    "askingPrice": 2150000.0,
+    "userIsAssetOwner": false,
+    "updatedOn": "2025-07-21T15:56:33.412Z",
+    "numberOfImages": 22,
+    "types": [
+      "Industrial"
+    ],
+    "hasOM": false,
+    "hasFlyer": true,
+    "status": "On-Market",
+    "hasVirtualTour": false,
+    "locations": [
+      {
+        "address": "3324 W 44th St",
+        "city": "Odessa",
+        "county": "Ector County",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "79764",
+        "latitude": 31.87819588140545,
+        "longitude": -102.41954397793602,
+        "fullAddress": "3324 W 44th St, Odessa, Ector County, TX 79764"
+      }
+    ],
+    "isNew": true
+  },
+  {
+    "id": 2014356,
+    "name": "6505 N. Houston-Rosslyn Rd",
+    "description": "Industrial | 165,456 SqFt",
+    "thumbnailUrl": "https://images.crexi.com/assets/2014356/2c58baa061594f4fb3f28751ce3786fc_716x444.jpg",
+    "urlSlug": "texas-6505-n-houston-rosslyn-rd",
+    "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/14660/d56e141cebb34a3c8bdbd617bb4cf228_150x100_resize.jpg",
+    "brokerageName": "Colliers - Houston, Texas",
+    "activatedOn": "2025-07-14T22:38:26.058Z",
+    "isInOpportunityZone": false,
+    "hasVideo": false,
+    "numberOfGalleryItems": 5,
+    "squareFootage": 165456,
+    "showCountdownAsDate": false,
+    "userIsAssetOwner": false,
+    "updatedOn": "2025-07-15T13:47:13.565Z",
+    "numberOfImages": 5,
+    "types": [
+      "Industrial"
+    ],
+    "hasOM": false,
+    "hasFlyer": true,
+    "status": "On-Market",
+    "hasVirtualTour": false,
+    "locations": [
+      {
+        "address": "6505 N Houston Rosslyn Rd",
+        "city": "Houston",
+        "county": "Harris County",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "77091",
+        "latitude": 29.8608642,
+        "longitude": -95.4835957,
+        "fullAddress": "6505 N Houston Rosslyn Rd, Houston, Harris County, TX 77091"
+      }
+    ],
+    "isNew": true
+  },
+  {
+    "id": 2014136,
+    "name": "Victory",
+    "description": "Industrial | 5,904 SqFt",
+    "thumbnailUrl": "https://images.crexi.com/assets/2014136/89d93297b91b4aaaa3161ff0bb438c6f_716x444.jpg",
+    "urlSlug": "texas-victory",
+    "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/954/78af68a6809346f6be7ed78e000539a7_150x100_resize.jpg",
+    "brokerageName": "United Real Estate Houston",
+    "activatedOn": "2025-07-14T20:30:16.331Z",
+    "isInOpportunityZone": false,
+    "hasVideo": false,
+    "numberOfGalleryItems": 8,
+    "squareFootage": 5904,
+    "showCountdownAsDate": false,
+    "askingPrice": 240000.0,
+    "userIsAssetOwner": false,
+    "updatedOn": "2025-07-14T20:30:16.331Z",
+    "numberOfImages": 8,
+    "types": [
+      "Industrial",
+      "Retail",
+      "Special Purpose"
+    ],
+    "hasOM": true,
+    "hasFlyer": true,
+    "status": "On-Market",
+    "hasVirtualTour": false,
+    "locations": [
+      {
+        "address": "5750 S M L KING JR PKY",
+        "city": "Beaumont",
+        "county": "Jefferson",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "77705",
+        "latitude": 30.032255803090024,
+        "longitude": -94.06157064747744,
+        "fullAddress": "5750 S M L KING JR PKY, Beaumont, Jefferson, TX 77705"
+      }
+    ],
+    "isNew": true
+  },
+  {
+    "id": 2014199,
+    "name": "Rail Served Marshall Warehouse",
+    "description": "53,162 SqFt Industrial Facility",
+    "thumbnailUrl": "https://images.crexi.com/assets/2014199/a066f7552ed34a5db7ba2143eaf4e460_716x444.jpg",
+    "urlSlug": "texas-rail-served-marshall-warehouse",
+    "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/64118/6331ea070c574b2f97420876740f0b46_150x100_resize.jpg",
+    "brokerageName": "Patterson Commercial - Patterson",
+    "activatedOn": "2025-07-14T20:25:21.535Z",
+    "isInOpportunityZone": false,
+    "hasVideo": false,
+    "numberOfGalleryItems": 9,
+    "squareFootage": 53162,
+    "showCountdownAsDate": false,
+    "askingPrice": 3950000.0,
+    "userIsAssetOwner": false,
+    "updatedOn": "2025-07-14T20:25:21.535Z",
+    "numberOfImages": 9,
+    "types": [
+      "Industrial"
+    ],
+    "hasOM": false,
+    "hasFlyer": true,
+    "status": "On-Market",
+    "hasVirtualTour": false,
+    "locations": [
+      {
+        "address": "1600 Commerce St",
+        "city": "Marshall",
+        "county": "Harrison County",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "75672",
+        "latitude": 32.557935604834704,
+        "longitude": -94.29745552120235,
+        "fullAddress": "1600 Commerce St, Marshall, Harrison County, TX 75672"
+      }
+    ],
+    "isNew": true
+  },
+  {
+    "id": 2014135,
+    "name": "186,225 SF Small Bay Industrial Park",
+    "description": "Highway 30 Business Park | 7.88% CAP | 94.50% Leased",
+    "thumbnailUrl": "https://images.crexi.com/assets/2014135/5690f82013584457b488f8a75a14da08_716x444.jpg",
+    "urlSlug": "texas-186225-sf-small-bay-industrial-park",
+    "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/24331/4c74b7ee754141e386caecfd4e7a70ad_150x100_resize.jpg",
+    "brokerageName": "Oldham Goodwin Group Bryan / College Station",
+    "activatedOn": "2025-07-14T19:36:17.619Z",
+    "isInOpportunityZone": false,
+    "hasVideo": false,
+    "numberOfGalleryItems": 9,
+    "squareFootage": 186225,
+    "showCountdownAsDate": false,
+    "userIsAssetOwner": false,
+    "updatedOn": "2025-07-21T15:45:56.713Z",
+    "numberOfImages": 9,
+    "types": [
+      "Industrial"
+    ],
+    "hasOM": true,
+    "hasFlyer": false,
+    "status": "On-Market",
+    "hasVirtualTour": false,
+    "locations": [
+      {
+        "address": "11400 SH 30",
+        "city": "College Station",
+        "county": "Brazos County",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "77845",
+        "latitude": 30.6408048,
+        "longitude": -96.2523575,
+        "fullAddress": "11400 SH 30, College Station, Brazos County, TX 77845"
+      }
+    ],
+    "isNew": false
+  },
+  {
+    "id": 2013863,
+    "name": "1110 Paige Street, Houston, TX | Creative Space for Sale",
+    "description": "Eado Houston Gem | 18750 SF Bldg | 35750 SF Land",
+    "thumbnailUrl": "https://images.crexi.com/assets/2013863/b59b848b3a054bbc8c8aefdc1658d9e5_716x444.jpg",
+    "urlSlug": "texas-creative-space---1110-paige-street-houston-tx",
+    "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/8603/15e5d6cf87544b89b133e00e0dd4280e_150x100_resize.jpg",
+    "brokerageName": "Bejjani & Associates",
+    "activatedOn": "2025-07-14T16:59:10.609Z",
+    "isInOpportunityZone": false,
+    "hasVideo": false,
+    "numberOfGalleryItems": 11,
+    "squareFootage": 18750,
+    "showCountdownAsDate": false,
+    "userIsAssetOwner": false,
+    "updatedOn": "2025-07-14T17:46:30.887Z",
+    "numberOfImages": 11,
+    "types": [
+      "Industrial",
+      "Mixed Use",
+      "Office",
+      "Retail",
+      "Special Purpose"
+    ],
+    "investmentType": "Owner/User",
+    "hasOM": true,
+    "hasFlyer": true,
+    "status": "On-Market",
+    "hasVirtualTour": false,
+    "locations": [
+      {
+        "address": "1110 Paige St",
+        "city": "Houston",
+        "county": "Harris County",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "77003",
+        "latitude": 29.745667170016986,
+        "longitude": -95.34979537671221,
+        "fullAddress": "1110 Paige St, Houston, Harris County, TX 77003"
+      }
+    ],
+    "isNew": false
+  },
+  {
+    "id": 2013865,
+    "name": "6000 W 7th Warehouse",
+    "description": "Warehouse | 8,280 SqFt/6000 W 7th",
+    "thumbnailUrl": "https://images.crexi.com/assets/2013865/4a2147ac0e95431a83ed6925ef31071f_716x444.jpg",
+    "urlSlug": "texas-6000-w-7th-warehouse",
+    "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/2284/343d7d6bd93d4f6db1a731db174e9651_150x100_resize.jpg",
+    "brokerageName": "The Legacy Group",
+    "activatedOn": "2025-07-14T16:48:07.052Z",
+    "isInOpportunityZone": false,
+    "hasVideo": false,
+    "numberOfGalleryItems": 12,
+    "squareFootage": 8280,
+    "showCountdownAsDate": false,
+    "askingPrice": 375000.0,
+    "userIsAssetOwner": false,
+    "updatedOn": "2025-07-14T16:48:47.157Z",
+    "numberOfImages": 12,
+    "types": [
+      "Industrial",
+      "Mixed Use",
+      "Office"
+    ],
+    "hasOM": false,
+    "hasFlyer": true,
+    "status": "On-Market",
+    "hasVirtualTour": false,
+    "locations": [
+      {
+        "address": "6000 W 7th",
+        "city": "Texarkana",
+        "county": "Bowie",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "75501",
+        "latitude": 33.41465307913536,
+        "longitude": -94.12601408361859,
+        "fullAddress": "6000 W 7th, Texarkana, Bowie, TX 75501"
+      }
+    ],
+    "isNew": false
+  },
+  {
+    "id": 2013760,
+    "name": "VersaTech Automation Services & Power Rig Rental Tool",
+    "description": "9.00% Cap Rate | Two Tenants on NNN Leases | 5.26 Acre Parcel",
+    "thumbnailUrl": "https://images.crexi.com/assets/2013760/244e147ad56d464e8bc5b5e977568c79_716x444.jpg",
+    "urlSlug": "texas-versatech-automation-services-power-rig-rental-tool",
+    "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/15644/340c933d686442a7aa724d6f07d80cc2_150x100_resize.jpg",
+    "brokerageName": "Marcus & Millichap - Orlando",
+    "activatedOn": "2025-07-14T15:20:58.827Z",
+    "isInOpportunityZone": false,
+    "hasVideo": false,
+    "numberOfGalleryItems": 4,
+    "squareFootage": 12000,
+    "showCountdownAsDate": false,
+    "askingPrice": 2354000.0,
+    "userIsAssetOwner": false,
+    "updatedOn": "2025-07-14T20:18:54.382Z",
+    "numberOfImages": 4,
+    "types": [
+      "Industrial"
+    ],
+    "investmentType": "Net Lease",
+    "hasOM": true,
+    "hasFlyer": false,
+    "status": "On-Market",
+    "hasVirtualTour": false,
+    "locations": [
+      {
+        "address": "3710 N County Rd 1148",
+        "city": "Midland",
+        "county": "Midland County",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "79705",
+        "latitude": 32.0472895,
+        "longitude": -102.021534,
+        "fullAddress": "3710 N County Rd 1148, Midland, Midland County, TX 79705"
+      }
+    ],
+    "isNew": false
+  },
+  {
+    "id": 2013683,
+    "name": "NEC Houston Hwy & N Ben Jordan St, Victoria, TX - 1.48 AC",
+    "description": "Land Available - For Sale/Lease",
+    "thumbnailUrl": "https://images.crexi.com/assets/2013683/6747383416fa409d865ba43a4712a44b_716x444.jpg",
+    "urlSlug": "texas-nec-houston-hwy-n-ben-jordan-st-victoria-tx---148-ac",
+    "brokerTeamLogoUrl": "https://images.crexi.com/broker-teams/3245/db171b733f854500be223d25f9cc782a_150x100_resize.jpg",
+    "brokerageName": "Vequity",
+    "activatedOn": "2025-07-14T14:02:50.107Z",
+    "isInOpportunityZone": false,
+    "hasVideo": false,
+    "numberOfGalleryItems": 2,
+    "showCountdownAsDate": false,
+    "askingPrice": 399500.0,
+    "userIsAssetOwner": false,
+    "updatedOn": "2025-07-14T14:39:34.374Z",
+    "numberOfImages": 2,
+    "types": [
+      "Industrial",
+      "Land",
+      "Multifamily",
+      "Office",
+      "Retail"
+    ],
+    "hasOM": false,
+    "hasFlyer": true,
+    "status": "On-Market",
+    "hasVirtualTour": false,
+    "locations": [
+      {
+        "address": "2004 N Ben Jordan St",
+        "city": "Victoria",
+        "county": "Victoria County",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "77901",
+        "latitude": 28.8087697,
+        "longitude": -96.9825423,
+        "fullAddress": "2004 N Ben Jordan St, Victoria, Victoria County, TX 77901"
+      }
+    ],
+    "isNew": false
+  },
+  {
+    "id": 2013453,
+    "name": "211 Murphy St",
+    "description": "Industrial | 1,097 SqFt",
+    "thumbnailUrl": "https://images.crexi.com/assets/2013453/2e9fab22ed3e44618cdc48ade113fbd0_716x444.jpg",
+    "urlSlug": "texas-211-murphy-st",
+    "brokerTeamLogoUrl": "https://images.crexi.com/brokers/2496261/9404c98a863843c4968ba83b94326e7f_150x100_resize.jpg",
+    "brokerageName": "Top Notch Properties",
+    "activatedOn": "2025-07-14T09:46:53.28Z",
+    "isInOpportunityZone": false,
+    "hasVideo": false,
+    "numberOfGalleryItems": 12,
+    "squareFootage": 1097,
+    "showCountdownAsDate": false,
+    "askingPrice": 240000.0,
+    "userIsAssetOwner": false,
+    "updatedOn": "2025-07-18T00:43:44.665Z",
+    "numberOfImages": 12,
+    "types": [
+      "Industrial",
+      "Mixed Use"
+    ],
+    "hasOM": false,
+    "hasFlyer": true,
+    "status": "On-Market",
+    "hasVirtualTour": false,
+    "locations": [
+      {
+        "address": "211 Murphy St",
+        "city": "Taylor",
+        "county": "Williamson County",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "76574",
+        "latitude": 30.5697614,
+        "longitude": -97.404297,
+        "fullAddress": "211 Murphy St, Taylor, Williamson County, TX 76574"
+      }
+    ],
+    "isNew": false
+  },
+  {
+    "id": 2013458,
+    "name": "East Wilco Hwy Opportunity",
+    "description": "Prime Commercial Opportunity with Great Visibility",
+    "thumbnailUrl": "https://images.crexi.com/assets/2013458/bdf8b19ada224cdcbcad21b68df3e552_716x444.jpg",
+    "urlSlug": "texas-280-fm-3349",
+    "brokerTeamLogoUrl": "https://images.crexi.com/brokers/2496261/9404c98a863843c4968ba83b94326e7f_150x100_resize.jpg",
+    "brokerageName": "Top Notch Properties",
+    "activatedOn": "2025-07-14T09:42:44.245Z",
+    "isInOpportunityZone": false,
+    "hasVideo": false,
+    "numberOfGalleryItems": 3,
+    "showCountdownAsDate": false,
+    "askingPrice": 900000.0,
+    "userIsAssetOwner": false,
+    "updatedOn": "2025-07-18T19:03:28.82Z",
+    "numberOfImages": 3,
+    "types": [
+      "Industrial",
+      "Land",
+      "Retail"
+    ],
+    "hasOM": false,
+    "hasFlyer": true,
+    "status": "On-Market",
+    "hasVirtualTour": false,
+    "locations": [
+      {
+        "address": "280 Fm 3349",
+        "city": "Taylor",
+        "county": "Williamson County",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "76574",
+        "latitude": 30.5500894,
+        "longitude": -97.4841151,
+        "fullAddress": "280 Fm 3349, Taylor, Williamson County, TX 76574"
+      }
+    ],
+    "isNew": false
+  },
+  {
+    "id": 2013380,
+    "name": "8760 7th Street",
+    "description": "Iconic Frisco -Investment/User Building in the Rail District.",
+    "thumbnailUrl": "https://images.crexi.com/assets/2013380/ac780c9c78994ddf8876cd53568db62a_716x444.jpg",
+    "urlSlug": "texas-8760-7th-street",
+    "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/14065/ed71504c39ab45ddb272e0e2174822c7_150x100_resize.jpg",
+    "brokerageName": "CBRE - Dallas McKinney",
+    "activatedOn": "2025-07-13T15:01:57.385Z",
+    "isInOpportunityZone": false,
+    "hasVideo": false,
+    "numberOfGalleryItems": 1,
+    "squareFootage": 11500,
+    "showCountdownAsDate": false,
+    "askingPrice": 2750000.0,
+    "userIsAssetOwner": false,
+    "updatedOn": "2025-07-13T19:09:06.609Z",
+    "numberOfImages": 1,
+    "types": [
+      "Industrial"
+    ],
+    "investmentType": "Owner/User",
+    "hasOM": true,
+    "hasFlyer": false,
+    "status": "On-Market",
+    "hasVirtualTour": false,
+    "locations": [
+      {
+        "address": "8760 7th St",
+        "city": "Frisco",
+        "county": "Collin County",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "75034",
+        "latitude": 33.1486955,
+        "longitude": -96.8217651,
+        "fullAddress": "8760 7th St, Frisco, Collin County, TX 75034"
+      }
+    ],
+    "isNew": false
+  },
+  {
+    "id": 2013187,
+    "name": "814 Verhalen | Land | 2.54 Acres",
+    "description": "Mixed-Use",
+    "thumbnailUrl": "https://images.crexi.com/assets/2013187/54e00be6e8f74d60aad8e647ab117d19_716x444.jpg",
+    "urlSlug": "texas-vehalen",
+    "brokerageName": "Amanda Martin",
+    "activatedOn": "2025-07-13T03:45:33.878Z",
+    "isInOpportunityZone": false,
+    "hasVideo": false,
+    "numberOfGalleryItems": 8,
+    "showCountdownAsDate": false,
+    "askingPrice": 212000.0,
+    "userIsAssetOwner": false,
+    "updatedOn": "2025-07-13T04:35:06.464Z",
+    "numberOfImages": 8,
+    "types": [
+      "Industrial",
+      "Land",
+      "Mixed Use",
+      "Multifamily"
+    ],
+    "hasOM": false,
+    "hasFlyer": true,
+    "status": "On-Market",
+    "hasVirtualTour": false,
+    "locations": [
+      {
+        "address": "814 Verhalen Rd",
+        "city": "Alvin",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "77511",
+        "latitude": 29.385526,
+        "longitude": -95.226764,
+        "fullAddress": "814 Verhalen Rd, Alvin, TX 77511"
+      }
+    ],
+    "isNew": false
+  },
+  {
+    "id": 2012760,
+    "name": "1090, 1080 South 11th Street & 3620 Milam St",
+    "description": "Retail | 9,600 SqFt",
+    "thumbnailUrl": "https://images.crexi.com/assets/2012760/d2e5d94a4db9485288acb1abbaa8813b_716x444.jpg",
+    "urlSlug": "texas-1090-1080-south-11th-street-3620-milam-st",
+    "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/27553/01ec743bd9ea4ba29e92a95b2bd2410f_150x100_resize.jpg",
+    "brokerageName": "J M Prewitt Company",
+    "activatedOn": "2025-07-12T22:45:14.739Z",
+    "isInOpportunityZone": false,
+    "hasVideo": false,
+    "numberOfGalleryItems": 4,
+    "squareFootage": 9600,
+    "showCountdownAsDate": false,
+    "askingPrice": 1200000.0,
+    "userIsAssetOwner": false,
+    "updatedOn": "2025-07-12T22:45:14.739Z",
+    "numberOfImages": 4,
+    "types": [
+      "Retail",
+      "Office",
+      "Industrial",
+      "Self Storage"
+    ],
+    "hasOM": false,
+    "hasFlyer": true,
+    "status": "On-Market",
+    "hasVirtualTour": false,
+    "locations": [
+      {
+        "address": "1090, 1080 South 11th Street & 3620 Milam St",
+        "city": "Beaumont",
+        "county": "Jefferson County",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "77701",
+        "latitude": 30.066458,
+        "longitude": -94.1300673,
+        "fullAddress": "1090, 1080 South 11th Street & 3620 Milam St, Beaumont, Jefferson County, TX 77701"
+      }
+    ],
+    "isNew": false
+  },
+  {
+    "id": 2012484,
+    "name": "Cantey Street Business Park",
+    "description": "Office | 70,649 SqFt",
+    "thumbnailUrl": "https://images.crexi.com/assets/2012484/3bb7e69ed6244a31a170521c520eb01a_716x444.jpg",
+    "urlSlug": "texas-cantey-street-business-park",
+    "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/9517/b4b06af1147243b9bc154deb0f7e5ce9_150x100_resize.jpg",
+    "brokerageName": "Transwestern Fort Worth",
+    "activatedOn": "2025-07-12T14:27:08.759Z",
+    "isInOpportunityZone": false,
+    "hasVideo": false,
+    "numberOfGalleryItems": 6,
+    "squareFootage": 70649,
+    "showCountdownAsDate": false,
+    "userIsAssetOwner": false,
+    "updatedOn": "2025-07-14T17:13:18.568Z",
+    "numberOfImages": 6,
+    "types": [
+      "Office",
+      "Industrial"
+    ],
+    "hasOM": false,
+    "hasFlyer": true,
+    "status": "On-Market",
+    "hasVirtualTour": false,
+    "locations": [
+      {
+        "address": "2813, 2820 & 2816 Bryan Avenue",
+        "city": "Fort Worth",
+        "county": "Tarrant County",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "76104",
+        "latitude": 32.7104875,
+        "longitude": -97.325619,
+        "fullAddress": "2813, 2820 & 2816 Bryan Avenue, Fort Worth, Tarrant County, TX 76104"
+      },
+      {
+        "address": "2801 S. Main Street",
+        "city": "Fort Worth",
+        "county": "Tarrant County",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "76104",
+        "latitude": 32.7248887,
+        "longitude": -97.3138554,
+        "fullAddress": "2801 S. Main Street, Fort Worth, Tarrant County, TX 76104"
+      }
+    ],
+    "isNew": false
+  },
+  {
+    "id": 2011897,
+    "name": "17371 S Hwy 155",
+    "description": "Warehouse",
+    "thumbnailUrl": "https://images.crexi.com/assets/2011897/1d2cd3e1978948feac69b93ca4993e02_716x444.jpg",
+    "urlSlug": "texas-17371-s-hwy-155",
+    "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/33221/c61f25ba814c4f17a4d1a8bfa973c411_150x100_resize.jpg",
+    "brokerageName": "Staples Commercial Group, LLC",
+    "activatedOn": "2025-07-12T14:21:31.986Z",
+    "isInOpportunityZone": false,
+    "hasVideo": false,
+    "numberOfGalleryItems": 48,
+    "squareFootage": 2580,
+    "showCountdownAsDate": false,
+    "askingPrice": 225000.0,
+    "userIsAssetOwner": false,
+    "updatedOn": "2025-07-16T13:37:54.786Z",
+    "numberOfImages": 48,
+    "types": [
+      "Industrial",
+      "Land"
+    ],
+    "hasOM": false,
+    "hasFlyer": true,
+    "status": "On-Market",
+    "hasVirtualTour": false,
+    "locations": [
+      {
+        "address": "17371 S Hwy 155",
+        "city": "Flint",
+        "county": "Smith County",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "75762",
+        "latitude": 32.2285186,
+        "longitude": -95.4101195,
+        "fullAddress": "17371 S Hwy 155, Flint, Smith County, TX 75762"
+      }
+    ],
+    "isNew": false
+  },
+  {
+    "id": 2012664,
+    "name": "2407 S Eastman Rd, Longview, TX 75602",
+    "description": "Industrial | 3,200 SqFt",
+    "thumbnailUrl": "https://images.crexi.com/assets/2012664/0592787c581a41b9b595a93cb22b19e5_716x444.jpg",
+    "urlSlug": "texas-2407-s-eastman-rd-longview-tx-75602",
+    "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/116977/8ea30c6aa4654f289b2e14d5ed03d832_150x100_resize.jpg",
+    "brokerageName": "Nolan Properties",
+    "activatedOn": "2025-07-11T22:09:34.135Z",
+    "isInOpportunityZone": false,
+    "hasVideo": false,
+    "numberOfGalleryItems": 16,
+    "squareFootage": 3200,
+    "showCountdownAsDate": false,
+    "askingPrice": 196800.0,
+    "userIsAssetOwner": false,
+    "updatedOn": "2025-07-11T22:09:34.135Z",
+    "numberOfImages": 16,
+    "types": [
+      "Industrial",
+      "Mixed Use",
+      "Office"
+    ],
+    "investmentType": "Owner/User",
+    "hasOM": false,
+    "hasFlyer": true,
+    "status": "On-Market",
+    "hasVirtualTour": false,
+    "locations": [
+      {
+        "address": "2407 S Eastman Rd",
+        "city": "Longview",
+        "county": "Gregg County",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "75602",
+        "latitude": 32.4650958,
+        "longitude": -94.7077687,
+        "fullAddress": "2407 S Eastman Rd, Longview, Gregg County, TX 75602"
+      }
+    ],
+    "isNew": false
+  },
+  {
+    "id": 2012654,
+    "name": "2409 S Eastman Rd, Longview, TX 75602",
+    "description": "Commercial / Industrial | 4,500 SqFt",
+    "thumbnailUrl": "https://images.crexi.com/assets/2012654/c837a49b54ac4db9b1e34d2578ed78e4_716x444.jpg",
+    "urlSlug": "texas-2409-s-eastman-rd-longview-tx-75602",
+    "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/116977/8ea30c6aa4654f289b2e14d5ed03d832_150x100_resize.jpg",
+    "brokerageName": "Nolan Properties",
+    "activatedOn": "2025-07-11T22:02:20.347Z",
+    "isInOpportunityZone": false,
+    "hasVideo": false,
+    "numberOfGalleryItems": 28,
+    "squareFootage": 4500,
+    "showCountdownAsDate": false,
+    "askingPrice": 270000.0,
+    "userIsAssetOwner": false,
+    "updatedOn": "2025-07-11T22:02:20.348Z",
+    "numberOfImages": 28,
+    "types": [
+      "Industrial",
+      "Office"
+    ],
+    "investmentType": "Owner/User",
+    "hasOM": false,
+    "hasFlyer": true,
+    "status": "On-Market",
+    "hasVirtualTour": false,
+    "locations": [
+      {
+        "address": "2409 S Eastman Rd",
+        "city": "Longview",
+        "county": "Gregg County",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "75602",
+        "latitude": 32.4648715,
+        "longitude": -94.7077297,
+        "fullAddress": "2409 S Eastman Rd, Longview, Gregg County, TX 75602"
+      }
+    ],
+    "isNew": false
+  },
+  {
+    "id": 2011842,
+    "name": "308 E Louisiana Ave",
+    "description": "Office | 11,400 SqFt",
+    "thumbnailUrl": "https://images.crexi.com/assets/2011842/1db481048b5b477280ffb6924950df86_716x444.jpg",
+    "urlSlug": "texas-308-e-louisiana-ave",
+    "brokerageName": "Sisniega Real Estate",
+    "activatedOn": "2025-07-11T21:21:20.586Z",
+    "isInOpportunityZone": false,
+    "hasVideo": false,
+    "numberOfGalleryItems": 14,
+    "squareFootage": 11400,
+    "showCountdownAsDate": false,
+    "askingPrice": 1590000.0,
+    "userIsAssetOwner": false,
+    "updatedOn": "2025-07-11T21:22:17.543Z",
+    "numberOfImages": 14,
+    "types": [
+      "Office",
+      "Industrial"
+    ],
+    "hasOM": false,
+    "hasFlyer": true,
+    "status": "On-Market",
+    "hasVirtualTour": false,
+    "locations": [
+      {
+        "address": "308 E Louisiana Ave",
+        "city": "Midland",
+        "county": "Midland County",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "79701",
+        "latitude": 32.0036035,
+        "longitude": -102.0712371,
+        "fullAddress": "308 E Louisiana Ave, Midland, Midland County, TX 79701"
+      }
+    ],
+    "isNew": false
+  },
+  {
+    "id": 2012445,
+    "name": "12828 & 12900 W County Rd 91",
+    "description": "Investment Opportunity for 2 shops with single tenant on 10 acres total.",
+    "thumbnailUrl": "https://images.crexi.com/assets/2012445/4acc611572414be78a0a28307c131e43_716x444.jpg",
+    "urlSlug": "texas-12828-12900-w-county-rd-91",
+    "brokerageName": "Haus Property Group",
+    "activatedOn": "2025-07-11T20:50:41.136Z",
+    "isInOpportunityZone": false,
+    "hasVideo": false,
+    "numberOfGalleryItems": 9,
+    "squareFootage": 12450,
+    "showCountdownAsDate": false,
+    "askingPrice": 2000000.0,
+    "userIsAssetOwner": false,
+    "updatedOn": "2025-07-11T21:25:21.529Z",
+    "numberOfImages": 9,
+    "types": [
+      "Industrial"
+    ],
+    "investmentType": "Net Lease",
+    "hasOM": false,
+    "hasFlyer": true,
+    "status": "On-Market",
+    "hasVirtualTour": true,
+    "locations": [
+      {
+        "address": "12900 W County Rd 91",
+        "city": "Midland",
+        "county": "Midland County",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "79707",
+        "latitude": 31.949337438258354,
+        "longitude": -102.27754397680336,
+        "fullAddress": "12900 W County Rd 91, Midland, Midland County, TX 79707"
+      }
+    ],
+    "isNew": false
+  },
+  {
+    "id": 2012268,
+    "name": "4229 N FM 620 Unit- 122",
+    "description": "Industrial | 534 SqFt",
+    "thumbnailUrl": "https://images.crexi.com/assets/2012268/9b5bd1ea25a04c28b023bb3ba57c3cc6_716x444.jpg",
+    "urlSlug": "texas-4229-n-fm-620-unit--122",
+    "brokerTeamLogoUrl": "https://images.crexi.com/brokers/2294285/935e7f5a2d0240b9bedfef6658918048_150x100_resize.jpg",
+    "activatedOn": "2025-07-11T16:54:48.066Z",
+    "isInOpportunityZone": false,
+    "hasVideo": false,
+    "numberOfGalleryItems": 13,
+    "squareFootage": 534,
+    "showCountdownAsDate": false,
+    "askingPrice": 174990.0,
+    "userIsAssetOwner": false,
+    "updatedOn": "2025-07-15T15:35:31.133Z",
+    "numberOfImages": 13,
+    "types": [
+      "Industrial",
+      "Office"
+    ],
+    "hasOM": false,
+    "hasFlyer": true,
+    "status": "On-Market",
+    "hasVirtualTour": true,
+    "locations": [
+      {
+        "address": "4229 N FM 620 Unit- 122A",
+        "city": "Austin",
+        "county": "Travis County",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "78734",
+        "latitude": 30.39605504826978,
+        "longitude": -97.91570856005272,
+        "fullAddress": "4229 N FM 620 Unit- 122A, Austin, Travis County, TX 78734"
+      }
+    ],
+    "isNew": false
+  },
+  {
+    "id": 2012287,
+    "name": "4229 N FM 620 Unit- 214",
+    "description": "Industrial | 800 SqFt",
+    "thumbnailUrl": "https://images.crexi.com/assets/2012287/b9ac7119c1a54e8584f916684257410c_716x444.jpg",
+    "urlSlug": "texas-4229-n-fm-620-unit--214",
+    "brokerTeamLogoUrl": "https://images.crexi.com/brokers/2294285/935e7f5a2d0240b9bedfef6658918048_150x100_resize.jpg",
+    "activatedOn": "2025-07-11T16:54:42.946Z",
+    "isInOpportunityZone": false,
+    "hasVideo": false,
+    "numberOfGalleryItems": 13,
+    "squareFootage": 800,
+    "showCountdownAsDate": false,
+    "askingPrice": 259990.0,
+    "userIsAssetOwner": false,
+    "updatedOn": "2025-07-15T15:39:27.207Z",
+    "numberOfImages": 13,
+    "types": [
+      "Industrial",
+      "Office"
+    ],
+    "hasOM": false,
+    "hasFlyer": true,
+    "status": "On-Market",
+    "hasVirtualTour": true,
+    "locations": [
+      {
+        "address": "4229 N FM 620 Unit- 214A",
+        "city": "Austin",
+        "county": "Travis County",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "78734",
+        "latitude": 30.3955651,
+        "longitude": -97.9159239,
+        "fullAddress": "4229 N FM 620 Unit- 214A, Austin, Travis County, TX 78734"
+      }
+    ],
+    "isNew": false
+  },
+  {
+    "id": 2012293,
+    "name": "4229 N FM 620 Unit- 214/215",
+    "description": "Industrial | 1,600 SqFt",
+    "thumbnailUrl": "https://images.crexi.com/assets/2012293/a550e640638743d39a9eef8472f095cd_716x444.jpg",
+    "urlSlug": "texas-4229-n-fm-620-unit--214215",
+    "brokerTeamLogoUrl": "https://images.crexi.com/brokers/2294285/935e7f5a2d0240b9bedfef6658918048_150x100_resize.jpg",
+    "activatedOn": "2025-07-11T16:54:38.683Z",
+    "isInOpportunityZone": false,
+    "hasVideo": false,
+    "numberOfGalleryItems": 13,
+    "squareFootage": 1600,
+    "showCountdownAsDate": false,
+    "askingPrice": 519990.0,
+    "userIsAssetOwner": false,
+    "updatedOn": "2025-07-16T16:16:23.554Z",
+    "numberOfImages": 13,
+    "types": [
+      "Industrial",
+      "Office"
+    ],
+    "hasOM": false,
+    "hasFlyer": true,
+    "status": "On-Market",
+    "hasVirtualTour": true,
+    "locations": [
+      {
+        "address": "4229 N FM 620 Unit- 214/215A",
+        "city": "Austin",
+        "county": "Travis County",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "78734",
+        "latitude": 30.39605504826978,
+        "longitude": -97.91570856005272,
+        "fullAddress": "4229 N FM 620 Unit- 214/215A, Austin, Travis County, TX 78734"
+      }
+    ],
+    "isNew": false
+  },
+  {
+    "id": 2012308,
+    "name": "4229 N FM 620 Unit- 232",
+    "description": "Industrial | 534 SqFt",
+    "thumbnailUrl": "https://images.crexi.com/assets/2012308/65df52464acb4bb6bc2484e553b0b22d_716x444.jpg",
+    "urlSlug": "texas-4229-n-fm-620-unit--232",
+    "brokerTeamLogoUrl": "https://images.crexi.com/brokers/2294285/935e7f5a2d0240b9bedfef6658918048_150x100_resize.jpg",
+    "activatedOn": "2025-07-11T16:54:27.814Z",
+    "isInOpportunityZone": false,
+    "hasVideo": false,
+    "numberOfGalleryItems": 14,
+    "squareFootage": 534,
+    "showCountdownAsDate": false,
+    "askingPrice": 179990.0,
+    "userIsAssetOwner": false,
+    "updatedOn": "2025-07-15T15:40:40.744Z",
+    "numberOfImages": 14,
+    "types": [
+      "Industrial",
+      "Office"
+    ],
+    "hasOM": false,
+    "hasFlyer": true,
+    "status": "On-Market",
+    "hasVirtualTour": false,
+    "locations": [
+      {
+        "address": "4229 N FM 620 Unit- 232A",
+        "city": "Austin",
+        "county": "Travis County",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "78734",
+        "latitude": 30.39605504826978,
+        "longitude": -97.91570856005272,
+        "fullAddress": "4229 N FM 620 Unit- 232A, Austin, Travis County, TX 78734"
+      }
+    ],
+    "isNew": false
+  },
+  {
+    "id": 2012322,
+    "name": "Expressway 281 Development Land",
+    "description": "Industrial",
+    "thumbnailUrl": "https://images.crexi.com/assets/2012322/3b22a9a53adf4b9e9ff64fcc0c8ab602_716x444.jpg",
+    "urlSlug": "texas-expressway-281-development-land",
+    "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/85052/a8bdde3d9ffd4d569fbace35f1cc57f0_150x100_resize.jpg",
+    "brokerageName": "Coldwell Banker Commercial - RGV",
+    "activatedOn": "2025-07-11T16:54:08.603Z",
+    "isInOpportunityZone": false,
+    "hasVideo": false,
+    "numberOfGalleryItems": 4,
+    "showCountdownAsDate": false,
+    "userIsAssetOwner": false,
+    "updatedOn": "2025-07-11T17:00:11.979Z",
+    "numberOfImages": 4,
+    "types": [
+      "Industrial",
+      "Mixed Use",
+      "Office",
+      "Retail"
+    ],
+    "hasOM": false,
+    "hasFlyer": true,
+    "status": "On-Market",
+    "hasVirtualTour": false,
+    "locations": [
+      {
+        "address": "4911 N Cage Blvd",
+        "city": "Pharr",
+        "county": "Hidalgo County",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "78577",
+        "latitude": 26.23689203821682,
+        "longitude": -98.17834473060815,
+        "fullAddress": "4911 N Cage Blvd, Pharr, Hidalgo County, TX 78577"
+      }
+    ],
+    "isNew": false
+  },
+  {
+    "id": 2012126,
+    "name": "124 Capital Lane | Income + IOS Value-Add Industrial/Flex",
+    "description": "Leased & Vacant Flex Industrial with \u00b13.5 Acres IOS in Booming North Fort Worth Corridor",
+    "thumbnailUrl": "https://images.crexi.com/assets/2012126/97827ad2cccb483c885a7bed7dc1238d_716x444.jpg",
+    "urlSlug": "texas-124-capital-lane-income-ios-value-add-industrialflex",
+    "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/1874/8135320470c4498d85c8f1980334146b_150x100_resize.jpg",
+    "brokerageName": "Mohr Partners, Inc. Dallas",
+    "activatedOn": "2025-07-11T14:21:47.089Z",
+    "isInOpportunityZone": false,
+    "hasVideo": false,
+    "numberOfGalleryItems": 12,
+    "showCountdownAsDate": false,
+    "askingPrice": 7950000.0,
+    "userIsAssetOwner": false,
+    "updatedOn": "2025-07-11T14:22:02.069Z",
+    "numberOfImages": 12,
+    "types": [
+      "Industrial"
+    ],
+    "investmentType": "Sale/Leaseback",
+    "hasOM": true,
+    "hasFlyer": false,
+    "status": "On-Market",
+    "hasVirtualTour": false,
+    "locations": [
+      {
+        "address": "124 Capital Lane",
+        "city": "Rhome",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "76078",
+        "latitude": 33.0405419,
+        "longitude": -97.4346733,
+        "fullAddress": "124 Capital Lane, Rhome, TX 76078"
+      }
+    ],
+    "isNew": false
+  },
+  {
+    "id": 2012003,
+    "name": "1354 N County Road 1430 1430",
+    "description": "Industrial | 21,000 SqFt",
+    "thumbnailUrl": "https://images.crexi.com/assets/2012003/e5ee57b283034b0bb300204cd16e6799_716x444.jpg",
+    "urlSlug": "texas-1354-n-county-road-1430-1430",
+    "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/20183/079860772e784437b7764ec9a856c968_150x100_resize.jpg",
+    "brokerageName": "Coldwell Banker Commercial Apex, REALTORS",
+    "activatedOn": "2025-07-11T10:08:06.778Z",
+    "isInOpportunityZone": false,
+    "hasVideo": false,
+    "numberOfGalleryItems": 19,
+    "squareFootage": 21000,
+    "showCountdownAsDate": false,
+    "askingPrice": 200000.0,
+    "userIsAssetOwner": false,
+    "updatedOn": "2025-07-21T10:07:10.049Z",
+    "numberOfImages": 19,
+    "types": [
+      "Industrial",
+      "Land"
+    ],
+    "hasOM": false,
+    "hasFlyer": true,
+    "status": "On-Market",
+    "hasVirtualTour": false,
+    "locations": [
+      {
+        "address": "1354 N County Road 1430 1430",
+        "city": "Knox City",
+        "county": "Knox",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "79529",
+        "latitude": 33.4047542,
+        "longitude": -99.8311073,
+        "fullAddress": "1354 N County Road 1430 1430, Knox City, Knox, TX 79529"
+      }
+    ],
+    "isNew": false
+  }
+]

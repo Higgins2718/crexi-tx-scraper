@@ -1,0 +1,2616 @@
+[
+  {
+    "activatedOn": "2025-06-30T20:17:02Z",
+    "locations": [
+      {
+        "address": "1909 I-35 N Frontage Rd",
+        "city": "San Marcos",
+        "county": "Hays County",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "78666",
+        "latitude": 29.9006396,
+        "longitude": -97.9063879,
+        "fullAddress": "1909 I-35 N Frontage Rd, San Marcos, Hays County, TX 78666"
+      }
+    ],
+    "askingPrice": 150000.0,
+    "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/56004/f34724015b4344c1afe7acd1f87b0425_150x100_resize.jpg",
+    "brokerageName": "Commercial Real Estate Exchange Inc",
+    "description": "Highly Visible I-35 | Variety of Potential Uses",
+    "hasFlyer": false,
+    "hasOM": true,
+    "hasVideo": false,
+    "id": 1987791,
+    "isInOpportunityZone": false,
+    "name": "3.96 Acre Lot | San Marcos, TX",
+    "numberOfGalleryItems": 10,
+    "numberOfImages": 10,
+    "offersDueOn": "2025-08-20T16:00:00Z",
+    "showCountdownAsDate": false,
+    "status": "Auction",
+    "thumbnailUrl": "https://images.crexi.com/assets/1987791/3aa1c6268f904555a2d08c555d34a336_716x444.jpg",
+    "types": [
+      "Land"
+    ],
+    "updatedOn": "2025-07-07T23:27:42Z",
+    "urlSlug": "texas-3.96-acre-lot-san-marcos-tx",
+    "userIsAssetOwner": false,
+    "hasVirtualTour": false,
+    "recommId": "c7af328b4ae4c7d5db274c4c59680ca2"
+  },
+  {
+    "activatedOn": "2024-10-29T16:52:06Z",
+    "locations": [
+      {
+        "address": "380 Quincy St",
+        "city": "Brockton",
+        "county": "Plymouth County",
+        "state": {
+          "code": "MA",
+          "name": "Massachusetts"
+        },
+        "zip": "02302",
+        "latitude": 42.08261721355578,
+        "longitude": -70.98668577552507,
+        "fullAddress": "380 Quincy St, Brockton, Plymouth County, MA 02302"
+      }
+    ],
+    "askingPrice": 1495000.0,
+    "brokerTeamLogoUrl": "https://images.crexi.com/brokers/12191/5047eef7da5e4f7facbd733878ca0198_150x100_resize.jpg",
+    "brokerageName": "NorthEast Private Client Group Newton",
+    "description": "Land | 0.99 acres",
+    "hasFlyer": false,
+    "hasOM": true,
+    "hasVideo": false,
+    "id": 1698301,
+    "isInOpportunityZone": false,
+    "name": "Quincy Street Development",
+    "numberOfGalleryItems": 5,
+    "numberOfImages": 5,
+    "squareFootage": 0,
+    "numberOfUnits": 39,
+    "showCountdownAsDate": false,
+    "status": "On-Market",
+    "thumbnailUrl": "https://images.crexi.com/assets/1698301/5bb509ce157e4be5bf1a5b8bdd4bc514_716x444.jpg",
+    "types": [
+      "Multifamily",
+      "Land"
+    ],
+    "updatedOn": "2025-05-13T14:14:24Z",
+    "urlSlug": "massachusetts-quincy-street-development",
+    "userIsAssetOwner": false,
+    "hasVirtualTour": false,
+    "recommId": "c7af328b4ae4c7d5db274c4c59680ca2"
+  },
+  {
+    "activatedOn": "2024-10-29T13:48:08Z",
+    "locations": [
+      {
+        "address": "110 Regent Court, Suite 200",
+        "city": "State College",
+        "county": "Centre",
+        "state": {
+          "code": "PA",
+          "name": "Pennsylvania"
+        },
+        "zip": "16801",
+        "latitude": 40.78394641668986,
+        "longitude": -77.82256094038333,
+        "fullAddress": "110 Regent Court, Suite 200, State College, Centre, PA 16801"
+      }
+    ],
+    "askingPrice": 289000.0,
+    "brokerTeamLogoUrl": "https://images.crexi.com/brokers/142129/a4298b44fab64b41b5f8e89910132470_150x100_resize.jpg",
+    "brokerageName": "KW Commercial State College",
+    "description": "Nicely designed office suite with lots of light.",
+    "hasFlyer": true,
+    "hasOM": false,
+    "hasVideo": false,
+    "id": 1698080,
+    "isInOpportunityZone": false,
+    "name": "110 Regent Court, Suite 200",
+    "numberOfGalleryItems": 16,
+    "numberOfImages": 16,
+    "squareFootage": 1421,
+    "numberOfUnits": 1,
+    "showCountdownAsDate": false,
+    "status": "On-Market",
+    "thumbnailUrl": "https://images.crexi.com/assets/1698080/01957a2251aa47a29fa3ae15b2ff4e49_716x444.jpg",
+    "types": [
+      "Office"
+    ],
+    "updatedOn": "2025-04-04T12:09:21Z",
+    "urlSlug": "pennsylvania-110-regent-court-suite-200",
+    "userIsAssetOwner": false,
+    "hasVirtualTour": false,
+    "recommId": "c7af328b4ae4c7d5db274c4c59680ca2",
+    "tenancy": "Vacant"
+  },
+  {
+    "activatedOn": "2024-10-29T13:37:18Z",
+    "locations": [
+      {
+        "address": "1425 N 21st St",
+        "city": "Newark",
+        "county": "Licking County",
+        "state": {
+          "code": "OH",
+          "name": "Ohio"
+        },
+        "zip": "43055",
+        "latitude": 40.0869067,
+        "longitude": -82.4282354,
+        "fullAddress": "1425 N 21st St, Newark, Licking County, OH 43055"
+      }
+    ],
+    "askingPrice": 3725000.0,
+    "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/13813/677b206e51f84ff985e3290caf8dac1c_150x100_resize.jpg",
+    "brokerageName": "Colliers - Columbus, Ohio",
+    "description": "Retail | 8.00% CAP | 14,560 SF",
+    "hasFlyer": false,
+    "hasOM": true,
+    "hasVideo": false,
+    "id": 1698077,
+    "isInOpportunityZone": false,
+    "name": "Walgreens - Newark, OH",
+    "numberOfGalleryItems": 4,
+    "numberOfImages": 4,
+    "squareFootage": 14560,
+    "showCountdownAsDate": false,
+    "status": "On-Market",
+    "thumbnailUrl": "https://images.crexi.com/assets/1698077/cfa43fa6ee8c452d8b1ddb3228e29e6f_716x444.jpg",
+    "types": [
+      "Retail"
+    ],
+    "updatedOn": "2025-04-14T17:09:10Z",
+    "urlSlug": "ohio-walgreens---newark-oh",
+    "userIsAssetOwner": false,
+    "hasVirtualTour": false,
+    "recommId": "c7af328b4ae4c7d5db274c4c59680ca2",
+    "tenancy": "Single",
+    "remainingTerm": 3.8,
+    "capRate": 8.0,
+    "netOperatingIncome": 298000.0
+  },
+  {
+    "activatedOn": "2024-10-15T14:28:30Z",
+    "locations": [
+      {
+        "address": "0 highway 59",
+        "city": "Loxley",
+        "county": "Baldwin County",
+        "state": {
+          "code": "AL",
+          "name": "Alabama"
+        },
+        "zip": "36551",
+        "latitude": 30.6237391,
+        "longitude": -87.7566513,
+        "fullAddress": "0 highway 59, Loxley, Baldwin County, AL 36551"
+      }
+    ],
+    "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/15310/8891be0b4c544ecaa1b981073e12c6e8_150x100_resize.jpg",
+    "brokerageName": "Stirling Daphne",
+    "description": "Land",
+    "hasFlyer": true,
+    "hasOM": false,
+    "hasVideo": false,
+    "id": 1688911,
+    "isInOpportunityZone": false,
+    "name": "Roans Creek North - Commercial Land",
+    "numberOfGalleryItems": 8,
+    "numberOfImages": 8,
+    "showCountdownAsDate": false,
+    "status": "On-Market",
+    "thumbnailUrl": "https://images.crexi.com/assets/1688911/a755c3a3ac84481fa40fd28584b7fa7a_716x444.jpg",
+    "types": [
+      "Land"
+    ],
+    "updatedOn": "2025-05-31T06:13:22Z",
+    "urlSlug": "alabama-roans-creek-north---commercial-land",
+    "userIsAssetOwner": false,
+    "hasVirtualTour": false,
+    "recommId": "c7af328b4ae4c7d5db274c4c59680ca2"
+  },
+  {
+    "activatedOn": "2024-10-15T14:25:15Z",
+    "locations": [
+      {
+        "address": "15 Salem Ave SE",
+        "city": "Roanoke",
+        "state": {
+          "code": "VA",
+          "name": "Virginia"
+        },
+        "zip": "24011",
+        "latitude": 37.272481317684935,
+        "longitude": -79.939878329774,
+        "fullAddress": "15 Salem Ave SE, Roanoke, VA 24011"
+      }
+    ],
+    "askingPrice": 2850000.0,
+    "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/56641/18d0a6fadb184015b88644070037eca7_150x100_resize.jpg",
+    "brokerageName": "Hall Associates",
+    "description": "Located in the heart of Downtown Roanoke",
+    "hasFlyer": false,
+    "hasOM": true,
+    "hasVideo": false,
+    "id": 1688845,
+    "isInOpportunityZone": true,
+    "name": "15-17 Salem Ave SE, Roanoke, VA 24011",
+    "numberOfGalleryItems": 11,
+    "numberOfImages": 11,
+    "squareFootage": 19395,
+    "pricePerSqFt": 146.95,
+    "showCountdownAsDate": false,
+    "status": "On-Market",
+    "thumbnailUrl": "https://images.crexi.com/assets/1688845/b3e96ff5609141e1ab6162ee1f32aebe_716x444.jpg",
+    "types": [
+      "Office"
+    ],
+    "updatedOn": "2025-07-07T12:12:59Z",
+    "urlSlug": "virginia-15-17-salem-ave-se-roanoke-va-24011",
+    "userIsAssetOwner": false,
+    "hasVirtualTour": false,
+    "recommId": "c7af328b4ae4c7d5db274c4c59680ca2",
+    "tenancy": "Multi",
+    "capRate": 0.0
+  },
+  {
+    "activatedOn": "2024-10-15T22:58:37Z",
+    "locations": [
+      {
+        "address": "2643 S Loop 336 W",
+        "city": "Conroe",
+        "county": "Montgomery County",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "77304",
+        "latitude": 30.29094496970857,
+        "longitude": -95.49434390079905,
+        "fullAddress": "2643 S Loop 336 W, Conroe, Montgomery County, TX 77304"
+      }
+    ],
+    "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/8999/04e7abb56eb241379a335bea705546b1_150x100_resize.jpg",
+    "brokerageName": "SVN | J. Beard Real Estate - Greater Houston",
+    "description": "Great Conroe Location! New Office Property with Amazing Lake views for Sale and Lease",
+    "hasFlyer": true,
+    "hasOM": false,
+    "hasVideo": false,
+    "id": 1688643,
+    "isInOpportunityZone": false,
+    "name": "Mallard Cove",
+    "numberOfGalleryItems": 6,
+    "numberOfImages": 6,
+    "squareFootage": 20000,
+    "numberOfUnits": 8,
+    "showCountdownAsDate": false,
+    "status": "On-Market",
+    "thumbnailUrl": "https://images.crexi.com/assets/1688643/3308448129ff473082f35681da425278_716x444.jpg",
+    "types": [
+      "Office"
+    ],
+    "updatedOn": "2025-06-18T15:12:19Z",
+    "urlSlug": "texas-2643-s-loop-336-w",
+    "userIsAssetOwner": false,
+    "hasVirtualTour": false,
+    "recommId": "c7af328b4ae4c7d5db274c4c59680ca2",
+    "tenancy": "Multi"
+  },
+  {
+    "activatedOn": "2024-10-22T14:36:00Z",
+    "locations": [
+      {
+        "address": "1301 Shelby Rd",
+        "city": "Kings Mountain",
+        "county": "Cleveland County",
+        "state": {
+          "code": "NC",
+          "name": "North Carolina"
+        },
+        "zip": "28086",
+        "latitude": 35.2389954,
+        "longitude": -81.3696619,
+        "fullAddress": "1301 Shelby Rd, Kings Mountain, Cleveland County, NC 28086"
+      }
+    ],
+    "askingPrice": 699000.0,
+    "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/116540/b1f464d47df7435a9e30094e7d9203bc_150x100_resize.jpg",
+    "brokerageName": "Point 135 Real Estate",
+    "description": "Land | 1.61 acres",
+    "hasFlyer": true,
+    "hasOM": false,
+    "hasVideo": false,
+    "id": 1688636,
+    "isInOpportunityZone": false,
+    "name": "1301 Shelby Road",
+    "numberOfGalleryItems": 15,
+    "numberOfImages": 15,
+    "showCountdownAsDate": false,
+    "status": "On-Market",
+    "thumbnailUrl": "https://images.crexi.com/assets/1688636/428375cc06c3415091c1ba521693f2ce_716x444.jpg",
+    "types": [
+      "Land"
+    ],
+    "updatedOn": "2025-06-17T23:15:16Z",
+    "urlSlug": "north-carolina-1301-shelby-road",
+    "userIsAssetOwner": false,
+    "hasVirtualTour": false,
+    "recommId": "c7af328b4ae4c7d5db274c4c59680ca2"
+  },
+  {
+    "activatedOn": "2024-10-18T04:38:05Z",
+    "locations": [
+      {
+        "address": "601-620 N Orchard St",
+        "city": "Boise",
+        "county": "Ada County",
+        "state": {
+          "code": "ID",
+          "name": "Idaho"
+        },
+        "zip": "83706",
+        "latitude": 43.6099485,
+        "longitude": -116.2438156,
+        "fullAddress": "601-620 N Orchard St, Boise, Ada County, ID 83706"
+      }
+    ],
+    "askingPrice": 1795000.0,
+    "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/9809/b5488e7965be4018bf855222aef4627e_150x100_resize.jpg",
+    "brokerageName": "TOK Commercial",
+    "description": "Retail | 7.60% CAP | 17,045 SF",
+    "hasFlyer": false,
+    "hasOM": true,
+    "hasVideo": false,
+    "id": 1688621,
+    "isInOpportunityZone": false,
+    "name": "The Orchard",
+    "numberOfGalleryItems": 10,
+    "numberOfImages": 10,
+    "squareFootage": 17045,
+    "pricePerSqFt": 105.31,
+    "showCountdownAsDate": false,
+    "status": "On-Market",
+    "thumbnailUrl": "https://images.crexi.com/assets/1688621/85fbe00a6e694593a933eba2deffca2e_716x444.jpg",
+    "types": [
+      "Retail"
+    ],
+    "updatedOn": "2025-06-03T12:12:08Z",
+    "urlSlug": "idaho-602-n-orchard-st",
+    "userIsAssetOwner": false,
+    "hasVirtualTour": false,
+    "recommId": "c7af328b4ae4c7d5db274c4c59680ca2",
+    "capRate": 7.6,
+    "netOperatingIncome": 194313.0
+  },
+  {
+    "activatedOn": "2024-10-15T10:18:43Z",
+    "locations": [
+      {
+        "address": "SEC FM 1202 & BNSF R.R.",
+        "city": "Gainesville",
+        "county": "Cooke County",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "76240",
+        "latitude": 33.6863379,
+        "longitude": -97.1755864,
+        "fullAddress": "SEC FM 1202 & BNSF R.R., Gainesville, Cooke County, TX 76240"
+      }
+    ],
+    "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/2242/dd6590cb3c1f428eb52b83ea384f2f8a_150x100_resize.jpg",
+    "brokerageName": "Younger Partners",
+    "description": "Land | 114 acres",
+    "hasFlyer": false,
+    "hasOM": true,
+    "hasVideo": false,
+    "id": 1688540,
+    "isInOpportunityZone": false,
+    "name": "Rivoire Business Park",
+    "numberOfGalleryItems": 9,
+    "numberOfImages": 9,
+    "showCountdownAsDate": false,
+    "status": "On-Market",
+    "thumbnailUrl": "https://images.crexi.com/assets/1688540/0b610f7af5d24d91bf2a80cbfe497c53_716x444.jpg",
+    "types": [
+      "Land"
+    ],
+    "updatedOn": "2025-06-24T12:34:25Z",
+    "urlSlug": "texas-rivoire-business-park",
+    "userIsAssetOwner": false,
+    "hasVirtualTour": false,
+    "recommId": "c7af328b4ae4c7d5db274c4c59680ca2"
+  },
+  {
+    "activatedOn": "2024-10-14T18:30:28Z",
+    "locations": [
+      {
+        "address": "2581 Wexford Bayne Rd",
+        "city": "Sewickley",
+        "county": "Allegheny County",
+        "state": {
+          "code": "PA",
+          "name": "Pennsylvania"
+        },
+        "zip": "15143",
+        "latitude": 40.6119336,
+        "longitude": -80.1070005,
+        "fullAddress": "2581 Wexford Bayne Rd, Sewickley, Allegheny County, PA 15143"
+      }
+    ],
+    "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/138846/fed1e66d541f494f9a63c4c6cfd61c19_150x100_resize.jpg",
+    "brokerageName": "Legacy Realty Partners",
+    "description": "WEXFORD WOODLANDS | Residential Land For Sale",
+    "hasFlyer": true,
+    "hasOM": false,
+    "hasVideo": false,
+    "id": 1688254,
+    "isInOpportunityZone": false,
+    "name": "Wexford Woodlands",
+    "numberOfGalleryItems": 1,
+    "numberOfImages": 1,
+    "showCountdownAsDate": false,
+    "status": "On-Market",
+    "thumbnailUrl": "https://images.crexi.com/assets/1688254/5599b6db33c945d59e4e8d07c7d89c53_716x444.jpg",
+    "types": [
+      "Land"
+    ],
+    "updatedOn": "2025-06-11T19:26:32Z",
+    "urlSlug": "pennsylvania-wexford-woodlands",
+    "userIsAssetOwner": false,
+    "hasVirtualTour": false,
+    "recommId": "c7af328b4ae4c7d5db274c4c59680ca2"
+  },
+  {
+    "activatedOn": "2024-10-14T17:21:10Z",
+    "locations": [
+      {
+        "address": "3231 Engle Rd",
+        "city": "Fort Wayne",
+        "county": "Allen County",
+        "state": {
+          "code": "IN",
+          "name": "Indiana"
+        },
+        "zip": "46809",
+        "latitude": 41.04567566942931,
+        "longitude": -85.18144842049679,
+        "fullAddress": "3231 Engle Rd, Fort Wayne, Allen County, IN 46809"
+      }
+    ],
+    "askingPrice": 400000.0,
+    "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/110999/f74405d076b540cfbbb77a521db948e4_150x100_resize.jpg",
+    "brokerageName": "Allied Commercial",
+    "description": "2.25 Acres Industrial Lot or Build To Suit",
+    "hasFlyer": true,
+    "hasOM": false,
+    "hasVideo": false,
+    "id": 1688184,
+    "isInOpportunityZone": false,
+    "name": "3231 Engle Road Industrial Lot or Build To Suit",
+    "numberOfGalleryItems": 5,
+    "numberOfImages": 5,
+    "pricePerAcreLand": "$177,778/Acre",
+    "showCountdownAsDate": false,
+    "status": "On-Market",
+    "thumbnailUrl": "https://images.crexi.com/assets/1688184/d451e4d3707947bc9b27bcadaa74688d_716x444.jpg",
+    "types": [
+      "Land"
+    ],
+    "updatedOn": "2025-04-15T15:49:35Z",
+    "urlSlug": "indiana-3231-engle-road-industrial-lot-or-build-to-suit",
+    "userIsAssetOwner": false,
+    "hasVirtualTour": false,
+    "recommId": "c7af328b4ae4c7d5db274c4c59680ca2"
+  },
+  {
+    "activatedOn": "2024-10-14T18:09:27Z",
+    "locations": [
+      {
+        "address": "220 Creek 28",
+        "city": "Metter",
+        "county": "Candler County",
+        "state": {
+          "code": "GA",
+          "name": "Georgia"
+        },
+        "zip": "30439",
+        "latitude": 32.3697104,
+        "longitude": -82.0673855,
+        "fullAddress": "220 Creek 28, Metter, Candler County, GA 30439"
+      }
+    ],
+    "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/111934/09485716e0ee476da4fc514b0614b2df_150x100_resize.jpg",
+    "brokerageName": "Blokk Commercial Real Estate",
+    "description": "1.01 - 3.61 acres",
+    "hasFlyer": true,
+    "hasOM": false,
+    "hasVideo": false,
+    "id": 1688177,
+    "isInOpportunityZone": false,
+    "name": "Class A Development Tracts - Metter Ga I-16",
+    "numberOfGalleryItems": 6,
+    "numberOfImages": 6,
+    "numberOfUnits": 0,
+    "showCountdownAsDate": false,
+    "status": "On-Market",
+    "thumbnailUrl": "https://images.crexi.com/assets/1688177/f5822d4f61e446acbe5426e9f890259c_716x444.jpg",
+    "types": [
+      "Office",
+      "Hospitality",
+      "Land",
+      "Retail",
+      "Mixed Use"
+    ],
+    "updatedOn": "2025-06-26T18:12:47Z",
+    "urlSlug": "georgia-class-a-development-tracts---metter-ga-i-16",
+    "userIsAssetOwner": false,
+    "hasVirtualTour": false,
+    "recommId": "c7af328b4ae4c7d5db274c4c59680ca2"
+  },
+  {
+    "activatedOn": "2024-10-01T19:51:01Z",
+    "locations": [
+      {
+        "address": "Welborn Street and Oscar Street",
+        "city": "Greenville",
+        "county": "Greenville County",
+        "state": {
+          "code": "SC",
+          "name": "South Carolina"
+        },
+        "zip": "29601",
+        "latitude": 34.854315,
+        "longitude": -82.410753,
+        "fullAddress": "Welborn Street and Oscar Street, Greenville, Greenville County, SC 29601"
+      }
+    ],
+    "askingPrice": 2500000.0,
+    "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/121360/d8446017ab8c44d99f6af550b4bf97d2_150x100_resize.jpg",
+    "brokerageName": "Trinity Partners",
+    "description": "Land | 2.5 acres",
+    "hasFlyer": false,
+    "hasOM": true,
+    "hasVideo": false,
+    "id": 1678835,
+    "isInOpportunityZone": false,
+    "name": "Welborn Street and Oscar Street",
+    "numberOfGalleryItems": 10,
+    "numberOfImages": 10,
+    "showCountdownAsDate": false,
+    "status": "On-Market",
+    "thumbnailUrl": "https://images.crexi.com/assets/1678835/9e76f36872974d50aa2999726ad9907c_716x444.jpg",
+    "types": [
+      "Land"
+    ],
+    "updatedOn": "2025-07-04T16:58:16Z",
+    "urlSlug": "south-carolina-welborn-street-and-oscar-street",
+    "userIsAssetOwner": false,
+    "hasVirtualTour": false,
+    "recommId": "c7af328b4ae4c7d5db274c4c59680ca2"
+  },
+  {
+    "activatedOn": "2024-10-01T09:53:47Z",
+    "locations": [
+      {
+        "address": "10850 Lincoln Trail",
+        "city": "Fairview Heights",
+        "county": "St. Clair County",
+        "state": {
+          "code": "IL",
+          "name": "Illinois"
+        },
+        "zip": "62208",
+        "latitude": 38.591107,
+        "longitude": -89.9896272,
+        "fullAddress": "10850 Lincoln Trail, Fairview Heights, St. Clair County, IL 62208"
+      }
+    ],
+    "askingPrice": 25000.0,
+    "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/25995/622bcb4daa9e4d01a0e37216e51a95b5_150x100_resize.jpg",
+    "brokerageName": "LOCATION Commercial Real Estate",
+    "description": "Land | 0.24 acres",
+    "hasFlyer": true,
+    "hasOM": false,
+    "hasVideo": false,
+    "id": 1678794,
+    "isInOpportunityZone": false,
+    "name": "10850 Lincoln Trail",
+    "numberOfGalleryItems": 2,
+    "numberOfImages": 2,
+    "showCountdownAsDate": false,
+    "status": "On-Market",
+    "thumbnailUrl": "https://images.crexi.com/assets/1678794/a82eff52b4104871ab51eea60fa1f50e_716x444.jpg",
+    "types": [
+      "Land"
+    ],
+    "updatedOn": "2025-05-23T04:28:51Z",
+    "urlSlug": "illinois-10850-lincoln-trail",
+    "userIsAssetOwner": false,
+    "hasVirtualTour": false,
+    "recommId": "c7af328b4ae4c7d5db274c4c59680ca2"
+  },
+  {
+    "activatedOn": "2024-10-01T11:42:30Z",
+    "locations": [
+      {
+        "address": "508 E Market St",
+        "city": "Leesburg",
+        "county": "Loudoun County",
+        "state": {
+          "code": "VA",
+          "name": "Virginia"
+        },
+        "zip": "20176",
+        "latitude": 39.1097385,
+        "longitude": -77.5529414,
+        "fullAddress": "508 E Market St, Leesburg, Loudoun County, VA 20176"
+      }
+    ],
+    "askingPrice": 4200000.0,
+    "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/66584/402f06792f624ef090bd5b3afe2bc32c_150x100_resize.jpg",
+    "brokerageName": "Vaaler Commercial Real Estate",
+    "description": "High profile location on Market St. Ideal for investor or owner-user",
+    "hasFlyer": true,
+    "hasOM": false,
+    "hasVideo": false,
+    "id": 1678765,
+    "isInOpportunityZone": false,
+    "name": "508 E Market St",
+    "numberOfGalleryItems": 8,
+    "numberOfImages": 8,
+    "squareFootage": 11968,
+    "pricePerSqFt": 350.94,
+    "showCountdownAsDate": false,
+    "status": "On-Market",
+    "thumbnailUrl": "https://images.crexi.com/assets/1678765/eac9b05552994cae89d73e3b0e5b78e9_716x444.jpg",
+    "types": [
+      "Mixed Use",
+      "Office"
+    ],
+    "updatedOn": "2025-05-22T15:29:55Z",
+    "urlSlug": "virginia-508-e-market-st",
+    "userIsAssetOwner": false,
+    "hasVirtualTour": false,
+    "recommId": "c7af328b4ae4c7d5db274c4c59680ca2",
+    "tenancy": "Multi"
+  },
+  {
+    "activatedOn": "2024-09-30T20:08:06Z",
+    "locations": [
+      {
+        "address": "4999 De Zavala Rd",
+        "city": "San Antonio",
+        "county": "Bexar County",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "78249",
+        "latitude": 29.567847850366352,
+        "longitude": -98.57989460356004,
+        "fullAddress": "4999 De Zavala Rd, San Antonio, Bexar County, TX 78249"
+      }
+    ],
+    "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/24120/8ac5768351d14637917d9a90f693f5e1_150x100_resize.jpg",
+    "brokerageName": "DH Realty Partners San Antonio",
+    "description": "Cougar Center Across From Large 6A High School",
+    "hasFlyer": true,
+    "hasOM": false,
+    "hasVideo": false,
+    "id": 1678493,
+    "isInOpportunityZone": false,
+    "name": "4999 DeZavala Rd, San Antonio, TX",
+    "numberOfGalleryItems": 6,
+    "numberOfImages": 6,
+    "squareFootage": 5855,
+    "showCountdownAsDate": false,
+    "status": "On-Market",
+    "thumbnailUrl": "https://images.crexi.com/assets/1678493/39611244b08244558210d0a9d1b25972_716x444.jpg",
+    "types": [
+      "Hospitality",
+      "Retail",
+      "Office"
+    ],
+    "updatedOn": "2025-07-08T20:52:12Z",
+    "urlSlug": "texas-4999-dezavala-rd-san-antonio-tx",
+    "userIsAssetOwner": false,
+    "hasVirtualTour": false,
+    "recommId": "c7af328b4ae4c7d5db274c4c59680ca2"
+  },
+  {
+    "activatedOn": "2024-09-30T19:38:34Z",
+    "locations": [
+      {
+        "address": "5555 Broadway",
+        "city": "American Canyon",
+        "county": "Napa County",
+        "state": {
+          "code": "CA",
+          "name": "California"
+        },
+        "zip": "94503",
+        "latitude": 38.199514,
+        "longitude": -122.257605,
+        "fullAddress": "5555 Broadway, American Canyon, Napa County, CA 94503"
+      }
+    ],
+    "askingPrice": 19000000.0,
+    "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/16003/56178e24504947b390e725f79116e0f3_150x100_resize.jpg",
+    "brokerageName": "CBRE - Sacramento",
+    "description": "Rare Owner-User Temperature Controlled Distribution Warehouse w/ In-Place Income | Napa County",
+    "hasFlyer": false,
+    "hasOM": true,
+    "hasVideo": false,
+    "id": 1678457,
+    "isInOpportunityZone": false,
+    "name": "5555 Broadway St",
+    "numberOfGalleryItems": 10,
+    "numberOfImages": 10,
+    "squareFootage": 86366,
+    "showCountdownAsDate": false,
+    "status": "On-Market",
+    "thumbnailUrl": "https://images.crexi.com/assets/1678457/07551f8815b649528c3b310e36d77635_716x444.jpg",
+    "types": [
+      "Industrial"
+    ],
+    "updatedOn": "2025-04-18T17:35:08Z",
+    "urlSlug": "california-5555-broadway-st",
+    "userIsAssetOwner": false,
+    "hasVirtualTour": false,
+    "recommId": "c7af328b4ae4c7d5db274c4c59680ca2"
+  },
+  {
+    "activatedOn": "2024-09-24T13:31:57Z",
+    "locations": [
+      {
+        "address": "East Corner of Highway 20 and Placid Road",
+        "city": "Epworth",
+        "county": "Dubuque County",
+        "state": {
+          "code": "IA",
+          "name": "Iowa"
+        },
+        "zip": "52045",
+        "latitude": 42.4140805,
+        "longitude": -90.9273022,
+        "fullAddress": "East Corner of Highway 20 and Placid Road, Epworth, Dubuque County, IA 52045"
+      }
+    ],
+    "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/25616/c2e6400ab49346078864ff186c3f5005_150x100_resize.jpg",
+    "brokerageName": "Q4 Real Estate",
+    "description": "Commercial and Residential Development Lots For Sale off Highway20 in Epworth | $37,100 - $515,000",
+    "hasFlyer": true,
+    "hasOM": false,
+    "hasVideo": false,
+    "id": 1674174,
+    "isInOpportunityZone": false,
+    "name": "East Corner of Highway 20 and Placid Road",
+    "numberOfGalleryItems": 3,
+    "numberOfImages": 3,
+    "showCountdownAsDate": false,
+    "status": "On-Market",
+    "thumbnailUrl": "https://images.crexi.com/assets/1674174/b1e2feeef5e24ad499fb89ee2d8a790d_716x444.jpg",
+    "types": [
+      "Land"
+    ],
+    "updatedOn": "2025-07-07T18:37:22Z",
+    "urlSlug": "iowa-east-corner-of-highway-20-and-placid-road",
+    "userIsAssetOwner": false,
+    "hasVirtualTour": false,
+    "recommId": "c7af328b4ae4c7d5db274c4c59680ca2"
+  },
+  {
+    "activatedOn": "2024-09-23T21:07:32Z",
+    "locations": [
+      {
+        "address": "4309 & 4311 SW 9th Street, Des Moines, IA, USA",
+        "city": "Des Moines",
+        "county": "Polk County",
+        "state": {
+          "code": "IA",
+          "name": "Iowa"
+        },
+        "zip": "50315",
+        "latitude": 41.54481878,
+        "longitude": -93.62579624,
+        "fullAddress": "4309 & 4311 SW 9th Street, Des Moines, IA, USA, Des Moines, Polk County, IA 50315"
+      }
+    ],
+    "askingPrice": 500000.0,
+    "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/140947/f39f5661ffbd4ec5951a111d98513fb1_150x100_resize.jpg",
+    "brokerageName": "Toggle Space",
+    "description": "Great Portfolio sale. Two buildings included in the sale.",
+    "hasFlyer": true,
+    "hasOM": false,
+    "hasVideo": false,
+    "id": 1674002,
+    "isInOpportunityZone": false,
+    "name": "4309-4311 SW 9th St, Des Moines",
+    "numberOfGalleryItems": 13,
+    "numberOfImages": 13,
+    "squareFootage": 6000,
+    "pricePerSqFt": 83.33,
+    "showCountdownAsDate": false,
+    "status": "On-Market",
+    "thumbnailUrl": "https://images.crexi.com/assets/1674002/77bfb4d4a23e430aa608192b998f8f32_716x444.jpg",
+    "types": [
+      "Retail",
+      "Office"
+    ],
+    "updatedOn": "2025-07-06T13:29:45Z",
+    "urlSlug": "iowa-4309-4311-sw-9th-st-des-moines",
+    "userIsAssetOwner": false,
+    "hasVirtualTour": false,
+    "recommId": "c7af328b4ae4c7d5db274c4c59680ca2",
+    "tenancy": "Multi",
+    "capRate": 7.0
+  },
+  {
+    "activatedOn": "2024-09-10T21:10:37Z",
+    "locations": [
+      {
+        "address": "Bass Pro Blvd at Rocky Mt Rd",
+        "city": "Prattville",
+        "county": "Elmore",
+        "state": {
+          "code": "AL",
+          "name": "Alabama"
+        },
+        "zip": "36066",
+        "latitude": 32.46716302581336,
+        "longitude": -86.39454115660342,
+        "fullAddress": "Bass Pro Blvd at Rocky Mt Rd, Prattville, Elmore, AL 36066"
+      }
+    ],
+    "brokerTeamLogoUrl": "https://images.crexi.com/broker-teams/3063/6bb3a3ed451748fcb41a38e83e76d8eb_150x100_resize.jpg",
+    "brokerageName": "Aronov Realty Brokerage",
+    "description": "Land | 6.43 acres",
+    "hasFlyer": true,
+    "hasOM": false,
+    "hasVideo": false,
+    "id": 1664689,
+    "isInOpportunityZone": true,
+    "name": "Prime Hotel Site On I-65",
+    "numberOfGalleryItems": 4,
+    "numberOfImages": 4,
+    "showCountdownAsDate": false,
+    "status": "On-Market",
+    "thumbnailUrl": "https://images.crexi.com/assets/1664689/ae0da48f9bd94ff7bc89d359443a2943_716x444.jpg",
+    "types": [
+      "Land"
+    ],
+    "updatedOn": "2025-07-06T16:21:50Z",
+    "urlSlug": "alabama-prime-hotel-site-on-i-65",
+    "userIsAssetOwner": false,
+    "hasVirtualTour": false,
+    "recommId": "c7af328b4ae4c7d5db274c4c59680ca2"
+  },
+  {
+    "activatedOn": "2024-09-10T19:37:33Z",
+    "locations": [
+      {
+        "address": "332 Adams St SE",
+        "city": "Albuquerque",
+        "county": "Bernalillo County",
+        "state": {
+          "code": "NM",
+          "name": "New Mexico"
+        },
+        "zip": "87108",
+        "latitude": 35.074711200917186,
+        "longitude": -106.59434096020455,
+        "fullAddress": "332 Adams St SE, Albuquerque, Bernalillo County, NM 87108"
+      }
+    ],
+    "askingPrice": 250000.0,
+    "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/7277/8207461e323c4cbba66becc8a87f6dd7_150x100_resize.jpg",
+    "brokerageName": "Johnson Commercial Real Estate",
+    "description": "Office | 1,250 SF",
+    "hasFlyer": true,
+    "hasOM": false,
+    "hasVideo": false,
+    "id": 1664568,
+    "isInOpportunityZone": false,
+    "name": "332 Adams St SE",
+    "numberOfGalleryItems": 8,
+    "numberOfImages": 8,
+    "squareFootage": 1250,
+    "numberOfUnits": 1,
+    "showCountdownAsDate": false,
+    "status": "On-Market",
+    "thumbnailUrl": "https://images.crexi.com/assets/1664568/1355355ba27442a381cff7b95e8ec238_716x444.jpg",
+    "types": [
+      "Retail",
+      "Office"
+    ],
+    "updatedOn": "2025-04-28T15:00:26Z",
+    "urlSlug": "new-mexico-332-adams-st-se",
+    "userIsAssetOwner": false,
+    "hasVirtualTour": false,
+    "recommId": "c7af328b4ae4c7d5db274c4c59680ca2"
+  },
+  {
+    "activatedOn": "2024-09-11T19:21:04Z",
+    "locations": [
+      {
+        "address": "71495 Chestnutt St",
+        "city": "Covington",
+        "county": "St. Tammany Parish",
+        "state": {
+          "code": "LA",
+          "name": "Louisiana"
+        },
+        "zip": "70433",
+        "latitude": 30.4727277,
+        "longitude": -90.0890982,
+        "fullAddress": "71495 Chestnutt St, Covington, St. Tammany Parish, LA 70433"
+      }
+    ],
+    "askingPrice": 1925000.0,
+    "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/35180/d6b97f492bfa473f948b9eb0dd296646_150x100_resize.jpg",
+    "brokerageName": "NAIRampart",
+    "description": "Bed & Breakfast / Event Venue",
+    "hasFlyer": true,
+    "hasOM": false,
+    "hasVideo": false,
+    "id": 1664524,
+    "isInOpportunityZone": false,
+    "name": "Annadele\u2019s Plantation",
+    "numberOfGalleryItems": 22,
+    "numberOfImages": 22,
+    "squareFootage": 13596,
+    "pricePerSqFt": 147.1,
+    "showCountdownAsDate": false,
+    "status": "On-Market",
+    "thumbnailUrl": "https://images.crexi.com/assets/1664524/03da3f8efe644f94b0930889fd197265_716x444.jpg",
+    "types": [
+      "Hospitality",
+      "Special Purpose"
+    ],
+    "updatedOn": "2025-05-05T20:34:21Z",
+    "urlSlug": "louisiana-annadeles-plantation",
+    "userIsAssetOwner": false,
+    "hasVirtualTour": false,
+    "recommId": "c7af328b4ae4c7d5db274c4c59680ca2",
+    "tenancy": "Single"
+  },
+  {
+    "activatedOn": "2024-09-11T19:25:08Z",
+    "locations": [
+      {
+        "address": "869 Bryan Rd",
+        "city": "O'Fallon",
+        "county": "St. Charles County",
+        "state": {
+          "code": "MO",
+          "name": "Missouri"
+        },
+        "zip": "63366",
+        "latitude": 38.801886,
+        "longitude": -90.734164,
+        "fullAddress": "869 Bryan Rd, O'Fallon, St. Charles County, MO 63366"
+      }
+    ],
+    "askingPrice": 1250000.0,
+    "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/404/5c4178c23261449cb0fb9cd38e18b05e_150x100_resize.jpg",
+    "brokerageName": "Pace Properties",
+    "description": "Land | 2.13 acres",
+    "hasFlyer": true,
+    "hasOM": false,
+    "hasVideo": false,
+    "id": 1664476,
+    "isInOpportunityZone": false,
+    "name": "869 Bryan Road",
+    "numberOfGalleryItems": 2,
+    "numberOfImages": 2,
+    "showCountdownAsDate": false,
+    "status": "On-Market",
+    "thumbnailUrl": "https://images.crexi.com/assets/1664476/9a69a4e9f5c64daab503550939670c4d_716x444.jpg",
+    "types": [
+      "Land"
+    ],
+    "updatedOn": "2025-06-03T21:18:01Z",
+    "urlSlug": "missouri-869-bryan-road",
+    "userIsAssetOwner": false,
+    "hasVirtualTour": false,
+    "recommId": "c7af328b4ae4c7d5db274c4c59680ca2"
+  },
+  {
+    "activatedOn": "2024-09-10T18:34:48Z",
+    "locations": [
+      {
+        "address": "Rainbow Oaks Dr",
+        "city": "Hudson",
+        "county": "Pasco County",
+        "state": {
+          "code": "FL",
+          "name": "Florida"
+        },
+        "zip": "34667",
+        "latitude": 28.43132720466594,
+        "longitude": -82.64142899484696,
+        "fullAddress": "Rainbow Oaks Dr, Hudson, Pasco County, FL 34667"
+      }
+    ],
+    "askingPrice": 335000.0,
+    "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/25649/f9ce80e79235415096354cb0d84c38c8_150x100_resize.jpg",
+    "brokerageName": "F.I. Grey & Son",
+    "description": "Land | 0.85 acres",
+    "hasFlyer": true,
+    "hasOM": false,
+    "hasVideo": false,
+    "id": 1664472,
+    "isInOpportunityZone": false,
+    "name": "Rainbow Oaks & US 19",
+    "numberOfGalleryItems": 2,
+    "numberOfImages": 2,
+    "showCountdownAsDate": false,
+    "status": "On-Market",
+    "thumbnailUrl": "https://images.crexi.com/assets/1664472/f4baf7a9ea3f4e099e640185b1157ee9_716x444.jpg",
+    "types": [
+      "Land"
+    ],
+    "updatedOn": "2025-06-12T16:22:05Z",
+    "urlSlug": "florida-rainbow-oaks-us-19",
+    "userIsAssetOwner": false,
+    "hasVirtualTour": false,
+    "recommId": "c7af328b4ae4c7d5db274c4c59680ca2"
+  },
+  {
+    "activatedOn": "2024-09-11T16:40:26Z",
+    "locations": [
+      {
+        "address": "2626 Fort Campbell Blvd",
+        "city": "Hopkinsville",
+        "county": "Christian County",
+        "state": {
+          "code": "KY",
+          "name": "Kentucky"
+        },
+        "zip": "42240",
+        "latitude": 36.84199263609097,
+        "longitude": -87.4832707058994,
+        "fullAddress": "2626 Fort Campbell Blvd, Hopkinsville, Christian County, KY 42240"
+      }
+    ],
+    "askingPrice": 2500000.0,
+    "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/83182/c268f13517784116a6d7cfb80ef6c377_150x100_resize.jpg",
+    "brokerageName": "Franklin Street",
+    "description": "2626 Fort Campbell Blvd | 12.42% Cap Rate | Dark Tenant w/ Corporate Guarantee on Lease",
+    "hasFlyer": false,
+    "hasOM": true,
+    "hasVideo": false,
+    "id": 1664399,
+    "isInOpportunityZone": false,
+    "name": "12.42% Cap Dark Walgreens I 2+ Years Left on Lease I 2.26 AC",
+    "numberOfGalleryItems": 24,
+    "numberOfImages": 24,
+    "squareFootage": 11157,
+    "pricePerSqFt": 224.0,
+    "numberOfUnits": 1,
+    "showCountdownAsDate": false,
+    "status": "On-Market",
+    "thumbnailUrl": "https://images.crexi.com/assets/1664399/f13efa4440d24d248d1a69c9ba80715e_716x444.jpg",
+    "types": [
+      "Retail"
+    ],
+    "updatedOn": "2025-05-27T15:03:47Z",
+    "urlSlug": "kentucky-1242-cap-dark-walgreens-i-2-years-left-on-lease-i-226-ac",
+    "userIsAssetOwner": false,
+    "hasVirtualTour": false,
+    "recommId": "c7af328b4ae4c7d5db274c4c59680ca2",
+    "tenancy": "Single",
+    "leaseTerm": 20.0,
+    "remainingTerm": 2.0,
+    "capRate": 12.42,
+    "netOperatingIncome": 310500.0
+  },
+  {
+    "activatedOn": "2024-09-10T17:59:16Z",
+    "locations": [
+      {
+        "address": "TBD Highway 707",
+        "city": "Myrtle Beach",
+        "county": "Horry County",
+        "state": {
+          "code": "SC",
+          "name": "South Carolina"
+        },
+        "zip": "29588",
+        "latitude": 33.6413076,
+        "longitude": -79.0298642,
+        "fullAddress": "TBD Highway 707, Myrtle Beach, Horry County, SC 29588"
+      }
+    ],
+    "askingPrice": 1400000.0,
+    "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/20941/b6fdc34caf8c42dfae66a7c82e36275c_150x100_resize.jpg",
+    "brokerageName": "NAI | The Litchfield Company",
+    "description": "Land | 3.5 acres",
+    "hasFlyer": true,
+    "hasOM": false,
+    "hasVideo": false,
+    "id": 1664380,
+    "isInOpportunityZone": false,
+    "name": "TBD Highway 707",
+    "numberOfGalleryItems": 2,
+    "numberOfImages": 2,
+    "pricePerAcreLand": "$400,000/Acre",
+    "showCountdownAsDate": false,
+    "status": "On-Market",
+    "thumbnailUrl": "https://images.crexi.com/assets/1664380/8dcf5bee78e141a3baa4ba2026a90a39_716x444.jpg",
+    "types": [
+      "Land"
+    ],
+    "updatedOn": "2025-06-12T14:19:26Z",
+    "urlSlug": "south-carolina-tbd-highway-707",
+    "userIsAssetOwner": false,
+    "hasVirtualTour": false,
+    "recommId": "c7af328b4ae4c7d5db274c4c59680ca2"
+  },
+  {
+    "activatedOn": "2024-09-10T17:03:19Z",
+    "locations": [
+      {
+        "address": "19825 N 7th St",
+        "city": "Phoenix",
+        "county": "Maricopa County",
+        "state": {
+          "code": "AZ",
+          "name": "Arizona"
+        },
+        "zip": "85024",
+        "latitude": 33.66674277571623,
+        "longitude": -112.06444430185242,
+        "fullAddress": "19825 N 7th St, Phoenix, Maricopa County, AZ 85024"
+      }
+    ],
+    "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/15753/d1b6c1d0158041ff9fdf52db52855f62_150x100_resize.jpg",
+    "brokerageName": "Colliers - Phoenix, Arizona",
+    "description": "Property Highlights",
+    "hasFlyer": true,
+    "hasOM": false,
+    "hasVideo": false,
+    "id": 1664348,
+    "isInOpportunityZone": false,
+    "name": "19825 N 7th Street",
+    "numberOfGalleryItems": 9,
+    "numberOfImages": 9,
+    "offersDueOn": "2024-10-10T00:00:00Z",
+    "squareFootage": 97372,
+    "showCountdownAsDate": false,
+    "status": "On-Market",
+    "thumbnailUrl": "https://images.crexi.com/assets/1664348/b7a31ecf30ee497290bbf09392d6fd42_716x444.jpg",
+    "types": [
+      "Land",
+      "Office"
+    ],
+    "updatedOn": "2025-05-14T20:10:45Z",
+    "urlSlug": "arizona-19825-n-7th-street",
+    "userIsAssetOwner": false,
+    "hasVirtualTour": false,
+    "recommId": "c7af328b4ae4c7d5db274c4c59680ca2"
+  },
+  {
+    "activatedOn": "2024-09-10T16:02:27Z",
+    "locations": [
+      {
+        "address": "E Highland Dr",
+        "city": "Jonesboro",
+        "county": "Craighead County",
+        "state": {
+          "code": "AR",
+          "name": "Arkansas"
+        },
+        "zip": "72401",
+        "latitude": 35.82083393233989,
+        "longitude": -90.62934703754233,
+        "fullAddress": "E Highland Dr, Jonesboro, Craighead County, AR 72401"
+      }
+    ],
+    "askingPrice": 650000.0,
+    "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/101034/72353595c98943f4aee805fea0c4872e_150x100_resize.jpg",
+    "brokerageName": "Haag Brown Commercial Real Estate and Development",
+    "description": "Ideal Industrial Flex Space Property",
+    "hasFlyer": true,
+    "hasOM": false,
+    "hasVideo": false,
+    "id": 1664274,
+    "isInOpportunityZone": false,
+    "name": "12 Acres - Industrial Development in Opportunity Zone",
+    "numberOfGalleryItems": 2,
+    "numberOfImages": 2,
+    "showCountdownAsDate": false,
+    "status": "On-Market",
+    "thumbnailUrl": "https://images.crexi.com/assets/1664274/d65b872542d8486ca6b389effbbc9c72_716x444.jpg",
+    "types": [
+      "Land"
+    ],
+    "updatedOn": "2025-06-16T13:24:43Z",
+    "urlSlug": "arkansas-12-acres---industrial-development-in-opportunity-zone",
+    "userIsAssetOwner": false,
+    "hasVirtualTour": false,
+    "recommId": "c7af328b4ae4c7d5db274c4c59680ca2"
+  },
+  {
+    "activatedOn": "2025-06-11T21:47:08Z",
+    "locations": [
+      {
+        "address": "464 Main St",
+        "city": "Trussville",
+        "county": "Jefferson County",
+        "state": {
+          "code": "AL",
+          "name": "Alabama"
+        },
+        "zip": "35173",
+        "latitude": 33.6370355,
+        "longitude": -86.5602614,
+        "fullAddress": "464 Main St, Trussville, Jefferson County, AL 35173"
+      }
+    ],
+    "askingPrice": 6285715.0,
+    "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/24834/c19212c90d204aa7a8cd3a5223915bd6_150x100_resize.jpg",
+    "brokerageName": "Stream Capital Partners",
+    "description": "Retail | 7.16% CAP | 7,760 SF",
+    "hasFlyer": false,
+    "hasOM": true,
+    "hasVideo": false,
+    "id": 1664179,
+    "isInOpportunityZone": false,
+    "name": "Walk-On\u2019s Sports Bistreaux",
+    "numberOfGalleryItems": 5,
+    "numberOfImages": 5,
+    "squareFootage": 7760,
+    "showCountdownAsDate": false,
+    "status": "On-Market",
+    "thumbnailUrl": "https://images.crexi.com/assets/1664179/f4d9dc84acdb48af90323376c4a9d82d_716x444.jpg",
+    "types": [
+      "Retail"
+    ],
+    "updatedOn": "2025-06-11T21:47:08Z",
+    "urlSlug": "alabama-walk-ons-sports-bistreaux",
+    "userIsAssetOwner": false,
+    "hasVirtualTour": false,
+    "recommId": "c7af328b4ae4c7d5db274c4c59680ca2",
+    "tenancy": "Single",
+    "capRate": 7.16,
+    "netOperatingIncome": 450000.0
+  },
+  {
+    "activatedOn": "2024-09-10T14:09:09Z",
+    "locations": [
+      {
+        "address": "2331 N State Road 7 # 207",
+        "city": "Lauderhill",
+        "county": "Broward County",
+        "state": {
+          "code": "FL",
+          "name": "Florida"
+        },
+        "zip": "33313",
+        "latitude": 26.1549583,
+        "longitude": -80.2033151,
+        "fullAddress": "2331 N State Road 7 # 207, Lauderhill, Broward County, FL 33313"
+      }
+    ],
+    "askingPrice": 295999.0,
+    "brokerTeamLogoUrl": "https://images.crexi.com/brokers/140635/8a6d478a35a84a3d80edc097433da9a4_150x100_resize.jpg",
+    "brokerageName": "Total R E Consultants Inc",
+    "description": "Office",
+    "hasFlyer": true,
+    "hasOM": false,
+    "hasVideo": false,
+    "id": 1664124,
+    "isInOpportunityZone": false,
+    "name": "2331 N State Road 7 # 207",
+    "numberOfGalleryItems": 7,
+    "numberOfImages": 7,
+    "showCountdownAsDate": false,
+    "status": "On-Market",
+    "thumbnailUrl": "https://images.crexi.com/assets/1664124/f77138b8da2d43239505ab3afee08a3e_716x444.jpg",
+    "types": [
+      "Office"
+    ],
+    "updatedOn": "2025-07-07T14:20:42Z",
+    "urlSlug": "florida-2331-n-state-road-7-207",
+    "userIsAssetOwner": false,
+    "hasVirtualTour": false,
+    "recommId": "c7af328b4ae4c7d5db274c4c59680ca2"
+  },
+  {
+    "activatedOn": "2025-01-14T18:33:49Z",
+    "locations": [
+      {
+        "address": "919 W Baraga Ave",
+        "city": "Marquette",
+        "county": "Marquette County",
+        "state": {
+          "code": "MI",
+          "name": "Michigan"
+        },
+        "zip": "49855",
+        "latitude": 46.5440635,
+        "longitude": -87.4188598,
+        "fullAddress": "919 W Baraga Ave, Marquette, Marquette County, MI 49855"
+      }
+    ],
+    "askingPrice": 3500000.0,
+    "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/79085/8438cd6774594f0d99bcb160ff5b2abd_150x100_resize.jpg",
+    "brokerageName": "RE/MAX 1st Realty",
+    "description": "Versatile Flex Building at High-Profile Intersection in Marquette, MI",
+    "hasFlyer": true,
+    "hasOM": false,
+    "hasVideo": false,
+    "id": 1664090,
+    "isInOpportunityZone": false,
+    "name": "919 W Baraga Ave",
+    "numberOfGalleryItems": 51,
+    "numberOfImages": 51,
+    "squareFootage": 25940,
+    "showCountdownAsDate": false,
+    "status": "On-Market",
+    "thumbnailUrl": "https://images.crexi.com/assets/1664090/b8b9817bb6a140d49db5113a2406a880_716x444.jpg",
+    "types": [
+      "Retail"
+    ],
+    "updatedOn": "2025-04-03T14:23:29Z",
+    "urlSlug": "michigan-919-w-baraga-ave",
+    "userIsAssetOwner": false,
+    "hasVirtualTour": true,
+    "recommId": "c7af328b4ae4c7d5db274c4c59680ca2",
+    "tenancy": "Vacant"
+  },
+  {
+    "activatedOn": "2024-08-27T19:56:51Z",
+    "locations": [
+      {
+        "address": "3420 E Drexel Rd",
+        "city": "Tucson",
+        "county": "Pima County",
+        "state": {
+          "code": "AZ",
+          "name": "Arizona"
+        },
+        "zip": "85706",
+        "latitude": 32.1480801,
+        "longitude": -110.9195235,
+        "fullAddress": "3420 E Drexel Rd, Tucson, Pima County, AZ 85706"
+      }
+    ],
+    "askingPrice": 756000.0,
+    "brokerTeamLogoUrl": "https://images.crexi.com/brokers/4331/0b4291cfd00440519a316d7e8a95e5de_150x100_resize.jpg",
+    "brokerageName": "Volk Company Commercial Real Estate",
+    "description": "MU Zoned | 79,366 SF",
+    "hasFlyer": true,
+    "hasOM": false,
+    "hasVideo": false,
+    "id": 1654873,
+    "isInOpportunityZone": true,
+    "name": "For Sale: Former Church / School Building, Tucson AZ",
+    "numberOfGalleryItems": 3,
+    "numberOfImages": 3,
+    "squareFootage": 5040,
+    "showCountdownAsDate": false,
+    "status": "On-Market",
+    "thumbnailUrl": "https://images.crexi.com/assets/1654873/eeb107b534624c1cac9764b9c2cb9714_716x444.jpg",
+    "types": [
+      "Land",
+      "Special Purpose"
+    ],
+    "updatedOn": "2025-06-10T14:13:15Z",
+    "urlSlug": "arizona-3420-e-drexel-rd",
+    "userIsAssetOwner": false,
+    "hasVirtualTour": false,
+    "recommId": "c7af328b4ae4c7d5db274c4c59680ca2",
+    "pricePerUnit": 0.0
+  },
+  {
+    "activatedOn": "2024-08-27T00:44:27Z",
+    "locations": [
+      {
+        "address": "4766 Peck Rd",
+        "city": "El Monte",
+        "county": "Los Angeles County",
+        "state": {
+          "code": "CA",
+          "name": "California"
+        },
+        "zip": "91732",
+        "latitude": 34.09007440336713,
+        "longitude": -118.01485103408403,
+        "fullAddress": "4766 Peck Rd, El Monte, Los Angeles County, CA 91732"
+      }
+    ],
+    "askingPrice": 9250000.0,
+    "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/74826/123c0ebf1a1d41e6b0da87da0a9fc010_150x100_resize.jpg",
+    "brokerageName": "JLL - Los Angeles (West), California",
+    "description": "Retail | 6.15% CAP",
+    "hasFlyer": true,
+    "hasOM": true,
+    "hasVideo": false,
+    "id": 1654745,
+    "isInOpportunityZone": false,
+    "name": "Peck Hacienda Plaza",
+    "numberOfGalleryItems": 2,
+    "numberOfImages": 2,
+    "showCountdownAsDate": false,
+    "status": "On-Market",
+    "thumbnailUrl": "https://images.crexi.com/assets/1654745/0eae8248241e4f128dcd2baacbc42870_716x444.jpg",
+    "types": [
+      "Retail"
+    ],
+    "updatedOn": "2025-04-10T21:28:22Z",
+    "urlSlug": "california-peck-hacienda-plaza",
+    "userIsAssetOwner": false,
+    "hasVirtualTour": false,
+    "recommId": "c7af328b4ae4c7d5db274c4c59680ca2",
+    "capRate": 6.15,
+    "netOperatingIncome": 568555.0
+  },
+  {
+    "activatedOn": "2024-08-26T20:49:27Z",
+    "locations": [
+      {
+        "address": "29993 State Hwy 64",
+        "city": "Canton",
+        "county": "Van Zandt County",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "75103",
+        "latitude": 32.59705080273919,
+        "longitude": -95.91847248378372,
+        "fullAddress": "29993 State Hwy 64, Canton, Van Zandt County, TX 75103"
+      }
+    ],
+    "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/24777/7a590700edd643eaaaf266a41811cf95_150x100_resize.jpg",
+    "brokerageName": "M&D CRE",
+    "description": "Archery Business Portfolio for Sale",
+    "hasFlyer": false,
+    "hasOM": true,
+    "hasVideo": false,
+    "id": 1654617,
+    "isInOpportunityZone": false,
+    "name": "On Target Archery",
+    "numberOfGalleryItems": 30,
+    "numberOfImages": 30,
+    "squareFootage": 6250,
+    "numberOfUnits": 1,
+    "showCountdownAsDate": false,
+    "status": "On-Market",
+    "thumbnailUrl": "https://images.crexi.com/assets/1654617/1d274fc4a1d44bed97bc42884e71a2c4_716x444.jpg",
+    "types": [
+      "Business for Sale"
+    ],
+    "updatedOn": "2025-06-23T22:34:44Z",
+    "urlSlug": "texas-on-target-archery",
+    "userIsAssetOwner": false,
+    "hasVirtualTour": false,
+    "recommId": "c7af328b4ae4c7d5db274c4c59680ca2",
+    "tenancy": "Single"
+  },
+  {
+    "activatedOn": "2024-08-20T18:24:23Z",
+    "locations": [
+      {
+        "address": "Parker Rd",
+        "city": "Barre Town",
+        "county": "Washington County",
+        "state": {
+          "code": "VT",
+          "name": "Vermont"
+        },
+        "zip": "05641",
+        "latitude": 44.1743151,
+        "longitude": -72.4825734,
+        "fullAddress": "Parker Rd, Barre Town, Washington County, VT 05641"
+      }
+    ],
+    "askingPrice": 3922815.0,
+    "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/91715/28c0eb1efbd948ee892d43ee4504d476_150x100_resize.jpg",
+    "brokerageName": "SURMOUNT",
+    "description": "Industrial | 6.50% CAP | 7,653 SF",
+    "hasFlyer": false,
+    "hasOM": true,
+    "hasVideo": false,
+    "id": 1650316,
+    "isInOpportunityZone": false,
+    "name": "Frito-Lay Distribution Center",
+    "numberOfGalleryItems": 2,
+    "numberOfImages": 2,
+    "squareFootage": 7653,
+    "pricePerSqFt": 512.59,
+    "showCountdownAsDate": false,
+    "status": "On-Market",
+    "thumbnailUrl": "https://images.crexi.com/assets/1650316/eb8bd2c05a3b43cf98f2a562e3c9fc11_716x444.jpg",
+    "types": [
+      "Industrial"
+    ],
+    "updatedOn": "2025-06-05T12:55:39Z",
+    "urlSlug": "vermont-frito-lay-distribution-center",
+    "userIsAssetOwner": false,
+    "hasVirtualTour": false,
+    "recommId": "c7af328b4ae4c7d5db274c4c59680ca2",
+    "tenancy": "Single",
+    "leaseTerm": 10.0,
+    "remainingTerm": 8.9,
+    "capRate": 6.5,
+    "netOperatingIncome": 254983.0,
+    "pricePerUnit": 0.0
+  },
+  {
+    "activatedOn": "2024-08-20T17:55:03Z",
+    "locations": [
+      {
+        "address": "Block 505",
+        "city": "Loveland",
+        "county": "Larimer County",
+        "state": {
+          "code": "CO",
+          "name": "Colorado"
+        },
+        "zip": "80538",
+        "latitude": 40.4853645,
+        "longitude": -105.2428853,
+        "fullAddress": "Block 505, Loveland, Larimer County, CO 80538"
+      }
+    ],
+    "brokerTeamLogoUrl": "https://images.crexi.com/brokers/5720/da477718f8f34259aa0192005a3412da_150x100_resize.jpg",
+    "brokerageName": "Legend Partners Colorado",
+    "description": "8 Pad Sites Available at Centerra | Loveland, CO",
+    "hasFlyer": true,
+    "hasOM": false,
+    "hasVideo": false,
+    "id": 1650279,
+    "isInOpportunityZone": false,
+    "name": "Pad F-3 1.19 AC | Block 505 at Centerra, Loveland",
+    "numberOfGalleryItems": 4,
+    "numberOfImages": 4,
+    "showCountdownAsDate": false,
+    "status": "On-Market",
+    "thumbnailUrl": "https://images.crexi.com/assets/1650279/6befada3ae2c42499c4c1bbbea95d145_716x444.jpg",
+    "types": [
+      "Industrial",
+      "Land",
+      "Retail",
+      "Office"
+    ],
+    "updatedOn": "2025-06-17T14:09:17Z",
+    "urlSlug": "colorado-pad-f-3-119-ac-block-505-at-centerra-loveland",
+    "userIsAssetOwner": false,
+    "hasVirtualTour": false,
+    "recommId": "c7af328b4ae4c7d5db274c4c59680ca2"
+  },
+  {
+    "activatedOn": "2024-08-20T15:21:57Z",
+    "locations": [
+      {
+        "address": "5850 Sky Pond Dr",
+        "city": "Loveland",
+        "county": "Larimer County",
+        "state": {
+          "code": "CO",
+          "name": "Colorado"
+        },
+        "zip": "80538",
+        "latitude": 40.41057114668525,
+        "longitude": -104.98763954379385,
+        "fullAddress": "5850 Sky Pond Dr, Loveland, Larimer County, CO 80538"
+      }
+    ],
+    "brokerTeamLogoUrl": "https://images.crexi.com/brokers/5720/da477718f8f34259aa0192005a3412da_150x100_resize.jpg",
+    "brokerageName": "Legend Partners Colorado",
+    "description": "1.46 Acres Available at Centerra | 5850 Sky Pond, Loveland",
+    "hasFlyer": true,
+    "hasOM": false,
+    "hasVideo": false,
+    "id": 1650088,
+    "isInOpportunityZone": false,
+    "name": "5850 Sky Pond, Loveland, CO 80538",
+    "numberOfGalleryItems": 1,
+    "numberOfImages": 1,
+    "showCountdownAsDate": false,
+    "status": "On-Market",
+    "thumbnailUrl": "https://images.crexi.com/assets/1650088/43168fd433f141a7a678784a7645b813_716x444.jpg",
+    "types": [
+      "Land"
+    ],
+    "updatedOn": "2025-06-17T14:10:24Z",
+    "urlSlug": "colorado-5850-sky-pond-loveland-co-80538",
+    "userIsAssetOwner": false,
+    "hasVirtualTour": false,
+    "recommId": "c7af328b4ae4c7d5db274c4c59680ca2"
+  },
+  {
+    "activatedOn": "2024-08-19T21:44:31Z",
+    "locations": [
+      {
+        "address": "3357 KY-54",
+        "city": "Owensboro",
+        "county": "Daviess County",
+        "state": {
+          "code": "KY",
+          "name": "Kentucky"
+        },
+        "zip": "42303",
+        "latitude": 37.753096844373935,
+        "longitude": -87.05804674613218,
+        "fullAddress": "3357 KY-54, Owensboro, Daviess County, KY 42303"
+      }
+    ],
+    "askingPrice": 3657500.0,
+    "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/23208/3d309f92c0d74d92a831fb2f3ed9a2ef_150x100_resize.jpg",
+    "brokerageName": "Gulfstream Commercial Services LLC Owensboro",
+    "description": "9.22-acre Property Represents a Rare Investment Opportunity",
+    "hasFlyer": true,
+    "hasOM": false,
+    "hasVideo": true,
+    "id": 1649350,
+    "isInOpportunityZone": false,
+    "name": "3357 HWY 54",
+    "numberOfGalleryItems": 11,
+    "numberOfImages": 10,
+    "showCountdownAsDate": false,
+    "status": "On-Market",
+    "thumbnailUrl": "https://images.crexi.com/assets/1649350/3bc9dd2d9c4645be8b8ffd3de71ca7a7_716x444.jpg",
+    "types": [
+      "Hospitality",
+      "Multifamily",
+      "Retail",
+      "Mixed Use",
+      "Land"
+    ],
+    "updatedOn": "2025-05-16T18:01:56Z",
+    "urlSlug": "kentucky-3357-hwy-54",
+    "userIsAssetOwner": false,
+    "hasVirtualTour": false,
+    "recommId": "c7af328b4ae4c7d5db274c4c59680ca2"
+  },
+  {
+    "activatedOn": "2024-08-19T20:32:17Z",
+    "locations": [
+      {
+        "address": "825 N Abby St",
+        "city": "Fresno",
+        "county": "Fresno County",
+        "state": {
+          "code": "CA",
+          "name": "California"
+        },
+        "zip": "93701",
+        "latitude": 36.753919750675394,
+        "longitude": -119.78929660863783,
+        "fullAddress": "825 N Abby St, Fresno, Fresno County, CA 93701"
+      }
+    ],
+    "askingPrice": 340000.0,
+    "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/27275/16d3d1056547415fb92eb3af99837439_150x100_resize.jpg",
+    "brokerageName": "C21 Commercial",
+    "description": "\u00b12,520 OF OFFICE OR RETAIL SPACE",
+    "hasFlyer": true,
+    "hasOM": false,
+    "hasVideo": false,
+    "id": 1649310,
+    "isInOpportunityZone": true,
+    "name": "\u00b12,520 OF OFFICE/ RETAIL SPACE IN EXCELLENT CONDITION",
+    "numberOfGalleryItems": 9,
+    "numberOfImages": 9,
+    "squareFootage": 1780,
+    "pricePerSqFt": 191.01,
+    "numberOfUnits": 2,
+    "pricePerSqFtLand": "$208.33/SF",
+    "showCountdownAsDate": false,
+    "status": "On-Market",
+    "thumbnailUrl": "https://images.crexi.com/assets/1649310/bb5a2bc851ba4c83a3e90449666cf38c_716x444.jpg",
+    "types": [
+      "Office"
+    ],
+    "updatedOn": "2025-06-05T21:17:21Z",
+    "urlSlug": "california-2520-of-office-retail-space-in-excellent-condition",
+    "userIsAssetOwner": false,
+    "hasVirtualTour": false,
+    "recommId": "c7af328b4ae4c7d5db274c4c59680ca2",
+    "tenancy": "Vacant"
+  },
+  {
+    "activatedOn": "2024-08-13T10:34:03Z",
+    "locations": [
+      {
+        "address": "398 Anthony St, Schenectady, NY 12308",
+        "city": "Schenectady",
+        "county": "Schenectady County",
+        "state": {
+          "code": "NY",
+          "name": "New York"
+        },
+        "zip": "12308",
+        "latitude": 42.8414297,
+        "longitude": -73.9131811,
+        "fullAddress": "398 Anthony St, Schenectady, NY 12308, Schenectady, Schenectady County, NY 12308"
+      }
+    ],
+    "askingPrice": 869000.0,
+    "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/20391/af1df6fddd18463da0d1b5a3cefb6141_150x100_resize.jpg",
+    "brokerageName": "KW Platform",
+    "brokerName": "Benjamin Romer",
+    "fullBrokerageAddress": "935 New Loudon Road, Latham, NY",
+    "description": "Private Industrial Office Space with Prime Schenectady Location. Business Also Available!",
+    "hasFlyer": true,
+    "hasOM": false,
+    "hasVideo": true,
+    "id": 1640889,
+    "isInOpportunityZone": true,
+    "name": "398 Anthony Street",
+    "numberOfGalleryItems": 28,
+    "numberOfImages": 27,
+    "squareFootage": 13513,
+    "pricePerSqFt": 64.31,
+    "numberOfUnits": 1,
+    "showCountdownAsDate": false,
+    "status": "On-Market",
+    "thumbnailUrl": "https://images.crexi.com/assets/1640889/44ba618ea4e1447d9d7ce0d120c99875_716x444.jpg",
+    "types": [
+      "Industrial"
+    ],
+    "updatedOn": "2025-05-20T15:01:46Z",
+    "urlSlug": "new-york-398-anthony-street",
+    "userIsAssetOwner": false,
+    "hasVirtualTour": false,
+    "recommId": "c7af328b4ae4c7d5db274c4c59680ca2",
+    "tenancy": "Single",
+    "pricePerUnit": 869000.0
+  },
+  {
+    "activatedOn": "2024-08-07T21:15:26Z",
+    "locations": [
+      {
+        "address": "Cowan Rd",
+        "city": "Gulfport",
+        "county": "Harrison County",
+        "state": {
+          "code": "MS",
+          "name": "Mississippi"
+        },
+        "zip": "39507",
+        "latitude": 30.392879756437473,
+        "longitude": -89.02687871494685,
+        "fullAddress": "Cowan Rd, Gulfport, Harrison County, MS 39507"
+      }
+    ],
+    "askingPrice": 739000.0,
+    "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/14538/1541c165ab0d49ef8028eeb11fb7dfd8_150x100_resize.jpg",
+    "brokerageName": "Southeast Commercial Real Estate Services Gulfport",
+    "description": "2 Fully Entitled Commercial Lots for Sale.",
+    "hasFlyer": true,
+    "hasOM": false,
+    "hasVideo": false,
+    "id": 1640467,
+    "isInOpportunityZone": false,
+    "name": "2 Fully Entitled Commercial Lots for Sale",
+    "numberOfGalleryItems": 2,
+    "numberOfImages": 2,
+    "showCountdownAsDate": false,
+    "status": "On-Market",
+    "thumbnailUrl": "https://images.crexi.com/assets/1640467/b571fefff5904483a319219c3626753a_716x444.jpg",
+    "types": [
+      "Land"
+    ],
+    "updatedOn": "2025-05-27T13:59:44Z",
+    "urlSlug": "mississippi-2-fully-entitled-commercial-lots-for-sale",
+    "userIsAssetOwner": false,
+    "hasVirtualTour": false,
+    "recommId": "c7af328b4ae4c7d5db274c4c59680ca2"
+  },
+  {
+    "activatedOn": "2024-08-08T07:23:02Z",
+    "locations": [
+      {
+        "address": "6661 Alden Nash Ave SE",
+        "city": "Alto",
+        "county": "Kent County",
+        "state": {
+          "code": "MI",
+          "name": "Michigan"
+        },
+        "zip": "49302",
+        "latitude": 42.8450165,
+        "longitude": -85.3706718,
+        "fullAddress": "6661 Alden Nash Ave SE, Alto, Kent County, MI 49302"
+      }
+    ],
+    "askingPrice": 395000.0,
+    "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/22407/3696862c277a4ac6935161e58ad6bb7f_150x100_resize.jpg",
+    "brokerageName": "NAI Wisinski of West Michigan - Grand Rapids",
+    "description": "Two-Story Office Building For Sale",
+    "hasFlyer": true,
+    "hasOM": false,
+    "hasVideo": false,
+    "id": 1640188,
+    "isInOpportunityZone": false,
+    "name": "6661 Alden Nash Ave SE",
+    "numberOfGalleryItems": 2,
+    "numberOfImages": 2,
+    "squareFootage": 2560,
+    "pricePerSqFt": 166.02,
+    "showCountdownAsDate": false,
+    "status": "On-Market",
+    "thumbnailUrl": "https://images.crexi.com/assets/1640188/ff7f4ab81a784b6abc76c32a58a2940d_716x444.jpg",
+    "types": [
+      "Office"
+    ],
+    "updatedOn": "2025-06-26T11:42:04Z",
+    "urlSlug": "michigan-6661-alden-nash-ave-se",
+    "userIsAssetOwner": false,
+    "hasVirtualTour": false,
+    "recommId": "c7af328b4ae4c7d5db274c4c59680ca2",
+    "tenancy": "Single"
+  },
+  {
+    "activatedOn": "2024-08-07T16:58:22Z",
+    "locations": [
+      {
+        "address": "NEQ S.H. 66 & F.M. 1570",
+        "city": "Greenville",
+        "county": "Hunt",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "75401",
+        "latitude": 33.126016664736,
+        "longitude": -96.16577568868416,
+        "fullAddress": "NEQ S.H. 66 & F.M. 1570, Greenville, Hunt, TX 75401"
+      }
+    ],
+    "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/132709/ea80be45ce8b48c68282ad8e6642c719_150x100_resize.jpg",
+    "brokerageName": "Thornberry Land Company",
+    "description": "Land | 109 acres",
+    "hasFlyer": true,
+    "hasOM": false,
+    "hasVideo": false,
+    "id": 1640184,
+    "isInOpportunityZone": false,
+    "name": "Greenville 109 - NEQ S.H. 66 & F.M. 1570",
+    "numberOfGalleryItems": 5,
+    "numberOfImages": 5,
+    "showCountdownAsDate": false,
+    "status": "On-Market",
+    "thumbnailUrl": "https://images.crexi.com/assets/1640184/086f3b70ca7b4b6e997e15362863cb4f_716x444.jpg",
+    "types": [
+      "Land"
+    ],
+    "updatedOn": "2025-05-27T14:56:07Z",
+    "urlSlug": "texas-greenville-109---neq-sh-66-fm-1570",
+    "userIsAssetOwner": false,
+    "hasVirtualTour": false,
+    "recommId": "c7af328b4ae4c7d5db274c4c59680ca2"
+  },
+  {
+    "activatedOn": "2024-08-13T15:14:33Z",
+    "locations": [
+      {
+        "address": "1478 W Lexington Ave",
+        "city": "Winchester",
+        "county": "Clark County",
+        "state": {
+          "code": "KY",
+          "name": "Kentucky"
+        },
+        "zip": "40391",
+        "latitude": 38.00608119626039,
+        "longitude": -84.20940770652662,
+        "fullAddress": "1478 W Lexington Ave, Winchester, Clark County, KY 40391"
+      }
+    ],
+    "askingPrice": 1325000.0,
+    "brokerTeamLogoUrl": "https://images.crexi.com/broker-teams/3067/1fcf401c0fa9428a8c5329171a6ada75_150x100_resize.jpg",
+    "brokerageName": "The Gibson Company Commercial Real Estate",
+    "description": "10 Year NNN leaseback",
+    "hasFlyer": false,
+    "hasOM": true,
+    "hasVideo": false,
+    "id": 1640092,
+    "isInOpportunityZone": false,
+    "name": "Rally's",
+    "numberOfGalleryItems": 8,
+    "numberOfImages": 8,
+    "showCountdownAsDate": false,
+    "status": "On-Market",
+    "thumbnailUrl": "https://images.crexi.com/assets/1640092/96a644458769463599a52a8749a209bb_716x444.jpg",
+    "types": [
+      "Retail"
+    ],
+    "updatedOn": "2025-05-26T13:53:29Z",
+    "urlSlug": "kentucky-rallys",
+    "userIsAssetOwner": false,
+    "hasVirtualTour": false,
+    "recommId": "c7af328b4ae4c7d5db274c4c59680ca2",
+    "tenancy": "Single"
+  },
+  {
+    "activatedOn": "2024-08-07T15:27:30Z",
+    "locations": [
+      {
+        "address": "35980 US-45",
+        "city": "Lake Villa",
+        "county": "Lake County",
+        "state": {
+          "code": "IL",
+          "name": "Illinois"
+        },
+        "zip": "60046",
+        "latitude": 42.3850460542985,
+        "longitude": -88.00420460737529,
+        "fullAddress": "35980 US-45, Lake Villa, Lake County, IL 60046"
+      }
+    ],
+    "askingPrice": 1600000.0,
+    "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/13813/677b206e51f84ff985e3290caf8dac1c_150x100_resize.jpg",
+    "brokerageName": "Colliers - Rosemont, Illinois",
+    "description": "Perfect Site For Gas Station/Car Wash",
+    "hasFlyer": false,
+    "hasOM": true,
+    "hasVideo": false,
+    "id": 1640052,
+    "isInOpportunityZone": false,
+    "name": "Land - Lindenhurst 4.33 Acres",
+    "numberOfGalleryItems": 2,
+    "numberOfImages": 2,
+    "showCountdownAsDate": false,
+    "status": "On-Market",
+    "thumbnailUrl": "https://images.crexi.com/assets/1640052/79c3e4054687491e968fd4f974dfbac4_716x444.jpg",
+    "types": [
+      "Land"
+    ],
+    "updatedOn": "2025-06-19T20:56:18Z",
+    "urlSlug": "illinois-land---lindenhurst-433-acres",
+    "userIsAssetOwner": false,
+    "hasVirtualTour": false,
+    "recommId": "c7af328b4ae4c7d5db274c4c59680ca2"
+  },
+  {
+    "activatedOn": "2024-08-08T14:33:58Z",
+    "locations": [
+      {
+        "address": "3420 Plaza Cir",
+        "city": "Beaumont",
+        "county": "Jefferson County",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "77707",
+        "latitude": 30.0772745,
+        "longitude": -94.1394157,
+        "fullAddress": "3420 Plaza Cir, Beaumont, Jefferson County, TX 77707"
+      }
+    ],
+    "askingPrice": 3320000.0,
+    "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/14024/173723f4a73d4f3884d68dcb4b0a68b6_150x100_resize.jpg",
+    "brokerageName": "Colliers - Dallas, Texas",
+    "description": "Office | 11.68% CAP | 33,200 SF",
+    "hasFlyer": false,
+    "hasOM": true,
+    "hasVideo": false,
+    "id": 1640041,
+    "isInOpportunityZone": false,
+    "name": "U.S. Department of Veterans Affairs",
+    "numberOfGalleryItems": 3,
+    "numberOfImages": 3,
+    "squareFootage": 33200,
+    "pricePerSqFt": 100.0,
+    "showCountdownAsDate": false,
+    "status": "On-Market",
+    "thumbnailUrl": "https://images.crexi.com/assets/1640041/6b7946975dc54d2eb62e02206dbe3d48_716x444.jpg",
+    "types": [
+      "Office"
+    ],
+    "updatedOn": "2025-07-07T14:10:09Z",
+    "urlSlug": "texas-us-department-of-veterans-affairs",
+    "userIsAssetOwner": false,
+    "hasVirtualTour": false,
+    "recommId": "c7af328b4ae4c7d5db274c4c59680ca2",
+    "tenancy": "Single",
+    "capRate": 11.68,
+    "netOperatingIncome": 377428.0
+  },
+  {
+    "activatedOn": "2025-04-22T13:24:47Z",
+    "locations": [
+      {
+        "address": "4925 Bloomfield Road",
+        "city": "Macon",
+        "county": "Bibb County",
+        "state": {
+          "code": "GA",
+          "name": "Georgia"
+        },
+        "zip": "31206",
+        "latitude": 32.80569787,
+        "longitude": -83.70739537,
+        "fullAddress": "4925 Bloomfield Road, Macon, Bibb County, GA 31206"
+      }
+    ],
+    "askingPrice": 1395000.0,
+    "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/33077/4e2796b6c38c460cb3fc56febf7aa439_150x100_resize.jpg",
+    "brokerageName": "Marcus & Millichap - Manhattan",
+    "description": "8.75% CAP | Potential Upside",
+    "hasFlyer": false,
+    "hasOM": true,
+    "hasVideo": false,
+    "id": 1639917,
+    "isInOpportunityZone": false,
+    "name": "Family Dollar Anchored Site I High Yield I Long Term Tenancy",
+    "numberOfGalleryItems": 4,
+    "numberOfImages": 4,
+    "squareFootage": 11800,
+    "pricePerSqFt": 118.22,
+    "numberOfUnits": 4,
+    "showCountdownAsDate": false,
+    "status": "On-Market",
+    "thumbnailUrl": "https://images.crexi.com/assets/1639917/8b06874b03bf479fa001b022ba4729f4_716x444.jpg",
+    "types": [
+      "Retail"
+    ],
+    "updatedOn": "2025-04-22T13:24:47Z",
+    "urlSlug": "georgia-family-dollar-anchored-site-i-high-yield-i-long-term-tenancy",
+    "userIsAssetOwner": false,
+    "hasVirtualTour": false,
+    "recommId": "c7af328b4ae4c7d5db274c4c59680ca2",
+    "tenancy": "Multi",
+    "capRate": 8.75,
+    "netOperatingIncome": 122046.0
+  },
+  {
+    "activatedOn": "2024-08-07T11:18:50Z",
+    "locations": [
+      {
+        "address": "10435 Southpointe Blvd",
+        "city": "Louisville",
+        "county": "Jefferson County",
+        "state": {
+          "code": "KY",
+          "name": "Kentucky"
+        },
+        "zip": "40291",
+        "latitude": 38.1396846,
+        "longitude": -85.581467,
+        "fullAddress": "10435 Southpointe Blvd, Louisville, Jefferson County, KY 40291"
+      }
+    ],
+    "askingPrice": 3219000.0,
+    "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/24489/15736d6ab50d4e43827f5e7e7ab8a1b3_150x100_resize.jpg",
+    "brokerageName": "SRS Real Estate Partners Newport Beach",
+    "description": "Brand New 15-Year Lease | Brand New Construction | Outparcel to Hy-Vee",
+    "hasFlyer": false,
+    "hasOM": true,
+    "hasVideo": false,
+    "id": 1639854,
+    "isInOpportunityZone": false,
+    "name": "Bubba's 33",
+    "numberOfGalleryItems": 8,
+    "numberOfImages": 8,
+    "squareFootage": 7575,
+    "pricePerSqFt": 424.95,
+    "showCountdownAsDate": false,
+    "status": "On-Market",
+    "thumbnailUrl": "https://images.crexi.com/assets/1639854/78b808a31d2e47eba2b604e7829ac73e_716x444.jpg",
+    "types": [
+      "Retail"
+    ],
+    "updatedOn": "2025-06-18T16:05:07Z",
+    "urlSlug": "kentucky-bubbas-33",
+    "userIsAssetOwner": false,
+    "hasVirtualTour": false,
+    "recommId": "c7af328b4ae4c7d5db274c4c59680ca2",
+    "tenancy": "Single",
+    "leaseTerm": 15.0,
+    "remainingTerm": 15.0,
+    "capRate": 5.25,
+    "netOperatingIncome": 169000.0
+  },
+  {
+    "activatedOn": "2024-08-07T11:07:25Z",
+    "locations": [
+      {
+        "address": "2904 Arendell St",
+        "city": "Morehead City",
+        "county": "Carteret County",
+        "state": {
+          "code": "NC",
+          "name": "North Carolina"
+        },
+        "zip": "28557",
+        "latitude": 34.724373,
+        "longitude": -76.7429571,
+        "fullAddress": "2904 Arendell St, Morehead City, Carteret County, NC 28557"
+      }
+    ],
+    "askingPrice": 2458000.0,
+    "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/24489/15736d6ab50d4e43827f5e7e7ab8a1b3_150x100_resize.jpg",
+    "brokerageName": "SRS Real Estate Partners Newport Beach",
+    "description": "10 Years of Term | Options to Extend | Scheduled Rental Increases",
+    "hasFlyer": false,
+    "hasOM": true,
+    "hasVideo": false,
+    "id": 1639850,
+    "isInOpportunityZone": false,
+    "name": "Dollar Tree",
+    "numberOfGalleryItems": 10,
+    "numberOfImages": 10,
+    "squareFootage": 13813,
+    "pricePerSqFt": 177.95,
+    "showCountdownAsDate": false,
+    "status": "On-Market",
+    "thumbnailUrl": "https://images.crexi.com/assets/1639850/04950c1bc5014b6c8dcda5add8c7aa93_716x444.jpg",
+    "types": [
+      "Retail"
+    ],
+    "updatedOn": "2025-06-18T15:08:48Z",
+    "urlSlug": "north-carolina-dollar-tree",
+    "userIsAssetOwner": false,
+    "hasVirtualTour": false,
+    "recommId": "c7af328b4ae4c7d5db274c4c59680ca2",
+    "tenancy": "Single",
+    "remainingTerm": 10.0,
+    "capRate": 7.0,
+    "netOperatingIncome": 172092.0
+  },
+  {
+    "activatedOn": "2024-08-07T10:45:58Z",
+    "locations": [
+      {
+        "address": "109 West Perry Road",
+        "city": "Myrtle Beach",
+        "state": {
+          "code": "SC",
+          "name": "South Carolina"
+        },
+        "zip": "29579",
+        "latitude": 33.7563141,
+        "longitude": -78.9688212,
+        "fullAddress": "109 West Perry Road, Myrtle Beach, SC 29579"
+      }
+    ],
+    "askingPrice": 3240208.0,
+    "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/119347/66ddcace34074eb69ef50c7ec65e4954_150x100_resize.jpg",
+    "brokerageName": "Sands Investment Group",
+    "description": "Cadence Academy Preschool | 11+ Years Remaining | High Visibility - Myrtle Beach, SC",
+    "hasFlyer": false,
+    "hasOM": true,
+    "hasVideo": false,
+    "id": 1639670,
+    "isInOpportunityZone": false,
+    "name": "Cadence Academy Preschool - Myrtle Beach, SC",
+    "numberOfGalleryItems": 5,
+    "numberOfImages": 5,
+    "squareFootage": 10100,
+    "pricePerSqFt": 320.81,
+    "showCountdownAsDate": false,
+    "status": "On-Market",
+    "thumbnailUrl": "https://images.crexi.com/assets/1639670/4881fe2effdf42319c86d07e1b07736c_716x444.jpg",
+    "types": [
+      "Retail",
+      "Special Purpose"
+    ],
+    "updatedOn": "2025-04-15T16:19:42Z",
+    "urlSlug": "south-carolina-cadence-academy-preschool---myrtle-beach-sc",
+    "userIsAssetOwner": false,
+    "hasVirtualTour": false,
+    "recommId": "c7af328b4ae4c7d5db274c4c59680ca2",
+    "tenancy": "Single",
+    "leaseTerm": 29.1,
+    "remainingTerm": 9.5,
+    "capRate": 6.7,
+    "netOperatingIncome": 217093.0,
+    "pricePerUnit": 0.0
+  },
+  {
+    "activatedOn": "2024-08-06T22:03:38Z",
+    "locations": [
+      {
+        "address": "3993 US-90",
+        "city": "Del Rio",
+        "county": "Val Verde County",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "78840",
+        "latitude": 29.415769659969502,
+        "longitude": -100.90506142997951,
+        "fullAddress": "3993 US-90, Del Rio, Val Verde County, TX 78840"
+      }
+    ],
+    "askingPrice": 350000.0,
+    "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/23443/e1ed261567944136806d938d2226501c_150x100_resize.jpg",
+    "brokerageName": "Net Leased Advisors",
+    "description": "3.44 acres on Main Thoroughfare",
+    "hasFlyer": true,
+    "hasOM": true,
+    "hasVideo": false,
+    "id": 1639483,
+    "isInOpportunityZone": false,
+    "name": "3.44 Acres in Del Rio, TX",
+    "numberOfGalleryItems": 2,
+    "numberOfImages": 2,
+    "showCountdownAsDate": false,
+    "status": "On-Market",
+    "thumbnailUrl": "https://images.crexi.com/assets/1639483/a4f3161dca734673b6121687f6acd17e_716x444.jpg",
+    "types": [
+      "Land"
+    ],
+    "updatedOn": "2025-06-02T19:19:09Z",
+    "urlSlug": "texas-344-acres-in-del-rio-tx",
+    "userIsAssetOwner": false,
+    "hasVirtualTour": false,
+    "recommId": "c7af328b4ae4c7d5db274c4c59680ca2"
+  },
+  {
+    "activatedOn": "2024-08-06T21:24:51Z",
+    "locations": [
+      {
+        "address": "2567 Commerce Pkwy",
+        "city": "Barstow",
+        "state": {
+          "code": "CA",
+          "name": "California"
+        },
+        "zip": "92311",
+        "latitude": 34.856152,
+        "longitude": -117.085518,
+        "fullAddress": "2567 Commerce Pkwy, Barstow, CA 92311"
+      }
+    ],
+    "askingPrice": 2971000.0,
+    "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/15054/a5e7726c72fc4490999bae043eb4d1cc_150x100_resize.jpg",
+    "brokerageName": "Colliers - Los Angeles - Orange County, California",
+    "description": "Retail | 5.25% CAP | 2,500 SF",
+    "hasFlyer": false,
+    "hasOM": true,
+    "hasVideo": false,
+    "id": 1639458,
+    "isInOpportunityZone": false,
+    "name": "Freddy's Frozen Custard & Steakburgers",
+    "numberOfGalleryItems": 5,
+    "numberOfImages": 5,
+    "squareFootage": 2500,
+    "pricePerSqFt": 1188.4,
+    "showCountdownAsDate": false,
+    "status": "On-Market",
+    "thumbnailUrl": "https://images.crexi.com/assets/1639458/5a8b98021fd24055bb4e7f195c33cf69_716x444.jpg",
+    "types": [
+      "Retail"
+    ],
+    "updatedOn": "2025-03-06T14:28:16Z",
+    "urlSlug": "california-freddys-frozen-custard-steakburgers",
+    "userIsAssetOwner": false,
+    "hasVirtualTour": false,
+    "recommId": "c7af328b4ae4c7d5db274c4c59680ca2",
+    "tenancy": "Single",
+    "leaseTerm": 15.0,
+    "remainingTerm": 15.0,
+    "capRate": 5.25,
+    "netOperatingIncome": 156000.0
+  },
+  {
+    "activatedOn": "2024-08-06T22:06:45Z",
+    "locations": [
+      {
+        "address": "1429 Piedmont Rd N",
+        "city": "Piedmont",
+        "county": "Canadian County",
+        "state": {
+          "code": "OK",
+          "name": "Oklahoma"
+        },
+        "zip": "73078",
+        "latitude": 35.65130124957084,
+        "longitude": -97.74377739441788,
+        "fullAddress": "1429 Piedmont Rd N, Piedmont, Canadian County, OK 73078"
+      }
+    ],
+    "askingPrice": 350000.0,
+    "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/9983/cf2ee128357441a5967e606f211616de_150x100_resize.jpg",
+    "brokerageName": "Banta Property Group",
+    "description": "Pad Site for Daycare / Office / Medical Building / Strip Center",
+    "hasFlyer": false,
+    "hasOM": true,
+    "hasVideo": false,
+    "id": 1639447,
+    "isInOpportunityZone": false,
+    "name": "Pad Site available in Piedmont OK",
+    "numberOfGalleryItems": 2,
+    "numberOfImages": 2,
+    "pricePerSqFtLand": "$12/SF",
+    "showCountdownAsDate": false,
+    "status": "On-Market",
+    "thumbnailUrl": "https://images.crexi.com/assets/1639447/5e88e919a8404484bf29c2f12784ae27_716x444.jpg",
+    "types": [
+      "Land"
+    ],
+    "updatedOn": "2025-05-28T15:03:44Z",
+    "urlSlug": "oklahoma-pad-site-available-in-piedmont-ok",
+    "userIsAssetOwner": false,
+    "hasVirtualTour": false,
+    "recommId": "c7af328b4ae4c7d5db274c4c59680ca2"
+  },
+  {
+    "activatedOn": "2024-08-06T19:51:56Z",
+    "locations": [
+      {
+        "address": "7285 N West St",
+        "city": "Valley",
+        "county": "Douglas County",
+        "state": {
+          "code": "NE",
+          "name": "Nebraska"
+        },
+        "zip": "68064",
+        "latitude": 41.32466721968559,
+        "longitude": -96.34893519248881,
+        "fullAddress": "7285 N West St, Valley, Douglas County, NE 68064"
+      }
+    ],
+    "askingPrice": 141670.0,
+    "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/20953/3b8351167c1c47c18a4472b5ba9d5c3a_150x100_resize.jpg",
+    "brokerageName": "NAI NP Dodge",
+    "description": "Lake Lots | Retail & Industrial",
+    "hasFlyer": true,
+    "hasOM": false,
+    "hasVideo": true,
+    "id": 1639311,
+    "isInOpportunityZone": false,
+    "name": "7285 N West Street",
+    "numberOfGalleryItems": 6,
+    "numberOfImages": 5,
+    "pricePerSqFtLand": "$5 - 6.5/SF",
+    "showCountdownAsDate": false,
+    "status": "On-Market",
+    "thumbnailUrl": "https://images.crexi.com/assets/1639311/31a8e091813b4253a60dcb44fe4822aa_716x444.jpg",
+    "types": [
+      "Land"
+    ],
+    "updatedOn": "2025-06-20T16:14:14Z",
+    "urlSlug": "nebraska-7285-n-west-street",
+    "userIsAssetOwner": false,
+    "hasVirtualTour": false,
+    "recommId": "c7af328b4ae4c7d5db274c4c59680ca2"
+  },
+  {
+    "activatedOn": "2024-08-06T19:16:17Z",
+    "locations": [
+      {
+        "address": "W McKinley Ave",
+        "city": "Fir",
+        "county": "Fresno County",
+        "state": {
+          "code": "CA",
+          "name": "California"
+        },
+        "zip": "93622",
+        "latitude": 36.7609008171911,
+        "longitude": -120.65749032647051,
+        "fullAddress": "W McKinley Ave, Fir, Fresno County, CA 93622"
+      }
+    ],
+    "askingPrice": 2781900.0,
+    "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/32819/5cae37e8537d4f73bd0311b9f4b15467_150x100_resize.jpg",
+    "brokerageName": "Hoekstra & Associates Inc",
+    "description": "District Water from Panoche Water District",
+    "hasFlyer": false,
+    "hasOM": true,
+    "hasVideo": false,
+    "id": 1639234,
+    "isInOpportunityZone": false,
+    "name": "309.10 Acre Panoche Row Crop",
+    "numberOfGalleryItems": 6,
+    "numberOfImages": 6,
+    "showCountdownAsDate": false,
+    "status": "On-Market",
+    "thumbnailUrl": "https://images.crexi.com/assets/1639234/942a198085824023a1b7971b3103897d_716x444.jpg",
+    "types": [
+      "Land"
+    ],
+    "updatedOn": "2025-04-21T23:54:50Z",
+    "urlSlug": "california-30910-acre-panoche-row-crop",
+    "userIsAssetOwner": false,
+    "hasVirtualTour": false,
+    "recommId": "c7af328b4ae4c7d5db274c4c59680ca2"
+  },
+  {
+    "activatedOn": "2024-08-06T18:44:02Z",
+    "locations": [
+      {
+        "address": "3 Rd 261",
+        "city": "Glendive",
+        "county": "Dawson County",
+        "state": {
+          "code": "MT",
+          "name": "Montana"
+        },
+        "zip": "59330",
+        "latitude": 47.09211417,
+        "longitude": -104.76889055,
+        "fullAddress": "3 Rd 261, Glendive, Dawson County, MT 59330"
+      }
+    ],
+    "askingPrice": 985000.0,
+    "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/62354/a6adfc1407be443982e2e60d3640bfb0_150x100_resize.jpg",
+    "brokerageName": "Montana Listings",
+    "description": "Industrial Investment Opportunity in Glendive, MT FOR SALE | 8.08% CAP",
+    "hasFlyer": true,
+    "hasOM": false,
+    "hasVideo": true,
+    "id": 1639058,
+    "isInOpportunityZone": false,
+    "name": "3 Road 261",
+    "numberOfGalleryItems": 30,
+    "numberOfImages": 29,
+    "squareFootage": 6416,
+    "pricePerSqFt": 153.52,
+    "showCountdownAsDate": false,
+    "status": "On-Market",
+    "thumbnailUrl": "https://images.crexi.com/assets/1639058/415fe47a24964104a1bc458808a10d7f_716x444.jpg",
+    "types": [
+      "Industrial",
+      "Mixed Use"
+    ],
+    "updatedOn": "2025-07-06T17:10:07Z",
+    "urlSlug": "montana-3-road-261",
+    "userIsAssetOwner": false,
+    "hasVirtualTour": true,
+    "recommId": "c7af328b4ae4c7d5db274c4c59680ca2",
+    "tenancy": "Single",
+    "leaseTerm": 7.0,
+    "remainingTerm": 1.4,
+    "capRate": 8.08,
+    "netOperatingIncome": 79560.0
+  },
+  {
+    "activatedOn": "2024-08-06T18:16:48Z",
+    "locations": [
+      {
+        "address": "126 Murray St",
+        "city": "Binghamton",
+        "county": "Broome County",
+        "state": {
+          "code": "NY",
+          "name": "New York"
+        },
+        "zip": "13905",
+        "latitude": 42.1003054,
+        "longitude": -75.9205588,
+        "fullAddress": "126 Murray St, Binghamton, Broome County, NY 13905"
+      }
+    ],
+    "askingPrice": 625000.0,
+    "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/104745/94db7051a927467281cfa8725a60762c_150x100_resize.jpg",
+    "brokerageName": "SVN Innovative Commercial Advisors",
+    "brokerName": "Scott Warren",
+    "fullBrokerageAddress": "520 Columbia Dr, Johnson City, NY",
+    "description": "Multifamily | 4 Units | $156,250/unit",
+    "hasFlyer": false,
+    "hasOM": true,
+    "hasVideo": false,
+    "id": 1639029,
+    "isInOpportunityZone": false,
+    "name": "126 Murray St.",
+    "numberOfGalleryItems": 14,
+    "numberOfImages": 14,
+    "squareFootage": 4914,
+    "pricePerSqFt": 127.19,
+    "numberOfUnits": 4,
+    "showCountdownAsDate": false,
+    "status": "On-Market",
+    "thumbnailUrl": "https://images.crexi.com/assets/1639029/acedaf48fc8c449eb836ee6b4299aa30_716x444.jpg",
+    "types": [
+      "Multifamily"
+    ],
+    "updatedOn": "2025-07-03T18:17:03Z",
+    "urlSlug": "new-york-126-murray-st",
+    "userIsAssetOwner": false,
+    "hasVirtualTour": false,
+    "recommId": "c7af328b4ae4c7d5db274c4c59680ca2",
+    "capRate": 5.89,
+    "netOperatingIncome": 36792.0,
+    "pricePerUnit": 156250.0
+  },
+  {
+    "activatedOn": "2024-07-29T09:25:33Z",
+    "locations": [
+      {
+        "address": "40 Silva Ln",
+        "city": "Dracut",
+        "county": "Middlesex County",
+        "state": {
+          "code": "MA",
+          "name": "Massachusetts"
+        },
+        "zip": "01826",
+        "latitude": 42.6963855,
+        "longitude": -71.2594629,
+        "fullAddress": "40 Silva Ln, Dracut, Middlesex County, MA 01826"
+      }
+    ],
+    "brokerTeamLogoUrl": "https://images.crexi.com/broker-teams/1261/e40f50c283d54e6f87de9f4dcf976b58_150x100_resize.jpg",
+    "brokerageName": "The Stubblebine Company",
+    "description": "12,000 SF Industrial Building Single Tenant Net Lease 100% Occupied",
+    "hasFlyer": false,
+    "hasOM": true,
+    "hasVideo": false,
+    "id": 1630677,
+    "isInOpportunityZone": false,
+    "name": "40 Silva Ln",
+    "numberOfGalleryItems": 1,
+    "numberOfImages": 1,
+    "squareFootage": 12000,
+    "showCountdownAsDate": false,
+    "status": "On-Market",
+    "thumbnailUrl": "https://images.crexi.com/assets/1630677/2b877db2714841e38d06e6ef6e8c18b0_716x444.jpg",
+    "types": [
+      "Industrial"
+    ],
+    "updatedOn": "2025-06-19T13:58:43Z",
+    "urlSlug": "massachusetts-40-silva-ln",
+    "userIsAssetOwner": false,
+    "hasVirtualTour": false,
+    "recommId": "c7af328b4ae4c7d5db274c4c59680ca2",
+    "netOperatingIncome": 142850.0
+  },
+  {
+    "activatedOn": "2024-07-29T11:12:12Z",
+    "locations": [
+      {
+        "address": "2628 19th St NW",
+        "city": "Hueytown",
+        "county": "Jefferson County",
+        "state": {
+          "code": "AL",
+          "name": "Alabama"
+        },
+        "zip": "35023",
+        "latitude": 33.4210612,
+        "longitude": -86.9849295,
+        "fullAddress": "2628 19th St NW, Hueytown, Jefferson County, AL 35023"
+      }
+    ],
+    "askingPrice": 280000.0,
+    "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/2962/69a5db5b14d247be85566b18575f11d9_150x100_resize.jpg",
+    "brokerageName": "Red Rock Realty Group",
+    "description": "Value Add Retail Strip for Purchase",
+    "hasFlyer": true,
+    "hasOM": false,
+    "hasVideo": false,
+    "id": 1630644,
+    "isInOpportunityZone": false,
+    "name": "2628 19th St N",
+    "numberOfGalleryItems": 11,
+    "numberOfImages": 11,
+    "squareFootage": 3138,
+    "numberOfUnits": 4,
+    "showCountdownAsDate": false,
+    "status": "On-Market",
+    "thumbnailUrl": "https://images.crexi.com/assets/1630644/0f86d59755e74eb08fba81ad8932835c_716x444.jpg",
+    "types": [
+      "Retail",
+      "Office"
+    ],
+    "updatedOn": "2025-07-02T15:53:44Z",
+    "urlSlug": "alabama-2628-19th-st-n",
+    "userIsAssetOwner": false,
+    "hasVirtualTour": false,
+    "recommId": "c7af328b4ae4c7d5db274c4c59680ca2",
+    "tenancy": "Multi",
+    "capRate": 0.0
+  }
+]

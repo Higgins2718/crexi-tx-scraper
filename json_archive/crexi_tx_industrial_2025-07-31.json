@@ -1,0 +1,552 @@
+[
+  {
+    "id": 2072769,
+    "name": "6455 Cunninham Rd",
+    "description": "Prime Commercial Property, unlock endless Possibilities.",
+    "thumbnailUrl": "https://images.crexi.com/assets/2072769/6e0c288686be4cb5a1129ad24fe339e2_716x444.jpg",
+    "urlSlug": "texas-6455-cunninham-rd",
+    "brokerageName": "Nan and Company Properties",
+    "activatedOn": "2025-07-31T20:42:26.829Z",
+    "isInOpportunityZone": false,
+    "hasVideo": false,
+    "numberOfGalleryItems": 38,
+    "squareFootage": 22608,
+    "showCountdownAsDate": false,
+    "askingPrice": 1100000000.0,
+    "userIsAssetOwner": false,
+    "updatedOn": "2025-07-31T20:55:14.566Z",
+    "numberOfImages": 38,
+    "types": [
+      "Industrial",
+      "Mixed Use",
+      "Self Storage",
+      "Special Purpose"
+    ],
+    "investmentType": "Owner/User",
+    "hasOM": false,
+    "hasFlyer": true,
+    "status": "On-Market",
+    "hasVirtualTour": false,
+    "locations": [
+      {
+        "address": "6455 Cunningham Rd",
+        "city": "Houston",
+        "county": "Harris County",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "77041",
+        "latitude": 29.8620685,
+        "longitude": -95.580175,
+        "fullAddress": "6455 Cunningham Rd, Houston, Harris County, TX 77041"
+      }
+    ],
+    "isNew": true
+  },
+  {
+    "id": 2072797,
+    "name": "383 Fm 970, Florence, TX 76527, Williamson County",
+    "description": "Industrial | 6,000 SqFt",
+    "thumbnailUrl": "https://images.crexi.com/assets/2072797/6fa70f265ba1408e8be2528ecb1e61f1_716x444.jpg",
+    "urlSlug": "texas-383-fm-970-florence-tx-76527-williamson-county",
+    "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/25167/459f63f7007e466687f6fe6db036409a_150x100_resize.jpg",
+    "brokerageName": "Keller Williams Realty Austin",
+    "activatedOn": "2025-07-31T20:37:28.213Z",
+    "isInOpportunityZone": false,
+    "hasVideo": false,
+    "numberOfGalleryItems": 11,
+    "squareFootage": 6000,
+    "showCountdownAsDate": false,
+    "userIsAssetOwner": false,
+    "updatedOn": "2025-07-31T20:37:28.213Z",
+    "numberOfImages": 11,
+    "types": [
+      "Industrial"
+    ],
+    "hasOM": false,
+    "hasFlyer": true,
+    "status": "On-Market",
+    "hasVirtualTour": false,
+    "locations": [
+      {
+        "address": "383 FM970",
+        "city": "Florence",
+        "county": "Williamson County",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "76527",
+        "latitude": 30.832886846250855,
+        "longitude": -97.7970449918482,
+        "fullAddress": "383 FM970, Florence, Williamson County, TX 76527"
+      }
+    ],
+    "isNew": true
+  },
+  {
+    "id": 2072725,
+    "name": "350 Steeple O Road",
+    "description": "INDUSTRIAL WAREHOUSE/SHOP WITH OFFICE SUITE ON 3AC",
+    "thumbnailUrl": "https://images.crexi.com/assets/2072725/91333273f27544039ebd0bc7b68663d6_716x444.jpg",
+    "urlSlug": "texas-350-steeple-o-road",
+    "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/161724/8f098fd924f64c48b98da4e36d6fa259_150x100_resize.jpg",
+    "brokerageName": "The Prichard Group",
+    "activatedOn": "2025-07-31T20:08:57.688Z",
+    "isInOpportunityZone": false,
+    "hasVideo": false,
+    "numberOfGalleryItems": 13,
+    "squareFootage": 5000,
+    "showCountdownAsDate": false,
+    "askingPrice": 775000.0,
+    "userIsAssetOwner": false,
+    "updatedOn": "2025-07-31T20:08:57.688Z",
+    "numberOfImages": 13,
+    "types": [
+      "Industrial",
+      "Land",
+      "Office"
+    ],
+    "hasOM": true,
+    "hasFlyer": false,
+    "status": "On-Market",
+    "hasVirtualTour": false,
+    "locations": [
+      {
+        "address": "350 Steeple O Road",
+        "city": "Monahans",
+        "county": "Ward",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "79756",
+        "latitude": 31.5383,
+        "longitude": -102.9557899,
+        "fullAddress": "350 Steeple O Road, Monahans, Ward, TX 79756"
+      }
+    ],
+    "isNew": true
+  },
+  {
+    "id": 2072741,
+    "name": "2510 Lipan St",
+    "description": "Prime Industrial Property - Renovated in 2024",
+    "thumbnailUrl": "https://images.crexi.com/assets/2072741/6c31cc174bf84fc49881187f58a63d68_716x444.jpg",
+    "urlSlug": "texas-2510-lipan-st",
+    "brokerTeamLogoUrl": "https://images.crexi.com/brokers/4328/330a5e3645714ad4a67d5090c1d2213f_150x100_resize.jpg",
+    "brokerageName": "Cravey Real Estate Services Inc",
+    "activatedOn": "2025-07-31T20:03:17.319Z",
+    "isInOpportunityZone": false,
+    "hasVideo": false,
+    "numberOfGalleryItems": 19,
+    "squareFootage": 48970,
+    "showCountdownAsDate": false,
+    "userIsAssetOwner": false,
+    "updatedOn": "2025-07-31T20:03:40.604Z",
+    "numberOfImages": 19,
+    "types": [
+      "Industrial"
+    ],
+    "hasOM": false,
+    "hasFlyer": true,
+    "status": "On-Market",
+    "hasVirtualTour": false,
+    "locations": [
+      {
+        "address": "2510 Lipan St",
+        "city": "Corpus Christi",
+        "county": "Nueces County",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "78408",
+        "latitude": 27.79409623546809,
+        "longitude": -97.41845186804899,
+        "fullAddress": "2510 Lipan St, Corpus Christi, Nueces County, TX 78408"
+      }
+    ],
+    "isNew": true
+  },
+  {
+    "id": 2072573,
+    "name": "San Antonio Wholesale Produce Market",
+    "description": "Industrial | 4,000 SqFt",
+    "thumbnailUrl": "https://images.crexi.com/assets/2072573/ced69a25de334fca87c13346aa95c64d_716x444.jpg",
+    "urlSlug": "texas-san-antonio-wholesale-produce-market",
+    "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/71784/a31194365ad2466b80095c9b3c451123_150x100_resize.jpg",
+    "brokerageName": "Texas Tu Casa",
+    "activatedOn": "2025-07-31T18:13:47.436Z",
+    "isInOpportunityZone": false,
+    "hasVideo": false,
+    "numberOfGalleryItems": 11,
+    "squareFootage": 4000,
+    "showCountdownAsDate": false,
+    "askingPrice": 840000.0,
+    "userIsAssetOwner": false,
+    "updatedOn": "2025-07-31T18:13:47.436Z",
+    "numberOfImages": 11,
+    "types": [
+      "Industrial"
+    ],
+    "investmentType": "Owner/User",
+    "hasOM": false,
+    "hasFlyer": true,
+    "status": "On-Market",
+    "hasVirtualTour": false,
+    "locations": [
+      {
+        "address": "9342 SE Loop 410 Acc Rd.",
+        "city": "San Antonio",
+        "county": "Bexar",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "78223",
+        "latitude": 29.3227714,
+        "longitude": -98.4268496,
+        "fullAddress": "9342 SE Loop 410 Acc Rd., San Antonio, Bexar, TX 78223"
+      }
+    ],
+    "isNew": true
+  },
+  {
+    "id": 764839,
+    "name": "Income Producing 4.7 Acres Southside Corpus Christi",
+    "description": "Industrial | 422,532 SqFt",
+    "thumbnailUrl": "https://images.crexi.com/assets/764839/4f8a294f50d847b89a2e25ec0303b974_716x444.jpg",
+    "urlSlug": "texas-income-producing-47-acres-southside-corpus-christi",
+    "brokerageName": "Garron Dean & Associates",
+    "activatedOn": "2025-07-31T17:48:01.656Z",
+    "isInOpportunityZone": false,
+    "hasVideo": false,
+    "numberOfGalleryItems": 8,
+    "squareFootage": 422532,
+    "showCountdownAsDate": false,
+    "userIsAssetOwner": false,
+    "updatedOn": "2025-07-31T17:50:07.617Z",
+    "numberOfImages": 8,
+    "types": [
+      "Industrial"
+    ],
+    "hasOM": false,
+    "hasFlyer": true,
+    "status": "On-Market",
+    "hasVirtualTour": false,
+    "locations": [
+      {
+        "address": "5568-5570 Ayers St",
+        "city": "Corpus Christi",
+        "county": "Nueces County",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "78415",
+        "latitude": 27.72669541320977,
+        "longitude": -97.43276818273797,
+        "fullAddress": "5568-5570 Ayers St, Corpus Christi, Nueces County, TX 78415"
+      }
+    ],
+    "isNew": true
+  },
+  {
+    "id": 2070291,
+    "name": "19742 Carver Ave",
+    "description": "New Construction | 10,350 SF",
+    "thumbnailUrl": "https://images.crexi.com/assets/2070291/44ef0296927a43c798139f157653863b_716x444.jpg",
+    "urlSlug": "texas-19742-carver-ave",
+    "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/12686/b9216cce86394fbd8e73bdcfa0bc9705_150x100_resize.jpg",
+    "brokerageName": "Partners",
+    "activatedOn": "2025-07-31T16:15:42.504Z",
+    "isInOpportunityZone": false,
+    "hasVideo": false,
+    "numberOfGalleryItems": 14,
+    "squareFootage": 10350,
+    "showCountdownAsDate": false,
+    "userIsAssetOwner": false,
+    "updatedOn": "2025-07-31T16:20:09.282Z",
+    "numberOfImages": 14,
+    "types": [
+      "Industrial"
+    ],
+    "hasOM": false,
+    "hasFlyer": true,
+    "status": "On-Market",
+    "hasVirtualTour": false,
+    "locations": [
+      {
+        "address": "19742 Carver Ave",
+        "city": "Humble",
+        "county": "Harris County",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "77338",
+        "latitude": 30.0059466,
+        "longitude": -95.2935212,
+        "fullAddress": "19742 Carver Ave, Humble, Harris County, TX 77338"
+      }
+    ],
+    "isNew": true
+  },
+  {
+    "id": 2071980,
+    "name": "517 S Oregon St",
+    "description": "Retail | 6,600 SqFt",
+    "thumbnailUrl": "https://images.crexi.com/assets/2071980/9fd2bc6b4fb74b20800f0f4c07f80aee_716x444.jpg",
+    "urlSlug": "texas-517-s-oregon-st",
+    "brokerTeamLogoUrl": "https://images.crexi.com/broker-teams/1347/3975fb44a91f4b998ffcdfcaf7b481e6_150x100_resize.jpg",
+    "brokerageName": "RJL Real Estate Consultants",
+    "activatedOn": "2025-07-31T16:08:01.714Z",
+    "isInOpportunityZone": false,
+    "hasVideo": false,
+    "numberOfGalleryItems": 8,
+    "squareFootage": 6600,
+    "showCountdownAsDate": false,
+    "askingPrice": 400000.0,
+    "userIsAssetOwner": false,
+    "updatedOn": "2025-07-31T16:14:24.021Z",
+    "numberOfImages": 8,
+    "types": [
+      "Retail",
+      "Industrial"
+    ],
+    "hasOM": false,
+    "hasFlyer": true,
+    "status": "On-Market",
+    "hasVirtualTour": false,
+    "locations": [
+      {
+        "address": "517 S Oregon St",
+        "city": "El Paso",
+        "county": "El Paso County",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "79901",
+        "latitude": 31.7537896,
+        "longitude": -106.4869443,
+        "fullAddress": "517 S Oregon St, El Paso, El Paso County, TX 79901"
+      }
+    ],
+    "isNew": true
+  },
+  {
+    "id": 2072383,
+    "name": "307 N State Highway 342, Red Oak",
+    "description": "Industrial | 3,000 SqFt",
+    "thumbnailUrl": "https://images.crexi.com/assets/2072383/f074c5a88da948a5bd8b608ca9704886_716x444.jpg",
+    "urlSlug": "texas-307-n-state-highway-342-red-oak",
+    "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/28603/e5806b67e62b48c885c3826dafc0779b_150x100_resize.jpg",
+    "brokerageName": "Keller Williams Realty Fort Worth",
+    "activatedOn": "2025-07-31T15:52:41.342Z",
+    "isInOpportunityZone": false,
+    "hasVideo": false,
+    "numberOfGalleryItems": 51,
+    "squareFootage": 3000,
+    "showCountdownAsDate": false,
+    "askingPrice": 499000.0,
+    "userIsAssetOwner": false,
+    "updatedOn": "2025-07-31T17:18:07.738Z",
+    "numberOfImages": 51,
+    "types": [
+      "Industrial",
+      "Mixed Use"
+    ],
+    "hasOM": false,
+    "hasFlyer": true,
+    "status": "On-Market",
+    "hasVirtualTour": false,
+    "locations": [
+      {
+        "address": "307 TX-342",
+        "city": "Red Oak",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "75154",
+        "latitude": 32.518855352584325,
+        "longitude": -96.79946218031147,
+        "fullAddress": "307 TX-342, Red Oak, TX 75154"
+      }
+    ],
+    "isNew": true
+  },
+  {
+    "id": 2072319,
+    "name": "2200 5TH",
+    "description": "Industrial | 30,625 SqFt",
+    "thumbnailUrl": "https://images.crexi.com/assets/2072319/3bdfd0dc09224b9095b1b935e6bfc9fc_716x444.jpg",
+    "urlSlug": "texas-2200-5th",
+    "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/37429/7c8034d741824ccb8d427750f6fed5f9_150x100_resize.jpg",
+    "brokerageName": "Domain Real Estate Services Inc",
+    "activatedOn": "2025-07-31T15:05:06.129Z",
+    "isInOpportunityZone": false,
+    "hasVideo": false,
+    "numberOfGalleryItems": 32,
+    "squareFootage": 30625,
+    "showCountdownAsDate": false,
+    "askingPrice": 1195000.0,
+    "userIsAssetOwner": false,
+    "updatedOn": "2025-07-31T18:45:37.702Z",
+    "numberOfImages": 32,
+    "types": [
+      "Industrial"
+    ],
+    "investmentType": "Owner/User",
+    "hasOM": false,
+    "hasFlyer": true,
+    "status": "On-Market",
+    "hasVirtualTour": false,
+    "locations": [
+      {
+        "address": "2200 5th St",
+        "city": "WICHITA FALLS",
+        "county": "Wichita",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "76301",
+        "latitude": 33.90984680089554,
+        "longitude": -98.51262357813361,
+        "fullAddress": "2200 5th St, WICHITA FALLS, Wichita, TX 76301"
+      }
+    ],
+    "isNew": true
+  },
+  {
+    "id": 2072327,
+    "name": "Former Lone Star Event Center",
+    "description": "Industrial | 12,000 SqFt",
+    "thumbnailUrl": "https://images.crexi.com/assets/2072327/f82baf88625f4e32816a854302ce7bd1_716x444.jpg",
+    "urlSlug": "texas-former-lone-star-event-center",
+    "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/2251/9bb7146654ba4b3a919cd1cf229e4d31_150x100_resize.jpg",
+    "brokerageName": "Burns Commercial Properties",
+    "activatedOn": "2025-07-31T14:38:29.172Z",
+    "isInOpportunityZone": false,
+    "hasVideo": false,
+    "numberOfGalleryItems": 11,
+    "squareFootage": 12000,
+    "showCountdownAsDate": false,
+    "askingPrice": 1150000.0,
+    "userIsAssetOwner": false,
+    "updatedOn": "2025-07-31T14:38:29.172Z",
+    "numberOfImages": 11,
+    "types": [
+      "Industrial",
+      "Land"
+    ],
+    "hasOM": false,
+    "hasFlyer": true,
+    "status": "On-Market",
+    "hasVirtualTour": false,
+    "locations": [
+      {
+        "address": "4036 FM 2767",
+        "city": "Tyler",
+        "county": "Smith County",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "75708",
+        "latitude": 32.3530803,
+        "longitude": -95.2600437,
+        "fullAddress": "4036 FM 2767, Tyler, Smith County, TX 75708"
+      }
+    ],
+    "isNew": true
+  },
+  {
+    "id": 2070694,
+    "name": "204 N WW White",
+    "description": "Office | 55,628 SqFt",
+    "thumbnailUrl": "https://images.crexi.com/assets/2070694/faf045af2e184675a8bb7244121364b8_716x444.jpg",
+    "urlSlug": "texas-204-n-ww-white",
+    "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/70555/fc86dd3595434677a8b1c7c13fbc24e3_150x100_resize.jpg",
+    "brokerageName": "CBRE - San Antonio",
+    "activatedOn": "2025-07-31T13:57:29.045Z",
+    "isInOpportunityZone": false,
+    "hasVideo": false,
+    "numberOfGalleryItems": 7,
+    "squareFootage": 55628,
+    "showCountdownAsDate": false,
+    "userIsAssetOwner": false,
+    "updatedOn": "2025-07-31T13:57:29.045Z",
+    "numberOfImages": 7,
+    "types": [
+      "Office",
+      "Industrial"
+    ],
+    "hasOM": true,
+    "hasFlyer": false,
+    "status": "On-Market",
+    "hasVirtualTour": false,
+    "locations": [
+      {
+        "address": "204 N WW White",
+        "city": "San Antonio",
+        "county": "Bexar County",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "78219",
+        "latitude": 29.4339575,
+        "longitude": -98.4044916,
+        "fullAddress": "204 N WW White, San Antonio, Bexar County, TX 78219"
+      }
+    ],
+    "isNew": true
+  },
+  {
+    "id": 2071819,
+    "name": "Warehouse-2706 S County Rd 1206, Midland, TX 79706",
+    "description": "Industrial | 10,300 SqFt",
+    "thumbnailUrl": "https://images.crexi.com/assets/2071819/6f4747c6d6694f06a1e96018ccf2ab65_716x444.jpg",
+    "urlSlug": "texas-warehouse-2706-s-county-rd-1206-midland-tx-79706",
+    "brokerageName": "Strahan Commercial Properties",
+    "activatedOn": "2025-07-30T21:47:47.85Z",
+    "isInOpportunityZone": false,
+    "hasVideo": false,
+    "numberOfGalleryItems": 9,
+    "squareFootage": 10300,
+    "showCountdownAsDate": false,
+    "userIsAssetOwner": false,
+    "updatedOn": "2025-07-30T21:47:47.85Z",
+    "numberOfImages": 9,
+    "types": [
+      "Industrial",
+      "Mixed Use",
+      "Special Purpose"
+    ],
+    "hasOM": false,
+    "hasFlyer": true,
+    "status": "On-Market",
+    "hasVirtualTour": false,
+    "locations": [
+      {
+        "address": "2706 S County Rd 1206, Midland, TX 79706",
+        "city": "Midland",
+        "county": "Midland",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "79706",
+        "latitude": 31.963048935962608,
+        "longitude": -102.09918232350016,
+        "fullAddress": "2706 S County Rd 1206, Midland, TX 79706, Midland, Midland, TX 79706"
+      }
+    ],
+    "isNew": true
+  }
+]
