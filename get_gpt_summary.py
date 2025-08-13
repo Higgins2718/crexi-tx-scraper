@@ -4,7 +4,7 @@ from openai import OpenAI
 from datetime import datetime
 
 
-API_KEY = "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"
+API_KEY = "api key here"
 
 try:
     # Set your API key
