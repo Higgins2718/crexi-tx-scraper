@@ -23,10 +23,10 @@ jiter==0.10.0
 markdown-it-py==3.0.0
 MarkupSafe==3.0.2
 mdurl==0.1.2
-numpy==2.3.1
+numpy==2.2.6
 openai==1.98.0
 pandas==2.3.1
-playwright==1.53.0
+playwright==1.55.0
 playwright-stealth==2.0.0
 pyarrow==20.0.0
 pydantic==2.11.7

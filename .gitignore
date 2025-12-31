@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.pkl
+*.log
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+junk/
+misc/
+templates/
+user_data/
+json_archive/
+webapp/
+
+# Virtual env
+.venv/
+venv/
+ENV/
+env/
+.env
+.env.*
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Local data outputs
+databases/
+*.duckdb
+*.duckdb.wal
+*.duckdb.tmp
+
+# Scrape outputs
+crexi_tx_industrial_*.json
+
+
